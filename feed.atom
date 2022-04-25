@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>urn:2022-04-25T13:45:29.986Z</id>
+    <title>osmos::feed</title>
+    <updated>2022-04-25T13:45:29.986Z</updated>
+    <generator>osmosfeed 1.14.4</generator>
+    <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What If Our Sliders Actually Slid?]]></title>
+        <id>https://smashingmagazine.com/2022/04/what-if-sliders-actually-slid-html-element-input-range/</id>
+        <link href="https://smashingmagazine.com/2022/04/what-if-sliders-actually-slid-html-element-input-range/"/>
+        <updated>2022-04-25T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Jhey Tompkins explores putting an impractical whimsical spin on a well-known native element ``.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Writing Strong Front-end Test Element Locators]]></title>
+        <id>https://css-tricks.com/?p=364218</id>
+        <link href="https://css-tricks.com/front-end-test-element-locators/"/>
+        <updated>2022-04-22T18:45:38.000Z</updated>
+        <summary type="html"><![CDATA[Automated front-end tests are awesome. We can write a test with code to visit a page — or load up just a single component — and have that test code click on things or type text like a user would, …
+Writing Strong Front-end Test Element Locators originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Mark Noonan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Testing The CLI The Way People Use It]]></title>
+        <id>https://smashingmagazine.com/2022/04/testing-cli-way-people-use-it/</id>
+        <link href="https://smashingmagazine.com/2022/04/testing-cli-way-people-use-it/"/>
+        <updated>2022-04-22T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wondered, why do people write CLI tools? When is a good time to think about yours? Today we’ll touch on these questions, along with some tips to remember when creating one. However, all of this serves as a prelude to the real topic: end-to-end testing of CLI tools.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Georgy Marchuk)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[502 Bad Gateway Error [Solved]]]></title>
+        <id>62615f82ac55f60686c39ef9</id>
+        <link href="https://www.freecodecamp.org/news/502-bad-gateway-error-solved/"/>
+        <updated>2022-04-22T00:45:26.000Z</updated>
+        <summary type="html"><![CDATA[You can get a 502 bad gateway error when there's a problem with the server of the website you are trying to connect to. In more technical terms, the “502” in the error is an HTTP status code which indicates that one server received an invalid response from another server.]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Become a Better Programmer – Use a Skill-Building Planner]]></title>
+        <id>62616030ac55f60686c39f0f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-become-a-better-programmer-use-a-skill-building-planner/"/>
+        <updated>2022-04-22T00:23:21.000Z</updated>
+        <summary type="html"><![CDATA[Many programmers are missing out on a simple way to improve their programming progress.  Just think of athletes, entrepreneurs, students, health-nuts, and travelers. They’re among the diverse groups of people who use a planner. Planners are often used to give productivity a boost in order to stay organized and]]></summary>
+        <author>
+            <name>Amy Haddad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn How to Use JavaScript Arrays by Building an iPhone Product Page]]></title>
+        <id>625e8cfaac55f60686c37f21</id>
+        <link href="https://www.freecodecamp.org/news/learn-javascript-arrays-by-building-product-page/"/>
+        <updated>2022-04-22T00:10:02.000Z</updated>
+        <summary type="html"><![CDATA[I had the idea for this tutorial while browsing the official iPhone website. Apple is known for its great products and impeccable design, and if you spend enough time checking out its website, you can learn a thing or two about branding and great design.  One of the things]]></summary>
+        <author>
+            <name>Samuel A. Olubiyo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Contribute to Open-Source Projects – A Beginner's Guide]]></title>
+        <id>624e7b3eac55f60686c2f0b8</id>
+        <link href="https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects/"/>
+        <updated>2022-04-21T23:38:34.000Z</updated>
+        <summary type="html"><![CDATA[If you've been considering contributing to an open source project, you might be weighing the pros and cons of doing so. You might hear things like open-source projects won't help you grow. Or they can't change your career trajectory. And that your contributions definitely won’t add to your portfolio. If]]></summary>
+        <author>
+            <name>Ankita Tripathi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Should You Move to the Cloud? Advantages of Cloud Computing Explained]]></title>
+        <id>623422f3cdcd57069ddfade9</id>
+        <link href="https://www.freecodecamp.org/news/advantages-of-cloud-computing/"/>
+        <updated>2022-04-21T22:27:23.000Z</updated>
+        <summary type="html"><![CDATA[The term cloud computing refers to software and services that run on the internet instead of locally on your on-site server or computer. Adopting the cloud can help you and your team cut costs and ensure that your data and systems are available to your customers anywhere and at any]]></summary>
+        <author>
+            <name>Davis David</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Colaboratory – How to Run Python Code in Your Google Drive]]></title>
+        <id>625df1a2ac55f60686c37b2d</id>
+        <link href="https://www.freecodecamp.org/news/google-colaboratory-python-code-in-your-google-drive/"/>
+        <updated>2022-04-21T19:56:02.000Z</updated>
+        <summary type="html"><![CDATA[The Google Colaboratory (“Colab”) is a notebook (like a Jupyter Notebook) where you can run Python code in your Google Drive.  You can write text, write code, run that code, and see the output – all in line in the same notebook.  Benefits of Google Colab Sharing notebooks]]></summary>
+        <author>
+            <name>Ed Pratowski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Firmware? Definition and Examples]]></title>
+        <id>6223b106c4d0d306772f4b41</id>
+        <link href="https://www.freecodecamp.org/news/what-is-firmware/"/>
+        <updated>2022-04-21T18:40:08.000Z</updated>
+        <summary type="html"><![CDATA[Did you know that firmware is literally everywhere? It might be strange to think about – but it's just as common as hardware and software. In fact, it is thanks to firmware that:  * Printers work  * Defibrillators work  * Car radios works  * and more]]></summary>
+        <author>
+            <name>Tiago Monteiro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Remove a Property from a JavaScript Object]]></title>
+        <id>6260bd7bac55f60686c39b14</id>
+        <link href="https://www.freecodecamp.org/news/how-to-remove-a-property-from-a-javascript-object/"/>
+        <updated>2022-04-21T17:48:33.000Z</updated>
+        <summary type="html"><![CDATA[There are two ways to remove a property from a JavaScript object. There's the mutable way of doing it using the delete operator, and the immutable way of doing it using object restructuring.  Let's go through each of these methods in this tutorial. Remove a Property from a JS]]></summary>
+        <author>
+            <name>Saransh Kataria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing Better Navigation With Navigation Queries]]></title>
+        <id>https://smashingmagazine.com/2022/04/designing-better-navigation-ux-queries/</id>
+        <link href="https://smashingmagazine.com/2022/04/designing-better-navigation-ux-queries/"/>
+        <updated>2022-04-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In UX, we can use navigation queries, evaluation journeys, A-Z index and tap-ahead autocomplete to help users get where they want to be, faster. Let’s find out how.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Your Own Blog with Next.js and MDX]]></title>
+        <id>625b6643ac55f60686c36806</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-your-own-blog-with-next-js-and-mdx/"/>
+        <updated>2022-04-21T02:28:29.000Z</updated>
+        <summary type="html"><![CDATA[When I decided to build my blog, I found many tools out there that were readily available. I looked at Gastby [https://www.gatsbyjs.com/] along with content management systems like Ghost [https://ghost.org/], Contentful [https://www.contentful.com/], Sanity dot io [https://www.sanity.io/], and HUGO [https://gohugo.io/].  But I needed something that I could have total control]]></summary>
+        <author>
+            <name>Caleb Olojo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is FTP? File Transfer Protocol and FTP Server Meaning]]></title>
+        <id>625eae40ac55f60686c381d2</id>
+        <link href="https://www.freecodecamp.org/news/what-is-ftp-file-transfer-protocol-and-ftp-server-meaning/"/>
+        <updated>2022-04-21T01:01:16.000Z</updated>
+        <summary type="html"><![CDATA[FTP stands for File Transfer Protocol. This is a network/communication protocol for transferring files between computers over a TCP/IP (Transmission Control Protocol/Internet Protocol) network.  Examples of TCP/IP networks are:  * HTTP (Hypertext Transfer Protocol).  * HTTPS (Hypertext Transfer Protocol Secure).  * FTP (File Transfer Protocol). How]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adding Tailwind CSS to New and Existing WordPress Themes]]></title>
+        <id>https://css-tricks.com/?p=364880</id>
+        <link href="https://css-tricks.com/adding-tailwind-css-to-wordpress-themes/"/>
+        <updated>2022-04-20T15:30:29.000Z</updated>
+        <summary type="html"><![CDATA[In the 15 or so years since I started making WordPress websites, nothing has had more of an impact on my productivity — and my ability to enjoy front-end development — than adding Tailwind CSS to my workflow (and it …
+Adding Tailwind CSS to New and Existing WordPress Themes originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Greg Sullivan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Productivity Tips And Tools For A More Efficient Workflow]]></title>
+        <id>https://smashingmagazine.com/2022/04/productivity-tips-tools/</id>
+        <link href="https://smashingmagazine.com/2022/04/productivity-tips-tools/"/>
+        <updated>2022-04-20T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Who doesn’t love a good timesaver? In this post, we compiled useful productivity tips and tools that help you speed up routine tasks, enhance your development workflow, and stay organized.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jamstack Rendering Patterns: The Evolution]]></title>
+        <id>https://smashingmagazine.com/2022/04/jamstack-rendering-patterns-evolution/</id>
+        <link href="https://smashingmagazine.com/2022/04/jamstack-rendering-patterns-evolution/"/>
+        <updated>2022-04-19T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Ekene Eze shares his thoughts about the direction of the web in 2022, and what solutions we can expect to see come up in the ecosystem to significantly improve the Jamstack experience.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ekene Eze)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making Mermaid Diagrams in Markdown]]></title>
+        <id>https://css-tricks.com/?p=364908</id>
+        <link href="https://css-tricks.com/making-mermaid-diagrams-in-markdown/"/>
+        <updated>2022-04-18T16:01:08.000Z</updated>
+        <summary type="html"><![CDATA[Mermaid diagrams and flowcharts have been gaining traction, especially with GitHub’s announcement that they are natively supported in Markdown. Let’s take a look at what they are, how to use them, and just as importantly: why.
+Just like you …
+Making Mermaid Diagrams in Markdown originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Paul Esch-Laurent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ultimate Guide To Push Notifications For Developers]]></title>
+        <id>https://smashingmagazine.com/2022/04/guide-push-notifications-developers/</id>
+        <link href="https://smashingmagazine.com/2022/04/guide-push-notifications-developers/"/>
+        <updated>2022-04-18T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[What are the benefits of using push notifications and what can you use them for? In this article, Lee Munroe explains how to implement them and which practices are best to follow.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Lee Munroe)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Use Storytelling In UX]]></title>
+        <id>https://smashingmagazine.com/2022/04/use-storytelling-ux/</id>
+        <link href="https://smashingmagazine.com/2022/04/use-storytelling-ux/"/>
+        <updated>2022-04-15T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Storytelling is a powerful tool for any UX designer. It helps create a product and understand the people who use it. In this article, Marli Mesibov takes a real-life example of an app she helped to build in 2017 and explains five steps you can use to help you build a story into your user experience.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Marli Mesibov)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When And How To Use Freelancers In Your Organization]]></title>
+        <id>https://smashingmagazine.com/2022/04/upwork-freelancers-organization/</id>
+        <link href="https://smashingmagazine.com/2022/04/upwork-freelancers-organization/"/>
+        <updated>2022-04-14T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Whether you work in-house or run a digital agency, there are occasions when you will consider hiring freelancers to supplement your team. Today, we’ll take a look into a platform known as [Upwork](https://upwork.pxf.io/c/1221738/1245573/13634) and the best ways in finding the the right freelancers as well as integrating them into your team.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Boag)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing A Better Carousel UX]]></title>
+        <id>https://smashingmagazine.com/2022/04/designing-better-carousel-ux/</id>
+        <link href="https://smashingmagazine.com/2022/04/designing-better-carousel-ux/"/>
+        <updated>2022-04-13T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Carousels don’t have a good reputation, and rightfully so. But we can make them more useful. **Best practices and guidelines** to improve the carousel design with honest scrolling direction, labels, thumbnails and grouped prev/next-buttons.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add a CSS Lens Flare to Photos for a Bright Touch]]></title>
+        <id>https://css-tricks.com/?p=364385</id>
+        <link href="https://css-tricks.com/add-a-css-lens-flare-to-photos-for-a-bright-touch/"/>
+        <updated>2022-04-12T17:10:13.000Z</updated>
+        <summary type="html"><![CDATA[I’m a big fan of movies by J.J. Abrams. I enjoy their tight plots, quippy dialog, and of course: anamorphic lens flares. Filmmakers like Abrams use lens flare to add a dash of ‘homemade’ realism to their movies, …
+Add a CSS Lens Flare to Photos for a Bright Touch originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Shimin Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Around The Artifacts Of Design Systems (Case Study)]]></title>
+        <id>https://smashingmagazine.com/2022/04/artifacts-design-systems/</id>
+        <link href="https://smashingmagazine.com/2022/04/artifacts-design-systems/"/>
+        <updated>2022-04-12T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Like many things, a design system isn’t ever a finished thing — it’s a journey. How we go about that journey can affect the things we produce along the way. Before diving in and starting to plan anything out, be clear about where the benefits and the risks might lie.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Dan Donald)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boost Resource Loading With fetchpriority, A New Priority Hint]]></title>
+        <id>https://smashingmagazine.com/2022/04/boost-resource-loading-new-priority-hint-fetchpriority/</id>
+        <link href="https://smashingmagazine.com/2022/04/boost-resource-loading-new-priority-hint-fetchpriority/"/>
+        <updated>2022-04-11T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[This new attribute will enable us to fine-tune relative resource priority, improve LCP performance, deprioritize JavaScript fetch calls, and much more. Let’s check out fetchpriority and explore some potential use cases.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamic Data-Fetching In An Authenticated Next.js App]]></title>
+        <id>https://smashingmagazine.com/2022/04/dynamic-data-fetching-authenticated-nextjs-app/</id>
+        <link href="https://smashingmagazine.com/2022/04/dynamic-data-fetching-authenticated-nextjs-app/"/>
+        <updated>2022-04-08T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Data is among the most important things that make up a web application or a conventional native app. We need data to be able to see and perhaps understand the purpose of an application. In this article, we’ll look at another approach to obtaining data in an application that requires authentication or authorization using Next.js.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Caleb Olojo)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing Better Breadcrumbs]]></title>
+        <id>https://smashingmagazine.com/2022/04/designing-better-breadcrumbs/</id>
+        <link href="https://smashingmagazine.com/2022/04/designing-better-breadcrumbs/"/>
+        <updated>2022-04-06T14:20:00.000Z</updated>
+        <summary type="html"><![CDATA[In this series of articles, we highlight design patterns and techniques to design better interfaces. You can also find more examples in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 6h-video course with 100s of hand-picked examples, curated by Vitaly.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Devs For Ukraine, A Free Online Charity Conference 🇺🇦]]></title>
+        <id>https://smashingmagazine.com/2022/04/devs-for-ukraine/</id>
+        <link href="https://smashingmagazine.com/2022/04/devs-for-ukraine/"/>
+        <updated>2022-04-06T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[[Devs For Ukraine](https://www.devsforukraine.io/) is a free online charity conference organized by the lovely people at Remote. Two days filled with talks from engineering leaders around the globe, in support of Ukraine. April 25–26.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Get Work Done: Wrangling Stakeholders And Overcoming Obstacles]]></title>
+        <id>https://smashingmagazine.com/2022/04/stakeholders-overcoming-obstacles/</id>
+        <link href="https://smashingmagazine.com/2022/04/stakeholders-overcoming-obstacles/"/>
+        <updated>2022-04-05T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Whether you work in-house or for an external agency, we all share one challenge — dealing with stakeholders, be they your boss, colleagues, or clients. In this post, veteran web designer Paul Boag shares his approach to getting things done in even the most challenging organizations.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Boag)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adding CDN Caching to a Vite Build]]></title>
+        <id>https://css-tricks.com/?p=364166</id>
+        <link href="https://css-tricks.com/adding-cdn-caching-to-a-vite-build/"/>
+        <updated>2022-04-04T18:25:23.000Z</updated>
+        <summary type="html"><![CDATA[Content delivery networks, or CDNs, allow you to improve the delivery of your website’s static resources, most notably, with CDN caching. They do this by serving your content from edge locations, which are located all over the world. When a …
+Adding CDN Caching to a Vite Build originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Adam Rackis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Build A Progressively Enhanced, Accessible, Filterable And Paginated List]]></title>
+        <id>https://smashingmagazine.com/2022/04/accessible-filterable-paginated-list-11ty-alpinejs/</id>
+        <link href="https://smashingmagazine.com/2022/04/accessible-filterable-paginated-list-11ty-alpinejs/"/>
+        <updated>2022-04-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ever wondered how to build a paginated list that works with and without JavaScript? In this article, Manuel explains how you can leverage the power of Progressive Enhancement and do just that with Eleventy and Alpine.js.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Manuel Matuzović)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The What, When, Why And How Of Next.js’ New Middleware Feature]]></title>
+        <id>https://smashingmagazine.com/2022/04/next-js-middleware-feature/</id>
+        <link href="https://smashingmagazine.com/2022/04/next-js-middleware-feature/"/>
+        <updated>2022-04-01T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Next.js’ recent 12.0 release included a new beta feature: middleware. For a detailed explanation, you can read all about it in Sam’s previous article, “[Next.js Wildcard Subdomains](https://www.smashingmagazine.com/2021/11/nextjs-wildcard-subdomains/)”. This article, on the other hand, dives into the overall concept of middleware and how handy it can be in building things.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Sam Poder)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Time For Reflection (April 2022 Desktop Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2022/03/desktop-wallpaper-calendars-april-2022/</id>
+        <link href="https://smashingmagazine.com/2022/03/desktop-wallpaper-calendars-april-2022/"/>
+        <updated>2022-03-31T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Let’s welcome the new month with some new wallpapers. Designed with love by artists and designers from across the globe, they are available in versions with and without a calendar for April 2022.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tricks to Cut Corners Using CSS Mask and Clip-Path Properties]]></title>
+        <id>https://css-tricks.com/?p=364279</id>
+        <link href="https://css-tricks.com/cut-corners-using-css-mask-and-clip-path-properties/"/>
+        <updated>2022-03-30T16:35:08.000Z</updated>
+        <summary type="html"><![CDATA[We recently covered creating fancy borders with CSS mask properties, and now we are going to cut the corners with CSS mask and clip-path! A lot of techniques exist to cut different shapes from the corners of any element. …
+Tricks to Cut Corners Using CSS Mask and Clip-Path Properties originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing A Better Infinite Scroll]]></title>
+        <id>https://smashingmagazine.com/2022/03/designing-better-infinite-scroll/</id>
+        <link href="https://smashingmagazine.com/2022/03/designing-better-infinite-scroll/"/>
+        <updated>2022-03-30T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Best practices and guidelines to improve the UX of infinite scroll with bookmarks, footer reveal and pagination.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SmashingConf Is Back In 2022]]></title>
+        <id>https://smashingmagazine.com/2022/03/smashingconf-workshops-conferences-2022/</id>
+        <link href="https://smashingmagazine.com/2022/03/smashingconf-workshops-conferences-2022/"/>
+        <updated>2022-03-29T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[After two years when almost everything moved online, 2022 marks the return of in-person conferences. In fact, [SmashingConf is back](https://smashingconf.com/conferences): coming to  San Francisco and Austin in June, Freiburg (Germany) in September, and New York in October.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Jarijn Nijkamp)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jobs For Designers And Developers Affected By The War In Ukraine 🇺🇦]]></title>
+        <id>https://smashingmagazine.com/2022/03/jobs-designers-developers-war-ukraine/</id>
+        <link href="https://smashingmagazine.com/2022/03/jobs-designers-developers-war-ukraine/"/>
+        <updated>2022-03-29T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Are you a designer or developer affected by the war in Ukraine? Here are some options to consider if you’re looking for a design or tech job.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6 Useful Bookmarklets to Boost Web Development]]></title>
+        <id>https://css-tricks.com/?p=364118</id>
+        <link href="https://css-tricks.com/web-development-bookmarklets/"/>
+        <updated>2022-03-28T18:15:41.000Z</updated>
+        <summary type="html"><![CDATA[A bookmarklet is a JavaScript-based bookmark that adds to a web browser. I’d like to show you some awesome web browser hacks to aid your web development workflow and how to convert those hacks into time-saving bookmarklets.
+Activating design mode
+…
+6 Useful Bookmarklets to Boost Web Development originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Guide To Hover And Pointer Media Queries]]></title>
+        <id>https://smashingmagazine.com/2022/03/guide-hover-pointer-media-queries/</id>
+        <link href="https://smashingmagazine.com/2022/03/guide-hover-pointer-media-queries/"/>
+        <updated>2022-03-28T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we’ll talk about how to adapt our sites to the different scenarios of a device pointer: whether it has a pointer or not, or how accurate it is. To adapt our site to those devices’ needs we’ll talk about how to properly use media queries `hover`, `pointer`, `any-hover` and `any-pointer`.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cristian Díaz)</name>
+        </author>
+    </entry>
+</feed>
