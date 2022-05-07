@@ -12,12 +12,22 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=365614",
+          "author": "John Siciliano",
+          "description": "Let’s say you have a website built on a platform that excels at design and it’s available at example.com. But that platform falls short at blogging. So you think to yourself, “What if I could use a different blogging …\nHow to Serve a Subdomain as a Subdirectory originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/how-to-serve-a-subdomain-as-a-subdirectory/",
+          "publishedOn": "2022-05-06T14:19:44.000Z",
+          "wordCount": 2107,
+          "title": "How to Serve a Subdomain as a Subdirectory",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365614"
+        },
+        {
           "id": "https://css-tricks.com/?p=365510",
           "author": "Adam Rackis",
           "description": "So, you’ve decided to build a blog with Next.js. Like any dev blogger, you’d like to have code snippets in your posts that are formatted nicely with syntax highlighting. Perhaps you also want to display line numbers in the …\nSyntax Highlighting (and More!) With Prism on a Static Site originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/syntax-highlighting-prism-on-a-next-js-site/",
           "publishedOn": "2022-05-04T14:16:43.000Z",
-          "wordCount": 2726,
+          "wordCount": 2877,
           "title": "Syntax Highlighting (and More!) With Prism on a Static Site",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365510"
         },
@@ -37,7 +47,7 @@
           "description": "In design, reflections are stylized mirror images of objects. Even though they are not as popular as shadows, they have their moments — just think about the first time you explored the different font formats in MS Word or PowerPoint: …\nCreating Realistic Reflections With CSS originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/creating-realistic-reflections-with-css/",
           "publishedOn": "2022-05-02T14:14:07.000Z",
-          "wordCount": 1121,
+          "wordCount": 1159,
           "title": "Creating Realistic Reflections With CSS",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365491"
         },
@@ -129,9 +139,24 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/05/give-effective-feedback-remotely/",
+          "author": "hello@smashingmagazine.com (Joshua Mauldin)",
+          "description": "Let’s explore how to give and receive better feedback when working remotely — feedback that is actionable, specific, kind, and that won’t set you on edge. We’ll start by explaining when feedback sessions don’t work and how to prevent it.",
+          "link": "https://smashingmagazine.com/2022/05/give-effective-feedback-remotely/",
+          "publishedOn": "2022-05-06T09:30:00.000Z",
+          "wordCount": 2986,
+          "title": "How To Give Effective Feedback Remotely",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9fd70453-99c5-4d6f-9abe-1a19a52d217b/give-effective-feedback-remotely.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9fd70453-99c5-4d6f-9abe-1a19a52d217b/give-effective-feedback-remotely.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/05/resilience-flexibility-immediacy-headless-systems/",
           "author": "hello@smashingmagazine.com (Stefan Baumgartner)",
-          "description": "When deploying websites, there’s rarely a one-size-fits-all solution. Some websites benefit from server-rendered pages, some prefer statically generating content upfront. In this article, Stefan explains how a CMS such as [Storyblok](link) can help you make your site more resilient without losing the flexibility to deliver time-relevant content.",
+          "description": "When deploying websites, there’s rarely a one-size-fits-all solution. Some websites benefit from server-rendered pages, some prefer statically generating content upfront. In this article, Stefan explains how a CMS such as [Storyblok](https://www.storyblok.com/) can help you make your site more resilient without losing the flexibility to deliver time-relevant content.",
           "link": "https://smashingmagazine.com/2022/05/resilience-flexibility-immediacy-headless-systems/",
           "publishedOn": "2022-05-05T09:30:00.000Z",
           "wordCount": 3109,
@@ -149,7 +174,7 @@
           "description": "How difficult can it be to design a bulletproof language selector? It’s not as straightforward as one might think. We need to avoid redirects, decouple our language and country presets, allow for overrides, and use non-modal windows. Let’s dive in!",
           "link": "https://smashingmagazine.com/2022/05/designing-better-language-selector/",
           "publishedOn": "2022-05-04T10:00:00.000Z",
-          "wordCount": 6032,
+          "wordCount": 6036,
           "title": "Designing A Better Language Selector",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec0dac36-90ba-4295-b51b-f095fb2d90ff/designing-better-language-selector.jpg",
@@ -164,7 +189,7 @@
           "description": "Developers often reach for UI frameworks like Bootstrap or Material UI, hoping that they’ll save a bunch of time and quickly build a professional-looking app. Unfortunately, things rarely work out this way. Let’s talk about it.",
           "link": "https://smashingmagazine.com/2022/05/you-dont-need-ui-framework/",
           "publishedOn": "2022-05-03T11:00:00.000Z",
-          "wordCount": 2899,
+          "wordCount": 2895,
           "title": "You Don’t Need A UI Framework",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7fae9333-8fe0-468f-bc90-274417de15c3/you-dont-need-ui-framework.jpg",
@@ -194,7 +219,7 @@
           "description": "Introducing Partytown, a lightweight open-source solution that reduces execution delays due to third-party JavaScript by offloading third-party scripts to web workers, which run in background threads.",
           "link": "https://smashingmagazine.com/2022/04/partytown-eliminates-website-bloat-third-party-apps/",
           "publishedOn": "2022-04-29T10:30:00.000Z",
-          "wordCount": 2028,
+          "wordCount": 2018,
           "title": "How Partytown Eliminates Website Bloat From Third-Party Scripts",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9925c2d1-b244-434d-9173-7e11efbdf617/partytown-eliminates-website-bloat-third-party-scripts.jpg",
@@ -209,7 +234,7 @@
           "description": "In this article, Nathan Smith explains how to create modal dialog windows with rich interaction that will only require authoring HTML in order to be used. They are based on Web Components that are currently supported by every major browser.",
           "link": "https://smashingmagazine.com/2022/04/cta-modal-build-web-component/",
           "publishedOn": "2022-04-28T09:30:00.000Z",
-          "wordCount": 4791,
+          "wordCount": 4776,
           "title": "CTA Modal: How To Build A Web Component",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bbadf16-a6e1-4d24-ba72-77cc51e3cc4e/cta-modal-build-web-component.jpg",
@@ -284,7 +309,7 @@
           "description": "In UX, we can use navigation queries, evaluation journeys, A-Z index and tap-ahead autocomplete to help users get where they want to be, faster. Let’s find out how.",
           "link": "https://smashingmagazine.com/2022/04/designing-better-navigation-ux-queries/",
           "publishedOn": "2022-04-21T10:00:00.000Z",
-          "wordCount": 3321,
+          "wordCount": 3317,
           "title": "Designing Better Navigation With Navigation Queries",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3b9b874c-9208-47da-b69b-b46d90988b11/designing-better-navigation-ux-queries.jpg",
@@ -314,7 +339,7 @@
           "description": "In this article, Ekene Eze shares his thoughts about the direction of the web in 2022, and what solutions we can expect to see come up in the ecosystem to significantly improve the Jamstack experience.",
           "link": "https://smashingmagazine.com/2022/04/jamstack-rendering-patterns-evolution/",
           "publishedOn": "2022-04-19T09:00:00.000Z",
-          "wordCount": 1708,
+          "wordCount": 1710,
           "title": "Jamstack Rendering Patterns: The Evolution",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/86e9ff96-97fd-42f7-aa79-9fe5527e1408/jamstack-rendering-patterns-evolution.jpg",
@@ -329,7 +354,7 @@
           "description": "What are the benefits of using push notifications and what can you use them for? In this article, Lee Munroe explains how to implement them and which practices are best to follow.",
           "link": "https://smashingmagazine.com/2022/04/guide-push-notifications-developers/",
           "publishedOn": "2022-04-18T11:30:00.000Z",
-          "wordCount": 2527,
+          "wordCount": 2523,
           "title": "The Ultimate Guide To Push Notifications For Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bebe6c69-2f6e-4523-aede-2ac46114a952/guide-push-notifications-developers.jpg",
@@ -344,7 +369,7 @@
           "description": "Storytelling is a powerful tool for any UX designer. It helps create a product and understand the people who use it. In this article, Marli Mesibov takes a real-life example of an app she helped to build in 2017 and explains five steps you can use to help you build a story into your user experience.",
           "link": "https://smashingmagazine.com/2022/04/use-storytelling-ux/",
           "publishedOn": "2022-04-15T14:00:00.000Z",
-          "wordCount": 3769,
+          "wordCount": 3773,
           "title": "How To Use Storytelling In UX",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fedf0602-27ae-4516-bcd0-df371fd0048b/use-storytelling-ux.jpg",
@@ -389,7 +414,7 @@
           "description": "Like many things, a design system isn’t ever a finished thing — it’s a journey. How we go about that journey can affect the things we produce along the way. Before diving in and starting to plan anything out, be clear about where the benefits and the risks might lie.",
           "link": "https://smashingmagazine.com/2022/04/artifacts-design-systems/",
           "publishedOn": "2022-04-12T12:00:00.000Z",
-          "wordCount": 4142,
+          "wordCount": 4146,
           "title": "Around The Artifacts Of Design Systems (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/170611c4-1cfa-4f09-8ba0-2999839a2679/artifacts-design-systems.jpg",
@@ -419,7 +444,7 @@
           "description": "Data is among the most important things that make up a web application or a conventional native app. We need data to be able to see and perhaps understand the purpose of an application. In this article, we’ll look at another approach to obtaining data in an application that requires authentication or authorization using Next.js.",
           "link": "https://smashingmagazine.com/2022/04/dynamic-data-fetching-authenticated-nextjs-app/",
           "publishedOn": "2022-04-08T12:00:00.000Z",
-          "wordCount": 1955,
+          "wordCount": 1946,
           "title": "Dynamic Data-Fetching In An Authenticated Next.js App",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/929fd32f-838d-44e8-88f1-2392555f6c44/dynamic-data-fetching-authenticated-nextjs-app.jpg",
@@ -427,21 +452,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/929fd32f-838d-44e8-88f1-2392555f6c44/dynamic-data-fetching-authenticated-nextjs-app.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/04/designing-better-breadcrumbs/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "In this series of articles, we highlight design patterns and techniques to design better interfaces. You can also find more examples in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 6h-video course with 100s of hand-picked examples, curated by Vitaly.",
-          "link": "https://smashingmagazine.com/2022/04/designing-better-breadcrumbs/",
-          "publishedOn": "2022-04-06T14:20:00.000Z",
-          "wordCount": 6918,
-          "title": "Designing Better Breadcrumbs",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/83a5c72a-37d0-4c2c-9ce8-1ebc22b913f3/designing-better-breadcrumbs-navigation.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/83a5c72a-37d0-4c2c-9ce8-1ebc22b913f3/designing-better-breadcrumbs-navigation.jpg"
         }
       ]
     },
@@ -450,6 +460,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "62720d66c1c601068f4ebbdb",
+          "author": "Dillion Megida",
+          "description": "Absolute positioned elements are removed from the flow of a document. And sometimes, knowing how to correctly position such elements in the center of the page can be confusing. I mean, CSS is confusing already. 😅 In this article, I will show you how to center an absolute element either",
+          "link": "https://www.freecodecamp.org/news/how-to-center-an-absolute-positioned-element/",
+          "publishedOn": "2022-05-06T19:56:35.000Z",
+          "wordCount": 1189,
+          "title": "How to Center an Absolute Positioned Element Vertically and Horizontally with CSS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/pexels-jack-hawley-57905.jpg"
+        },
+        {
+          "id": "627036b7c1c601068f4eb2b6",
+          "author": "Dionysia Lemonaki",
+          "description": "With each passing year, the Python programming language becomes more and more popular. According to the Stack Overflow Developer Survey for 2021 [https://insights.stackoverflow.com/survey/2021#technology], Python was the 3rd most popular language, following JavaScript and HTML & CSS. And this growth doesn't seem to be slowing down anytime soon, so Python programmers",
+          "link": "https://www.freecodecamp.org/news/how-to-learn-python/",
+          "publishedOn": "2022-05-06T17:09:52.000Z",
+          "wordCount": 2717,
+          "title": "How to Learn Python in 2022",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/brett-jordan-NDjaUqvB7uE-unsplash.jpg"
+        },
         {
           "id": "62740998c1c601068f4ecc38",
           "author": "Beau Carnes",
@@ -529,26 +559,6 @@
           "wordCount": 476,
           "title": "Learn React Router 6",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/reactrouter6.png"
-        },
-        {
-          "id": "626fa644c1c601068f4ead26",
-          "author": "freeCodeCamp.org",
-          "description": "Thank you for taking the time to report an issue with freeCodeCamp. If you think you’ve found a bug on freeCodeCamp, please follow these steps to resolve your problem: Reset the Code in the Editor Try resetting the code in the editor using the reset button on the page. This",
-          "link": "https://www.freecodecamp.org/news/how-to-report-a-bug-to-freecodecamp/",
-          "publishedOn": "2022-05-03T21:07:57.000Z",
-          "wordCount": 1489,
-          "title": "How to Report a Bug to freeCodeCamp",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/pexels-pixabay-144243.jpg"
-        },
-        {
-          "id": "626fe2c2c1c601068f4eaf1d",
-          "author": "Kolade Chris",
-          "description": "An Excel worksheet can be difficult to work with if it contains duplicates – especially if you’re not the author of the worksheet. If you find them, you might want to highlight or remove such duplicates in the Excel sheet so you don’t run into errors. In this article, I",
-          "link": "https://www.freecodecamp.org/news/how-to-remove-duplicates-in-excel-delete-duplicate-rows-tutorial/",
-          "publishedOn": "2022-05-03T19:58:44.000Z",
-          "wordCount": 610,
-          "title": "How to Remove Duplicates in Excel – Delete Duplicate Rows Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/microsoft-office-7040220_1280.png"
         }
       ]
     }
