@@ -1,10 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-09T01:53:42.497Z</id>
+    <id>urn:2022-05-10T01:24:44.666Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-09T01:53:42.497Z</updated>
+    <updated>2022-05-10T01:24:44.666Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Resolve Merge Conflicts in Git – A Practical Guide with Examples]]></title>
+        <id>6272b9cdc1c601068f4ec497</id>
+        <link href="https://www.freecodecamp.org/news/resolve-merge-conflicts-in-git-a-practical-guide/"/>
+        <updated>2022-05-09T23:09:43.000Z</updated>
+        <summary type="html"><![CDATA[Git is an open-source distributed version control system. It helps you manage your project files easily using local branching, staging, and workflows.  Many developers use Git today. And they're usually familiar with basic Git concepts like:  * How to initiate a repository.  * How to create branches.]]></summary>
+        <author>
+            <name>TAPAS ADHIKARY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Lowercase – How to Use the String lower() Function]]></title>
+        <id>62725fadc1c601068f4ebf17</id>
+        <link href="https://www.freecodecamp.org/news/python-lowercase-how-to-use-the-string-lower-function/"/>
+        <updated>2022-05-09T22:04:42.000Z</updated>
+        <summary type="html"><![CDATA[Strings are a fundamental part of working with Python. And the lower() method is one of the many integrated methods that you can use to work with strings. In this article, we'll see how to make strings lowercase with the lower() method in Python. What is a string? A string]]></summary>
+        <author>
+            <name>Ilenia Magoni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Google Docs Clone with React, Material UI, & Firebase]]></title>
+        <id>627601655aeb5306e9ee6ab2</id>
+        <link href="https://www.freecodecamp.org/news/build-a-google-docs-clone-with-react-and-firebase/"/>
+        <updated>2022-05-09T21:16:05.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we'll build a Google Docs clone using React, Material UI, and Firebase. The final app will look like this: If we click any document, it will open up and we can edit them however we need to. And the most amazing feature is that we can edit]]></summary>
+        <author>
+            <name>Nishant Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Object-Oriented Programming in JavaScript for Beginners]]></title>
+        <id>6258683aac55f60686c35075</id>
+        <link href="https://www.freecodecamp.org/news/object-oriented-javascript-for-beginners/"/>
+        <updated>2022-05-09T20:36:30.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone! In this article we're going to review the main characteristics of object oriented programming (OOP) with practical JavaScript examples. We will talk about OOP main concepts, why and when it can be useful, and I'll give you plenty of examples using JS code.  If you're not familiar]]></summary>
+        <author>
+            <name>Germán Cocca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Excel Shortcuts – Keyboard Shortcuts for Beginners]]></title>
+        <id>62727994c1c601068f4ec082</id>
+        <link href="https://www.freecodecamp.org/news/excel-shortcuts-keyboard-shortcuts-for-beginners/"/>
+        <updated>2022-05-09T15:24:30.000Z</updated>
+        <summary type="html"><![CDATA[There are many data analytics tools out there, but Microsoft Excel remains a popular go-to for storing and managing data. Since Excel has a lot of functionality built into it, getting familiar with the various keyboard shortcuts will help you work more efficiently. In this article, I’m going to show]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Useful Tools for Creating AVIF Images]]></title>
+        <id>https://css-tricks.com/?p=365579</id>
+        <link href="https://css-tricks.com/useful-tools-for-creating-avif-images/"/>
+        <updated>2022-05-09T15:00:10.000Z</updated>
+        <summary type="html"><![CDATA[AVIF (AV1 Image File Format) is a modern image file format specification for storing images that offer a much more significant file reduction when compared to other formats like JPG, JPEG, PNG, and WebP. Version 1.0.0 of the AVIF specification …
+Useful Tools for Creating AVIF Images originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Sunkanmi Fafowora</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Performance Game Changer: Browser Back/Forward Cache]]></title>
+        <id>https://smashingmagazine.com/2022/05/performance-game-changer-back-forward-cache/</id>
+        <link href="https://smashingmagazine.com/2022/05/performance-game-changer-back-forward-cache/"/>
+        <updated>2022-05-09T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[At the end of 2021, the Chrome team shipped some functionality that has the ability to make or break sites meeting the Core Web Vitals. So, let’s learn a little bit more about the Back/Forward Cache (aka bfcache), and what you can do to test if your website is compatible with it.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Barry Pollard)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Center an Absolute Positioned Element Vertically and Horizontally with CSS]]></title>
         <id>62720d66c1c601068f4ebbdb</id>
@@ -84,56 +155,6 @@ How to Serve a Subdomain as a Subdirectory originally published on CSS-Tricks. Y
         <summary type="html"><![CDATA[In this article, we'll talk about the getline() function in C++. This is an inbuilt function that accepts single and multiple character inputs. When working with user input in C++, the cin object allows us to get input information from the user. But when we try to log out the]]></summary>
         <author>
             <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Manage Browser Defaults with event.preventDefault() and event.stopPropagation()]]></title>
-        <id>626b0796c1c601068f4e89b4</id>
-        <link href="https://www.freecodecamp.org/news/manage-default-behavior-in-browser/"/>
-        <updated>2022-05-04T19:59:02.000Z</updated>
-        <summary type="html"><![CDATA[Browsers have default interactions and behaviors for different events. For example, when a user clicks a "submit" button on a form, the form is submitted to a URL by default. When the child of an element is clicked, the click event also occurs on the element because it is the]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Python Code Example Handbook – Simple Python Program Examples for Beginners]]></title>
-        <id>626d5ae3c1c601068f4ea1c2</id>
-        <link href="https://www.freecodecamp.org/news/python-code-examples-simple-python-program-example/"/>
-        <updated>2022-05-04T17:20:38.000Z</updated>
-        <summary type="html"><![CDATA[Python is a high-level, general purpose, interpreted programming language. It's well-known for being very easy to learn yet powerful, and it has many uses in many different fields. If you're someone trying to get started with Python, it's easy to get lost among all the excellent learning resources on the]]></summary>
-        <author>
-            <name>Farhan Hasin Chowdhury</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn How to Manipulate CSS with JavaScript by Coding a Dynamic Picture Frame]]></title>
-        <id>626d47a4c1c601068f4e9f91</id>
-        <link href="https://www.freecodecamp.org/news/learn-how-to-manipulate-css-with-javascript-by-coding-a-dynamic-picture-frame/"/>
-        <updated>2022-05-04T15:27:39.000Z</updated>
-        <summary type="html"><![CDATA[DOM manipulation can simply be defined as manipulating HTML documents (or pages) with JavaScript.  The DOM stands for Document Object Model that you can visualize as a tree-like structure made up of different HTML elements.  Visualizing an HTML document like a tree makes it easy to access its]]></summary>
-        <author>
-            <name>Samuel A. Olubiyo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[REST API Design Best Practices Handbook – How to Build a REST API with JavaScript, Node.js, and Express.js]]></title>
-        <id>625e8e8bac55f60686c37f27</id>
-        <link href="https://www.freecodecamp.org/news/rest-api-design-best-practices-build-a-rest-api/"/>
-        <updated>2022-05-04T15:10:32.000Z</updated>
-        <summary type="html"><![CDATA[I've created and consumed many API's over the past few years. During that time, I've come across good and bad practices and have experienced nasty situations when consuming and building API's. But there also have been great moments. There are helpful articles online which present many best practices, but many]]></summary>
-        <author>
-            <name>Jean-Marc Möckel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn React Router 6]]></title>
-        <id>62728f26c1c601068f4ec233</id>
-        <link href="https://www.freecodecamp.org/news/learn-react-router-6/"/>
-        <updated>2022-05-04T14:42:27.000Z</updated>
-        <summary type="html"><![CDATA[React Router is a JavaScript library that helps developers create single-page applications that are responsive and have a dynamic user interface. It is a popular tool among React developers and is used to create routing and navigation for web applications. We just published a course on the freeCodeCamp.org YouTube channel]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
