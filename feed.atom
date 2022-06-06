@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-05T01:54:36.783Z</id>
+    <id>urn:2022-06-06T01:53:41.764Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-05T01:54:36.783Z</updated>
+    <updated>2022-06-06T01:53:41.764Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Git List Remote Branches]]></title>
+        <id>https://www.freecodecamp.org/news/git-list-remote-branches/</id>
+        <link href="https://www.freecodecamp.org/news/git-list-remote-branches/"/>
+        <updated>2022-06-05T23:29:19.000Z</updated>
+        <summary type="html"><![CDATA[There are 4 different Git commands you can enter into your command line to list all of the remote branches of a repo. I will show you command line code examples of each of these. For all of these examples, I will use freeCodeCamp's open source repository [https://github.com/freeCodeCamp/freeCodeCamp/]. Command #1:]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Please Give Me Some Space]]></title>
         <id>https://css-tricks.com/?p=366202</id>
@@ -161,16 +171,6 @@ SPAs, Shared Element Transitions, and Re-Evaluating Technology originally publis
         <summary type="html"><![CDATA[Data are everywhere nowadays. And with each passing year, the amount of data we are producing will only continue to increase. There is a large amount of data available, but what do we do with all that data? How is it all used? And what does all that data mean?]]></summary>
         <author>
             <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Square a Number in Python – Squaring Function]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-square-a-number-in-python-squaring-function/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-square-a-number-in-python-squaring-function/"/>
-        <updated>2022-05-31T15:03:14.000Z</updated>
-        <summary type="html"><![CDATA[To square a number, you multiply that number by itself. And there are multiple ways to do this in Python. You can directly multiple a number by itself (number * number) but in this article, I'll show you three ways you can do this without hardcoding both numbers. The three]]></summary>
-        <author>
-            <name>Dillion Megida</name>
         </author>
     </entry>
     <entry>
