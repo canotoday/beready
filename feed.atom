@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-11T01:49:09.919Z</id>
+    <id>urn:2022-06-12T02:01:29.021Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-11T01:49:09.919Z</updated>
+    <updated>2022-06-12T02:01:29.021Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -497,16 +497,6 @@ Dialog Components: Go Native HTML or Roll Your Own? originally published on CSS-
         <summary type="html"><![CDATA[What makes the underused `Server-Timing` header uniquely powerful among all other response headers? We’ll rethink the expectation for using it exclusively for timing and see fast solutions for hard-to-solve monitoring challenges.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Sean Roberts)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Tasks: To Focus On What Matters You Must De-Focus On What Doesn’t]]></title>
-        <id>https://smashingmagazine.com/2022/05/top-tasks-focus-what-matters-must-defocus-what-doesnt/</id>
-        <link href="https://smashingmagazine.com/2022/05/top-tasks-focus-what-matters-must-defocus-what-doesnt/"/>
-        <updated>2022-05-13T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[We waste so much today. One way of focusing on what truly matters is by identifying Top Tasks for yourself. Learn how to make tough decisions by focusing on the real, quantifiable evidence that will help create a better experience for your users.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Gerry McGovern)</name>
         </author>
     </entry>
 </feed>
