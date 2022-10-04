@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-03T02:01:47.230Z</id>
+    <id>urn:2022-10-04T02:11:09.280Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-03T02:01:47.230Z</updated>
+    <updated>2022-10-04T02:11:09.280Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Modal with JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-a-modal-with-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-modal-with-javascript/"/>
+        <updated>2022-10-03T23:49:06.000Z</updated>
+        <summary type="html"><![CDATA[It's probably happened to you before: you unintentionally attempted to perform an action on a webpage, but luckily got a pop-up window asking you to confirm your decision. This pop-up window is called a modal. It's a web page element that pops up and displays in front of other page]]></summary>
+        <author>
+            <name>Victor Eke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is rem in CSS? rem Unit Font Size, Padding, Height, and More]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-rem-in-css-rem-unit-font-size-padding-height-and-more/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-rem-in-css-rem-unit-font-size-padding-height-and-more/"/>
+        <updated>2022-10-03T22:57:54.000Z</updated>
+        <summary type="html"><![CDATA[The rem measurement unit is a relative unit that you can use for length values in CSS. I will explain what this unit is, and how it is different from other units in this article. In my previous article, I explained the two categories of units in CSS: Absolute and]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Turn Your Jupyter Notebook into a User-Friendly Web App]]></title>
+        <id>https://www.freecodecamp.org/news/machine-learning-web-app-with-flask/</id>
+        <link href="https://www.freecodecamp.org/news/machine-learning-web-app-with-flask/"/>
+        <updated>2022-10-03T22:52:51.000Z</updated>
+        <summary type="html"><![CDATA[Being able to build predictive models is a superpower – but you can't make much of these models if users can't use them.  In this article, we will go through the process of building and deploying a machine learning web app using Flask and PythonAnywhere.  Flask is a]]></summary>
+        <author>
+            <name>Tooba Jamal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use map(), filter(), and reduce() in JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/map-filter-reduce-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/map-filter-reduce-in-javascript/"/>
+        <updated>2022-10-03T22:06:51.000Z</updated>
+        <summary type="html"><![CDATA[If you want to learn React, it's important to get a fair understanding of some core JavaScript concepts first.  So if that's what you're doing, first of all – great job! You have made a wise decision by not starting directly with React.  Second, React builds on key]]></summary>
+        <author>
+            <name>Bhavesh Rawat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy a React Router App to Netlify and Fix the "Page Not Found" Error]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-deploy-a-routed-react-app-to-netlify/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-deploy-a-routed-react-app-to-netlify/"/>
+        <updated>2022-10-03T17:16:24.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever experienced a “PAGE NOT FOUND” error when trying to access or refresh an application that uses React Router? Don't worry, you're not alone. In this article, you will learn how to deploy a React application that uses react-router without any problems. The Problem with Deploying react-router Apps]]></summary>
+        <author>
+            <name>Edeh Israel Chidera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Delightful UI Animations With Shared Element Transitions API (Part 1)]]></title>
+        <id>https://smashingmagazine.com/2022/10/ui-animations-shared-element-transitions-api-part1/</id>
+        <link href="https://smashingmagazine.com/2022/10/ui-animations-shared-element-transitions-api-part1/"/>
+        <updated>2022-10-03T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Shared Element Transitions API is a game-changing feature that will enable us to create impressive and elaborate UI animations easily. In this article, Adrian Bece will explore its incredible potential by building four real-life examples from scratch.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TypeError: only size-1 arrays can be converted to Python scalars]]></title>
         <id>https://www.freecodecamp.org/news/how-to-fix-typeerror-only-size-1-arrays-can-be-converted-to-python-scalars/</id>
@@ -84,56 +144,6 @@ Getting Started With WordPress Block Development originally published on CSS-Tri
         <summary type="html"><![CDATA[Throughout the research and design processes, our unconscious biases are the greatest risk to delivering inclusive experiences. From who we include and exclude in our research to how we plan and conduct research, it’s crucial that we understand how our unacknowledged biases can perpetuate systems of exclusion.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Trina Moore Pervall)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Swap Two Array Elements in JavaScript – Switch Elements in JS]]></title>
-        <id>https://www.freecodecamp.org/news/swap-two-array-elements-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/swap-two-array-elements-in-javascript/"/>
-        <updated>2022-09-29T20:15:18.000Z</updated>
-        <summary type="html"><![CDATA[When you're working with arrays, there are times when you need to swap two elements in an array in JavaScript. Maybe you're working on an algorithm question such as the bubble sort algorithm where you need to compare two values and then swap them if your condition is true. Aside]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Authentication vs Authorization – What's the Difference?]]></title>
-        <id>https://www.freecodecamp.org/news/whats-the-difference-between-authentication-and-authorisation/</id>
-        <link href="https://www.freecodecamp.org/news/whats-the-difference-between-authentication-and-authorisation/"/>
-        <updated>2022-09-29T17:45:49.000Z</updated>
-        <summary type="html"><![CDATA[When you're starting out in web development, you'll likely hear the terms authentication and authorization all the time. And it doesn't help that they're both usually abbreviated 'auth', so it's very easy to get the two confused. In this article, you will learn:  * The differences between authentication and]]></summary>
-        <author>
-            <name>Grant Weatherston</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bubble Sort – Algorithm in Java, C++, Python with Example Code]]></title>
-        <id>https://www.freecodecamp.org/news/bubble-sort-algorithm-in-java-cpp-python-with-example-code/</id>
-        <link href="https://www.freecodecamp.org/news/bubble-sort-algorithm-in-java-cpp-python-with-example-code/"/>
-        <updated>2022-09-29T17:34:36.000Z</updated>
-        <summary type="html"><![CDATA[Bubble sort is a type of sorting algorithm you can use to arrange a set of values in ascending order. If you want, you can also implement bubble sort to sort the values in descending order. A real-world example of a bubble sort algorithm is how the contact list on]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Selectors – Cheat Sheet for Class, Name, Child Selector List]]></title>
-        <id>https://www.freecodecamp.org/news/css-selectors-cheat-sheet-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/css-selectors-cheat-sheet-for-beginners/"/>
-        <updated>2022-09-29T15:22:20.000Z</updated>
-        <summary type="html"><![CDATA[CSS selectors target and select the HTML elements you want to style. Specifically, CSS selectors allow you to select multiple elements at once. They are helpful when you want to apply the same styles to more than one HTML element, because you will not repeat yourself by writing the same]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create a Low-Code Ecommerce App with Stripe, Postgres, & REST API Backend]]></title>
-        <id>https://www.freecodecamp.org/news/create-a-low-code-ecommerce-app-with-stripe-postgres-rest-api-backend/</id>
-        <link href="https://www.freecodecamp.org/news/create-a-low-code-ecommerce-app-with-stripe-postgres-rest-api-backend/"/>
-        <updated>2022-09-29T13:43:07.000Z</updated>
-        <summary type="html"><![CDATA[Building apps can be much quicker with low-code tools. A low-code platform can give you pre-built UI components packed with functionality like tables, buttons, and text inputs. This allows you to skip the frontend templates and build your own quickly. We just published a tutorial on the freeCodeCamp.org YouTube channel]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
