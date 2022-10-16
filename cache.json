@@ -452,21 +452,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c1d9b905-3c76-4125-a9b1-91c8db791a06/building-retro-draggable-web-component-using-lit.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/09/rethinking-star-ratings-readers/",
-          "author": "hello@smashingmagazine.com (Matt Athanasiou)",
-          "description": "How can companies change their rating and review systems to better benefit users? Matt Athanasiou shares some steps to improve the experience of reviewing literature and other products — while also building stronger connections.",
-          "link": "https://smashingmagazine.com/2022/09/rethinking-star-ratings-readers/",
-          "publishedOn": "2022-09-16T10:00:00.000Z",
-          "wordCount": 5281,
-          "title": "Rethinking Star Ratings For Readers",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4c500c4a-f0b4-4348-9136-951d1b38afde/rethinking-star-ratings-readers.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4c500c4a-f0b4-4348-9136-951d1b38afde/rethinking-star-ratings-readers.jpg"
         }
       ]
     },
@@ -521,7 +506,7 @@
           "description": "Hi everyone, I'm Jalmari Ikävalko, a software developer in my early 30s. In this article, I’ll share my whole journey from my first contact with code to becoming the professional developer I am today.  I'll start from my childhood when I first got interested in programming. My Introduction to",
           "link": "https://www.freecodecamp.org/news/developer-journey/",
           "publishedOn": "2022-10-14T16:01:31.000Z",
-          "wordCount": 3915,
+          "wordCount": 3922,
           "title": "My Developer Journey – How I Learned to Code with Dyslexia and ADHD",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/1.jpg"
         },

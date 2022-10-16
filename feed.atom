@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-15T02:30:47.013Z</id>
+    <id>urn:2022-10-16T02:37:03.064Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-15T02:30:47.013Z</updated>
+    <updated>2022-10-16T02:37:03.064Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -461,16 +461,6 @@ How to Create Wavy Shapes & Patterns in CSS originally published on CSS-Tricks, 
         <summary type="html"><![CDATA[In today’s article, Andrico Karoulla explains how to create a cool draggable effect by listening to the drag events and writing some custom logic inside the handlers.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Andrico Karoulla)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rethinking Star Ratings For Readers]]></title>
-        <id>https://smashingmagazine.com/2022/09/rethinking-star-ratings-readers/</id>
-        <link href="https://smashingmagazine.com/2022/09/rethinking-star-ratings-readers/"/>
-        <updated>2022-09-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How can companies change their rating and review systems to better benefit users? Matt Athanasiou shares some steps to improve the experience of reviewing literature and other products — while also building stronger connections.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Matt Athanasiou)</name>
         </author>
     </entry>
 </feed>
