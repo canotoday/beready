@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-21T02:00:02.184Z</id>
+    <id>urn:2022-10-22T02:15:52.171Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-21T02:00:02.184Z</updated>
+    <updated>2022-10-22T02:15:52.171Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Upload Files to Azure using NestJS and typeORM with MySQL]]></title>
+        <id>https://www.freecodecamp.org/news/upload-files-to-azure-using-nestjs-and-typeorm-with-mysql/</id>
+        <link href="https://www.freecodecamp.org/news/upload-files-to-azure-using-nestjs-and-typeorm-with-mysql/"/>
+        <updated>2022-10-21T23:13:08.000Z</updated>
+        <summary type="html"><![CDATA[Images and videos are examples of huge files that might be stored in your database. And this might impact the performance of your applications because of the amount of space that those files can take up.  Also, it expands the database, which makes backups larger and slower. Because of]]></summary>
+        <author>
+            <name>Destiny Erhabor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Layouts – How to Use CSS Grid and Flex to Create a Responsive Web Page]]></title>
+        <id>https://www.freecodecamp.org/news/web-layouts-use-css-grid-and-flex-to-create-responsive-webpages/</id>
+        <link href="https://www.freecodecamp.org/news/web-layouts-use-css-grid-and-flex-to-create-responsive-webpages/"/>
+        <updated>2022-10-21T23:12:52.000Z</updated>
+        <summary type="html"><![CDATA[Your web layout is to your website what a floor plan is to a building. Without them, you’re just building castles in the air.  The first thing to do when you have a website or application to build or design is to decide on the layout. This is important]]></summary>
+        <author>
+            <name>Ophy Boamah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is an ORM – The Meaning of Object Relational Mapping Database Tools]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-an-orm-the-meaning-of-object-relational-mapping-database-tools/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-an-orm-the-meaning-of-object-relational-mapping-database-tools/"/>
+        <updated>2022-10-21T18:18:25.000Z</updated>
+        <summary type="html"><![CDATA[Object Relational Mapping (ORM) is a technique used in creating a "bridge" between object-oriented programs and, in most cases, relational databases [/news/what-is-a-relational-database-rdbms-definition/]. Put another way, you can see the ORM as the layer that connects object oriented programming [/news/four-pillars-of-object-oriented-programming/] (OOP) to relational databases.  When interacting with a database using]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the Ethernet Protocol Works – A Complete Guide]]></title>
+        <id>https://www.freecodecamp.org/news/the-complete-guide-to-the-ethernet-protocol/</id>
+        <link href="https://www.freecodecamp.org/news/the-complete-guide-to-the-ethernet-protocol/"/>
+        <updated>2022-10-21T17:12:40.000Z</updated>
+        <summary type="html"><![CDATA[Whether you’ve been aware of it or not, you’ve probably used the Ethernet in the past. Does this cable look familiar? (Source: Wikipedia [https://en.wikipedia.org/wiki/Ethernet_physical_layer#/media/File:EthernetCableYellow3.jpg] )Ethernet is extremely popular, and is the most widely used Data Link Layer protocol, at least where the devices are linked by physical cables (rather than]]></summary>
+        <author>
+            <name>Omer Rosenbaum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fancy Image Decorations: Masks and Advanced Hover Effects]]></title>
+        <id>https://css-tricks.com/?p=374194</id>
+        <link href="https://css-tricks.com/fancy-image-decorations-masks-and-advanced-hover-effects/"/>
+        <updated>2022-10-21T12:46:27.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Part 2 of this three-part series! We are still decorating images without any extra elements and pseudo-elements. I hope you already took the time to digest Part 1 because we will continue working with a lot of gradients …
+Fancy Image Decorations: Masks and Advanced Hover Effects originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Futuristic CSS]]></title>
+        <id>https://smashingmagazine.com/2022/10/futuristic-css/</id>
+        <link href="https://smashingmagazine.com/2022/10/futuristic-css/"/>
+        <updated>2022-10-21T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Sacha Greif tries to anticipate future CSS trends and takes a look at some far-fetched and futuristic CSS features that might one day make their way to the browser.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Sacha Greif)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Object Oriented Programming in Python – Full Crash Course]]></title>
         <id>https://www.freecodecamp.org/news/crash-course-object-oriented-programming-in-python/</id>
@@ -99,16 +160,6 @@ Responsive Animations for Every Screen Size and Device originally published on C
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Harvard CS50 – Free Computer Science University Course]]></title>
-        <id>https://www.freecodecamp.org/news/harvard-cs50/</id>
-        <link href="https://www.freecodecamp.org/news/harvard-cs50/"/>
-        <updated>2022-10-19T14:07:23.000Z</updated>
-        <summary type="html"><![CDATA[Harvard University's CS50 is one of the most popular beginner computer science courses in the world.  We just released the entire CS50 course–all 25 hours–on the freeCodeCamp.org YouTube channel. David J. Malan is widely considered to be one of the best computer science instructors. He teaches this course. This]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Make a Folder “Slit” Effect With CSS]]></title>
         <id>https://css-tricks.com/?p=374376</id>
         <link href="https://css-tricks.com/how-to-make-a-folder-slit-effect-with-css/"/>
@@ -127,36 +178,6 @@ How to Make a Folder “Slit” Effect With CSS originally published on CSS-
         <summary type="html"><![CDATA[Meet Understanding Privacy, our brand new Smashing Book to make sense of privacy, and learn how to create inclusive, safe and privacy-aware digital experiences. eBook now available, print shipping in November.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux Command Line Tutorial – How to Use Common Terminal Commands]]></title>
-        <id>https://www.freecodecamp.org/news/linux-command-line-tutorial/</id>
-        <link href="https://www.freecodecamp.org/news/linux-command-line-tutorial/"/>
-        <updated>2022-10-18T23:33:44.000Z</updated>
-        <summary type="html"><![CDATA[An operating system is a set of software layers between you and your computer's hardware.  The operating system (or OS) is a piece of software that controls all other application programs and helps you manage the hardware and software of your computer. Examples of popular operating systems are Windows,]]></summary>
-        <author>
-            <name>Destiny Erhabor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wi-Fi Hacking 101 – How to Hack WPA2 and Defend Against These Attacks]]></title>
-        <id>https://www.freecodecamp.org/news/wi-fi-hacking-101/</id>
-        <link href="https://www.freecodecamp.org/news/wi-fi-hacking-101/"/>
-        <updated>2022-10-18T20:37:37.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the world of Wi-Fi hacking, everybody. 💻. In my previous article [/news/linux-basics/], we talked about some basic Linux skills and tricks. In this article you are going to learn a basic Wi-Fi hacking procedure using those skills. You'll learn things such as how to:  1. Monitor Wi-Fi]]></summary>
-        <author>
-            <name>Daniel Iwugo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Append a String in Python – STR Appending]]></title>
-        <id>https://www.freecodecamp.org/news/append-a-string-in-python-str-appending/</id>
-        <link href="https://www.freecodecamp.org/news/append-a-string-in-python-str-appending/"/>
-        <updated>2022-10-18T19:33:59.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you'll learn the different methods of appending strings in Python.  Another term commonly used when talking about appending strings is concatenation. So you'll often see these terms — append and concatenate — used interchangeably.  Either way, to append or concatenate strings means to add or]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
         </author>
     </entry>
     <entry>
@@ -357,17 +378,6 @@ Using Web Components With Next (or Any SSR Framework) originally published on CS
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[State of CSS 2022 Survey Now Open]]></title>
-        <id>https://css-tricks.com/?p=374217</id>
-        <link href="https://css-tricks.com/state-of-css-2022-survey-now-open/"/>
-        <updated>2022-10-04T18:35:09.000Z</updated>
-        <summary type="html"><![CDATA[The State of CSS survey recently opened up. Last year, the survey confirmed everyone’s assumptions that TailwindCSS is super popular and CSS variables are mainstream. It also codified what many of us want from CSS, from Container Queries to …
-State of CSS 2022 Survey Now Open originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Delightful UI Animations With Shared Element Transitions API (Part 1)]]></title>
         <id>https://smashingmagazine.com/2022/10/ui-animations-shared-element-transitions-api-part1/</id>
         <link href="https://smashingmagazine.com/2022/10/ui-animations-shared-element-transitions-api-part1/"/>
@@ -445,16 +455,6 @@ State of CSS 2022 Survey Now Open originally published on CSS-Tricks, which is p
         <summary type="html"><![CDATA[In this article, Dave Feldman shares his lessons learned and the experiments has done as a multidisciplinary designer-founder-CEO at an early-stage startup. Let’s take a look at what it is that makes a great design process for teams of any size.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Dave Feldman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Things I Wish I Had Known About Angular When I Started]]></title>
-        <id>https://smashingmagazine.com/2022/09/angular-guide/</id>
-        <link href="https://smashingmagazine.com/2022/09/angular-guide/"/>
-        <updated>2022-09-22T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If you’re considering learning Angular, this article sums up what William Juan wished he knew when he started, including the mistakes made and lessons learned the hard way.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (William Juan)</name>
         </author>
     </entry>
 </feed>
