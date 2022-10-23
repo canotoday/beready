@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-22T02:15:52.171Z</id>
+    <id>urn:2022-10-23T02:27:06.838Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-22T02:15:52.171Z</updated>
+    <updated>2022-10-23T02:27:06.838Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -445,16 +445,6 @@ Using Web Components With Next (or Any SSR Framework) originally published on CS
         <summary type="html"><![CDATA[SmashingConf NYC is back! A friendly, inclusive conference for designers and front-end engineers who can’t wait to learn and be inspired. October 10–13, 2022. Get your ticket!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lessons Learned As A Designer-Founder]]></title>
-        <id>https://smashingmagazine.com/2022/09/lessons-learned-designer-founder/</id>
-        <link href="https://smashingmagazine.com/2022/09/lessons-learned-designer-founder/"/>
-        <updated>2022-09-23T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Dave Feldman shares his lessons learned and the experiments has done as a multidisciplinary designer-founder-CEO at an early-stage startup. Let’s take a look at what it is that makes a great design process for teams of any size.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Dave Feldman)</name>
         </author>
     </entry>
 </feed>
