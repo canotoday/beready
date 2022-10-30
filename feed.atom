@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-29T01:58:11.436Z</id>
+    <id>urn:2022-10-30T02:22:07.332Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-29T01:58:11.436Z</updated>
+    <updated>2022-10-30T02:22:07.332Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SEO Tips for Developers]]></title>
+        <id>https://www.freecodecamp.org/news/tips-to-boost-your-seo/</id>
+        <link href="https://www.freecodecamp.org/news/tips-to-boost-your-seo/"/>
+        <updated>2022-10-29T00:09:34.000Z</updated>
+        <summary type="html"><![CDATA[SEO (Search Engine Optimization) is essential for your online marketing strategy. It's the process of optimizing your site and content to help you get as much traffic as you can from search engines. Reaching top positions in the search engine results pages (SERPs) with your website is one of the]]></summary>
+        <author>
+            <name>Edan Ben-Atar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn Julia by Coding 7 Projects – Hands-On Programming Tutorial]]></title>
         <id>https://www.freecodecamp.org/news/learn-julia-by-coding-7-projects/</id>
@@ -114,16 +124,6 @@ Fancy Image Decorations: Outlines and Complex Animations originally published on
         <summary type="html"><![CDATA[Python is one of the most popular programming languages in the world today. It was created in 1991 by Guido van Rossum. According to van Rossum, Python is a: > “high-level programming language, and its core design philosophy is all about code readability and a syntax which allows programmers to]]></summary>
         <author>
             <name>Fatos Morina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Network Devices – How Hubs and Switches Work and How to Secure Them]]></title>
-        <id>https://www.freecodecamp.org/news/how-hub-switch-work-and-how-to-protect-them/</id>
-        <link href="https://www.freecodecamp.org/news/how-hub-switch-work-and-how-to-protect-them/"/>
-        <updated>2022-10-27T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In a previous post [/news/the-complete-guide-to-the-ethernet-protocol/] I described every bit and byte of the Ethernet protocol. In this post you will learn about two network devices, how they work, and how this knowledge may be used by hackers. How Classic Ethernet Works Before describing the network devices, consider a network without]]></summary>
-        <author>
-            <name>Omer Rosenbaum</name>
         </author>
     </entry>
     <entry>
@@ -416,26 +416,6 @@ Early Days of Container Style Queries originally published on CSS-Tricks, which 
         <summary type="html"><![CDATA[Shared Element Transitions API is a game-changing feature that will enable us to create impressive and elaborate UI animations easily. In this article, Adrian Bece will explore its incredible potential by building four real-life examples from scratch.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[October Vibes For Your Desktop (2022 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2022/09/desktop-wallpaper-calendars-october-2022/</id>
-        <link href="https://smashingmagazine.com/2022/09/desktop-wallpaper-calendars-october-2022/"/>
-        <updated>2022-09-30T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[How about a little inspiration boost? Well, we might have something for you: desktop wallpapers created with love by artists and designers from across the globe. They are available in versions with and without a calendar for October and can be downloaded for free. Enjoy!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unconscious Biases That Get In The Way Of Inclusive Design]]></title>
-        <id>https://smashingmagazine.com/2022/09/unconscious-biases-inclusive-design/</id>
-        <link href="https://smashingmagazine.com/2022/09/unconscious-biases-inclusive-design/"/>
-        <updated>2022-09-29T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Throughout the research and design processes, our unconscious biases are the greatest risk to delivering inclusive experiences. From who we include and exclude in our research to how we plan and conduct research, it’s crucial that we understand how our unacknowledged biases can perpetuate systems of exclusion.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Trina Moore Pervall)</name>
         </author>
     </entry>
 </feed>
