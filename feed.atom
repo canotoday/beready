@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-05T01:58:03.108Z</id>
+    <id>urn:2022-11-06T02:00:33.763Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-05T01:58:03.108Z</updated>
+    <updated>2022-11-06T02:00:33.763Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -437,26 +437,6 @@ Pure CSS Bezier Curve Motion Paths originally published on CSS-Tricks, which is 
         <summary type="html"><![CDATA[In this article, Adrian Bece will show how to create same-document page transitions for Single Page Apps using Shared Element Transitions API and check out its future implementation and potential for creating cross-document transitions in Multi-Page Apps.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Roadmap For Building A Business Chatbot]]></title>
-        <id>https://smashingmagazine.com/2022/10/roadmap-building-business-chatbot/</id>
-        <link href="https://smashingmagazine.com/2022/10/roadmap-building-business-chatbot/"/>
-        <updated>2022-10-07T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Owing to tremendous advancements in Machine Learning and other technologies, chatbots have increased in popularity in the past few years. This article will show you, step by step, how to build a chatbot that meets your business goals.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Devansh Bansal)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js Authentication With Twilio Verify]]></title>
-        <id>https://smashingmagazine.com/2022/10/nodejs-authentication-twilio-verify/</id>
-        <link href="https://smashingmagazine.com/2022/10/nodejs-authentication-twilio-verify/"/>
-        <updated>2022-10-07T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Integrate two-factor authentication into your Express.js app by building an application that authenticates users using password-based authentication and OTPs powered by the Twilio Verify service.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Alexander Godwin)</name>
         </author>
     </entry>
 </feed>
