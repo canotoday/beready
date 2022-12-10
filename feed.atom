@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-09T01:36:29.896Z</id>
+    <id>urn:2022-12-10T01:23:40.026Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-09T01:36:29.896Z</updated>
+    <updated>2022-12-10T01:23:40.026Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Type Checking – How to Check Type in JS with typeof()]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-type-checking-how-to-check-type-in-js-with-typeof/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-type-checking-how-to-check-type-in-js-with-typeof/"/>
+        <updated>2022-12-09T22:16:19.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript is a dynamically typed (or loosely typed) programming language. It allows you to declare variables without specifying or defining the variable type. You can create a variable in JavaScript without defining the type of value you can store in the variable. This can affect your program and cause bugs]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Networking Commands You Should Know as a Beginner]]></title>
+        <id>https://www.freecodecamp.org/news/linux-networking-commands-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/linux-networking-commands-for-beginners/"/>
+        <updated>2022-12-09T18:54:20.000Z</updated>
+        <summary type="html"><![CDATA[Can you imagine what it would be like to have a laptop but not to be able to access the internet? If you're a developer (or an aspiring one), you'll likely use the internet every day. So you should learn a few useful networking commands.  To learn networking in]]></summary>
+        <author>
+            <name>Arunachalam B</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Improve Your Data Privacy – A Personal Guide to Protecting Your Online Information]]></title>
+        <id>https://www.freecodecamp.org/news/a-personal-guide-to-data-privacy/</id>
+        <link href="https://www.freecodecamp.org/news/a-personal-guide-to-data-privacy/"/>
+        <updated>2022-12-09T18:51:30.000Z</updated>
+        <summary type="html"><![CDATA[What's the difference between data privacy and data security? Data security is about protecting your data from unauthorized access (basically ensuring that hackers can't access your data). Data privacy, on the other hand, is about giving you more granular control over how (and by whom) your data is accessed, used,]]></summary>
+        <author>
+            <name>Megan Kaczanowski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Dropdown Menu with JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-a-dropdown-menu-with-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-dropdown-menu-with-javascript/"/>
+        <updated>2022-12-09T18:27:56.000Z</updated>
+        <summary type="html"><![CDATA[If you use the internet, you've likely used a dropdown menu before. They primarily serve two purposes: collecting user input in web forms, and implementing action/navigation menus in web applications. Dropdowns are one of the best ways to offer numerous options for a similar collection of elements without needing to]]></summary>
+        <author>
+            <name>Victor Eke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Infinite Slider Flipping Through Polaroid Images]]></title>
+        <id>https://css-tricks.com/?p=375537</id>
+        <link href="https://css-tricks.com/css-infinite-slider-flipping-through-polaroid-images/"/>
+        <updated>2022-12-09T14:26:39.000Z</updated>
+        <summary type="html"><![CDATA[In the last article, we made a pretty cool little slider (or “carousel” if that’s what you prefer) that rotates in a circular direction. This time we are going to make one that flips through a stack of Polaroid …
+CSS Infinite Slider Flipping Through Polaroid Images originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Statement vs Expression – What's the Difference in Programming?]]></title>
         <id>https://www.freecodecamp.org/news/statement-vs-expression-whats-the-difference-in-programming/</id>
@@ -20,7 +71,7 @@
         <id>https://www.freecodecamp.org/news/python-slicing-how-to-slice-an-array/</id>
         <link href="https://www.freecodecamp.org/news/python-slicing-how-to-slice-an-array/"/>
         <updated>2022-12-08T19:13:33.000Z</updated>
-        <summary type="html"><![CDATA[Slicing an array is the concept of cutting out – or slicing out – a part of the array. How do you do this in Python? I'll show you how in this article. What is an Array? An array is a data structure that allows you to store multiple items]]></summary>
+        <summary type="html"><![CDATA[Slicing an array is the concept of cutting out – or slicing out – a part of the array. How do you do this in Python? I'll show you how in this article. If you like watching video content to supplement your reading, here's a video version [https://www.youtube.com/watch?v=sgXInOpc4Iw] of this]]></summary>
         <author>
             <name>Dillion Megida</name>
         </author>
@@ -87,16 +138,6 @@ Animated Background Stripes That Transition on Hover originally published on CSS
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python GUI Development Using PySide6 and Qt]]></title>
-        <id>https://www.freecodecamp.org/news/python-gui-development-using-pyside6-and-qt/</id>
-        <link href="https://www.freecodecamp.org/news/python-gui-development-using-pyside6-and-qt/"/>
-        <updated>2022-12-07T16:45:01.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to build cross platform desktop apps for Windows, Mac and Linux. PySide6 is a Python binding for the Qt6 application framework. PySide6 allows you to use the Qt6 framework to create graphical user interfaces (GUIs) and other cross-platform applications in Python. It provides a convenient way to access]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Adding Box Shadows to WordPress Blocks and Elements]]></title>
         <id>https://css-tricks.com/?p=375412</id>
         <link href="https://css-tricks.com/adding-box-shadows-to-wordpress-blocks-and-elements/"/>
@@ -115,36 +156,6 @@ Adding Box Shadows to WordPress Blocks and Elements originally published on CSS-
         <summary type="html"><![CDATA[Are you ready for the countdown to Christmas? This year, the web community was once again busy creating tech advent calendars jam-packed with fantastic content to sweeten your days. But which ones to follow? We help you find the right one, whether you’re a front-end dev, UX designer, or content strategist.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Separation of Concerns in React –How to Use Container and Presentational Components]]></title>
-        <id>https://www.freecodecamp.org/news/separation-of-concerns-react-container-and-presentational-components/</id>
-        <link href="https://www.freecodecamp.org/news/separation-of-concerns-react-container-and-presentational-components/"/>
-        <updated>2022-12-06T21:43:19.000Z</updated>
-        <summary type="html"><![CDATA[Many new React developers combine logic and presentation inside the same React component. And they may not know why it's important to separate these two – they just want to make it work. But later, they'll find that they need to make changes to the file and doing so becomes]]></summary>
-        <author>
-            <name>Keyur Paralkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to View Your Linux Processes]]></title>
-        <id>https://www.freecodecamp.org/news/linux-top/</id>
-        <link href="https://www.freecodecamp.org/news/linux-top/"/>
-        <updated>2022-12-06T21:09:33.000Z</updated>
-        <summary type="html"><![CDATA[You may be used to using the Activity Monitor in MacOS or the Task Manager for Windows to see the current processes running on your system.  But for those running Linux, if that includes a dual boot, virtual box, or even WSL2, you could use a useful Linux command]]></summary>
-        <author>
-            <name>Anthony Behery</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Automate Your Business Strategy with Python and APIs]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-automate-e-commerce-operations-with-python/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-automate-e-commerce-operations-with-python/"/>
-        <updated>2022-12-06T18:11:07.000Z</updated>
-        <summary type="html"><![CDATA[When you work in e-commerce operations, you'll have to perform many tasks daily to implement your company's business strategies.  But these often repetitive tasks can be time-consuming and leave room for errors. Some of these errors can cost your company money, reputation, and time.  Luckily, Python and APIs]]></summary>
-        <author>
-            <name>Marco Venturi</name>
         </author>
     </entry>
     <entry>
@@ -374,17 +385,6 @@ Creating a Settings UI for a Custom WordPress Block originally published on CSS-
         <summary type="html"><![CDATA[In this article, Alba Silvente shows us the theoretical and practical solutions to the most common problems when working with images and how to automate them by using a headless CMS and an image CDN.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Alba Silvente)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DigitalOcean Welcomes Cloudways to the Family]]></title>
-        <id>https://css-tricks.com/?p=375385</id>
-        <link href="https://css-tricks.com/digitalocean-welcomes-cloudways-to-the-family/"/>
-        <updated>2022-11-16T23:38:36.000Z</updated>
-        <summary type="html"><![CDATA[Hey folks! If you’ve been keeping up with the latest DigitalOcean news, you might be aware that we recently announced our acquisition of a company called Cloudways. In case you’re curious about what this means, we thought it might …
-DigitalOcean Welcomes Cloudways to the Family originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Haley Mills</name>
         </author>
     </entry>
     <entry>
