@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-14T01:21:54.221Z</id>
+    <id>urn:2023-01-15T01:36:39.332Z</id>
     <title>osmos::feed</title>
-    <updated>2023-01-14T01:21:54.221Z</updated>
+    <updated>2023-01-15T01:36:39.332Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -313,38 +313,6 @@ WordPress Playground: Running WordPress in the Browser originally published on C
 CSS Infinite 3D Sliders originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boosting Productivity For Designers With Efficient Tools]]></title>
-        <id>https://smashingmagazine.com/2022/12/optimizing-design-workflow-tools/</id>
-        <link href="https://smashingmagazine.com/2022/12/optimizing-design-workflow-tools/"/>
-        <updated>2022-12-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Ashish Bogawat shares some of his favorite ways how to boost productivity and do things faster, better, and probably more fun by using efficient tools and workflows.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ashish Bogawat)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[So, you’d like to animate the display property]]></title>
-        <id>https://css-tricks.com/?p=375714</id>
-        <link href="https://css-tricks.com/so-youd-like-to-animate-the-display-property/"/>
-        <updated>2022-12-15T15:41:06.000Z</updated>
-        <summary type="html"><![CDATA[The CSS Working Group gave that a thumbs-up a couple weeks ago. The super-duper conceptual proposal being that we can animate or transition from, say, display: block to display: none.
-It’s a bit of a brain-twister to reason …
-So, you’d like to animate the display property originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Prioritize User Security When Collecting Offline Data]]></title>
-        <id>https://smashingmagazine.com/2022/12/prioritize-user-security-collecting-offline-data/</id>
-        <link href="https://smashingmagazine.com/2022/12/prioritize-user-security-collecting-offline-data/"/>
-        <updated>2022-12-15T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Concerns over online privacy and security are nothing new. In this article, Suzanne Scacca explores how the right CSV importer can help businesses better prioritize user security.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Suzanne Scacca)</name>
         </author>
     </entry>
 </feed>
