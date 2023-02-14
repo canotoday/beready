@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-13T01:39:06.228Z</id>
+    <id>urn:2023-02-14T01:39:04.272Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-13T01:39:06.228Z</updated>
+    <updated>2023-02-14T01:39:04.272Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[OWASP Top 10 Vulnerabilities – A Guide for Pen-Testers & Bug Bounty Hunters]]></title>
+        <id>https://www.freecodecamp.org/news/owasp-top-10-vulnerabilities/</id>
+        <link href="https://www.freecodecamp.org/news/owasp-top-10-vulnerabilities/"/>
+        <updated>2023-02-13T23:44:49.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will look at OWASP and the top 10 web application vulnerabilities they've identified. This is a useful topic for both web app pen-testers and bug bounty hunters. What do web app pen-testers and bug bounty hunters have in common? They are both hunting for bugs, but]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Cognito for Web Applications]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-cognito-for-web-applications/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-cognito-for-web-applications/"/>
+        <updated>2023-02-13T22:06:41.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Cognito [https://aws.amazon.com/cognito/] is a cloud-based, serverless solution for identity and access management. It provides capabilities similar to  Auth0 [https://aws.amazon.com/cognito/] and Okta [https://aws.amazon.com/cognito/].  Cognito is part of the AWS suite of services so you can easily incorporate it if you are already using AWS in other parts of]]></summary>
+        <author>
+            <name>Max Rohde</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asynchronous Programming in JavaScript for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/asynchronism-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/asynchronism-in-javascript/"/>
+        <updated>2023-02-13T16:15:45.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone! In this article we're going to take a look at a key topic when it comes to programming: managing asynchronism. We'll start by giving a theoretical foundation about what asynchronism is, and how it relates to key components of JavasScript: The execution thread, the call stack and the]]></summary>
+        <author>
+            <name>Germán Cocca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Approach to Lazy Loading Custom Elements]]></title>
+        <id>https://css-tricks.com/?p=376991</id>
+        <link href="https://css-tricks.com/an-approach-to-lazy-loading-custom-elements/"/>
+        <updated>2023-02-13T15:10:41.000Z</updated>
+        <summary type="html"><![CDATA[We’re fans of Custom Elements around here. Their design makes them particularly amenable to lazy loading, which can be a boon for performance.
+Inspired by a colleague’s experiments, I recently set about writing a simple auto-loader: Whenever a custom …
+An Approach to Lazy Loading Custom Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Frederik Dohr</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use MySQL Transactions]]></title>
         <id>https://www.freecodecamp.org/news/how-to-use-mysql-transactions/</id>
@@ -94,36 +136,6 @@ Different Ways to Get CSS Gradient Shadows originally published on CSS-Tricks, w
         <summary type="html"><![CDATA[Have you ever felt frustrated searching for files manually on your computer? If you’re a developer or DevOps engineer working on GUI-less Linux servers, it'll be hard navigating back and forth to find files. Many people are unaware of the power of Linux terminals. Linux has an incredibly powerful command]]></summary>
         <author>
             <name>Arunachalam B</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why You Should Use Java for Backend Development]]></title>
-        <id>https://www.freecodecamp.org/news/java-for-backend-web-development/</id>
-        <link href="https://www.freecodecamp.org/news/java-for-backend-web-development/"/>
-        <updated>2023-02-09T21:54:09.000Z</updated>
-        <summary type="html"><![CDATA[Java is a well-established and widely-used programming language. You can use it to create desktop and mobile applications, for massive data processing, for backend development, to program embedded devices, and more.  Oracle, the company that owns Java, claims that Java is used on 3 billion devices worldwide, making it]]></summary>
-        <author>
-            <name>David Fagbuyiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Window Functions in SQL – with Example Queries]]></title>
-        <id>https://www.freecodecamp.org/news/window-functions-in-sql/</id>
-        <link href="https://www.freecodecamp.org/news/window-functions-in-sql/"/>
-        <updated>2023-02-09T21:47:41.000Z</updated>
-        <summary type="html"><![CDATA[Window functions are an advanced type of function in SQL. They let you work with observations more easily.  Window functions give you access to features like advanced analytics and data manipulation without the need to write complex queries. In this lesson you will learn about what window functions are]]></summary>
-        <author>
-            <name>Ibrahim Abayomi Ogunbiyi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Work with Branches in Git]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-work-with-branches-in-git/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-work-with-branches-in-git/"/>
-        <updated>2023-02-09T21:42:10.000Z</updated>
-        <summary type="html"><![CDATA[One of the things we fell in love with when we saw our future backyard was the tree. The valley oak is the largest North American oak. It can grow to be 600 years old and 100 feet tall. It's known for its irregular, spreading branches. Speaking of branches...a key]]></summary>
-        <author>
-            <name>Deborah Kurata</name>
         </author>
     </entry>
     <entry>
