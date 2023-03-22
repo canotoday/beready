@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-21T01:20:21.727Z</id>
+    <id>urn:2023-03-22T01:21:00.077Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-21T01:20:21.727Z</updated>
+    <updated>2023-03-22T01:21:00.077Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What does => Mean in JavaScript? The Equals Greater Than Symbol aka Hashrocket Explained]]></title>
+        <id>https://www.freecodecamp.org/news/what-does-the-hashrocket-symbol-mean-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/what-does-the-hashrocket-symbol-mean-in-javascript/"/>
+        <updated>2023-03-21T22:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Prior to the introduction of arrow functions, function expressions in JavaScript had a verbose syntax that often made code harder to read and understand.  As a more concise way of writing function expressions in JavaScript, arrow functions were introduced in ECMAScript 6 (ES6). They quickly gained popularity among developers]]></summary>
+        <author>
+            <name>Edeh Israel Chidera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modern Social Engineering Explained – 10 Types of Social Engineering Cyberattacks]]></title>
+        <id>https://www.freecodecamp.org/news/modern-social-engineering-cyberattacks/</id>
+        <link href="https://www.freecodecamp.org/news/modern-social-engineering-cyberattacks/"/>
+        <updated>2023-03-21T22:03:40.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever received a suspicious email or phone call from an unknown number asking for information? Or clicked on that link promising discount deals but ended up entering sensitive information? Chances are you were a victim of a social engineering attack. Social engineering is a manipulation technique used by]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript if Statements, Equality and Truthy/Falsy – Explained with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-if-statement-equality-and-truthy-falsy/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-if-statement-equality-and-truthy-falsy/"/>
+        <updated>2023-03-21T21:06:20.000Z</updated>
+        <summary type="html"><![CDATA[Decisions, decisions, decisions. Go left? Or go right? In programming, we use an  if statement when we want our code to make a decision. In this tutorial, we'll deep dive into the JavaScript if statement. Along the way, we'll examine the difference between single equals, double equals, and triple]]></summary>
+        <author>
+            <name>Deborah Kurata</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chart.js Tutorial – How to Make Marimekko Charts in Angular]]></title>
+        <id>https://www.freecodecamp.org/news/chart-js-tutorial-how-to-make-marimekko-charts-in-angular/</id>
+        <link href="https://www.freecodecamp.org/news/chart-js-tutorial-how-to-make-marimekko-charts-in-angular/"/>
+        <updated>2023-03-21T17:51:26.000Z</updated>
+        <summary type="html"><![CDATA[Data visualization is an essential part of data analysis. And charts are one of the most effective ways to present data in a clear and concise manner.  Marimekko charts are an excellent choice for displaying complex data sets in a compact and visually appealing format.  A Marimekko chart,]]></summary>
+        <author>
+            <name>Swatej Patil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advanced SQL Techniques for Complex Queries]]></title>
+        <id>https://www.freecodecamp.org/news/advanced-sql-techniques/</id>
+        <link href="https://www.freecodecamp.org/news/advanced-sql-techniques/"/>
+        <updated>2023-03-21T17:01:39.000Z</updated>
+        <summary type="html"><![CDATA[Structured Query Language or SQL is an effective tool for managing and modifying data that is stored in databases.  The SELECT, INSERT, UPDATE, and DELETE SQL commands are suitable for many common use cases. But sometimes, more sophisticated techniques can help you perform out more complex queries and analyses]]></summary>
+        <author>
+            <name>Oluseye Jeremiah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use OpenAI Gymnasium for Reinforcement Learning]]></title>
+        <id>https://www.freecodecamp.org/news/use-openai-gymnasium-for-reinforcement-learning/</id>
+        <link href="https://www.freecodecamp.org/news/use-openai-gymnasium-for-reinforcement-learning/"/>
+        <updated>2023-03-21T14:17:07.000Z</updated>
+        <summary type="html"><![CDATA[Embark on an exciting journey to learn the fundamentals of reinforcement learning and its implementation using Gymnasium, the open-source Python library previously known as OpenAI Gym. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you the basics of reinforcement learning using Gymnasium. Mustafa Esoofally]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 58 With Debbie Levitt: What Is CX Design?]]></title>
+        <id>https://smashingmagazine.com/2023/03/smashing-podcast-episode-58/</id>
+        <link href="https://smashingmagazine.com/2023/03/smashing-podcast-episode-58/"/>
+        <updated>2023-03-21T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode of the Smashing Podcast, we ask what is Customer Experience design, and how does it differ from User Experience design? Vitaly Friedman talks to expert Debbie Levitt to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Developers Can Prevent Fraud and Stop Scammers]]></title>
         <id>https://www.freecodecamp.org/news/how-developers-can-prevent-fraud-and-stop-scammers/</id>
@@ -43,66 +113,6 @@
         <summary type="html"><![CDATA[JavaScript is a popular programming language that 78% of developers use. You can build almost anything with JavaScript. The problem is that many developers learn JavaScript in a very short period of time, without understanding some of the most essential features of the language. In this article, we will cover]]></summary>
         <author>
             <name>Houssein Badra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create a platformer game with Python]]></title>
-        <id>https://www.freecodecamp.org/news/create-a-platformer-game-with-python/</id>
-        <link href="https://www.freecodecamp.org/news/create-a-platformer-game-with-python/"/>
-        <updated>2023-03-20T19:47:16.000Z</updated>
-        <summary type="html"><![CDATA[Are you ready to build a classic platformer game in Python from start to finish? If so, you're in the right place! We just published a video course on the freeCodeCamp.org YouTube channel that will teach you how to create a platformer game in Python using the Pygame library. We'll]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bash Scripting Tutorial – Linux Shell Script and Command Line for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/"/>
-        <updated>2023-03-20T17:35:58.000Z</updated>
-        <summary type="html"><![CDATA[In Linux, process automation relies heavily on shell scripting. This involves creating a file containing a series of commands that can be executed together. In this article, we'll start with the basics of bash scripting which includes variables, commands, inputs/ outputs, and debugging. We'll also see examples of each along]]></summary>
-        <author>
-            <name>Zaira Hira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[List Flatten in Python – Flattening Nested Lists]]></title>
-        <id>https://www.freecodecamp.org/news/list-flatten-in-python-flattening-nested-lists/</id>
-        <link href="https://www.freecodecamp.org/news/list-flatten-in-python-flattening-nested-lists/"/>
-        <updated>2023-03-20T17:02:03.000Z</updated>
-        <summary type="html"><![CDATA[Lists are one of the core data structures of Python. Due to their flexibility, there are a lot of things you can do with lists. And one of those things is turning a list of lists into a single list. It is also possible to turn a list of dictionaries,]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build React Forms with Formik]]></title>
-        <id>https://www.freecodecamp.org/news/build-react-forms-with-formik-library/</id>
-        <link href="https://www.freecodecamp.org/news/build-react-forms-with-formik-library/"/>
-        <updated>2023-03-20T16:56:05.000Z</updated>
-        <summary type="html"><![CDATA[Form building in React [https://reactjs.org/] can be complex and time-consuming, requiring state management, validation, and error handling.  To simplify this process, the Formik [https://formik.org/] library provides an intuitive solution for building forms in React. Formik has a straightforward API and built-in validation, making collecting and manipulating input data in]]></summary>
-        <author>
-            <name>Popoola Temitope</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Serverless ChatGPT App in 10 Minutes]]></title>
-        <id>https://www.freecodecamp.org/news/create-a-serverless-chatgpt-app/</id>
-        <link href="https://www.freecodecamp.org/news/create-a-serverless-chatgpt-app/"/>
-        <updated>2023-03-20T16:52:42.000Z</updated>
-        <summary type="html"><![CDATA[Since OpenAI released an official API for ChatGPT [https://openai.com/blog/introducing-chatgpt-and-whisper-apis] in March 2023, many developers and entrepreneurs are interested in integrating it into their own business operations.  But some significant barriers remain that make it difficult for them to do this:  * OpenAI provides a simple stateless API]]></summary>
-        <author>
-            <name>Michael Yuan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Define Relationships Between Django Models]]></title>
-        <id>https://www.freecodecamp.org/news/django-model-relationships/</id>
-        <link href="https://www.freecodecamp.org/news/django-model-relationships/"/>
-        <updated>2023-03-20T16:05:18.000Z</updated>
-        <summary type="html"><![CDATA[Django [https://www.djangoproject.com/] is a free and open-source web framework written in Python. It helps with rapid web development and provides out-of-the-box web security. Websites must be able to store and retrieve data from databases. Django makes provisions for this. By default, Django operates a Relational Database Management System.  >]]></summary>
-        <author>
-            <name>Damilola Oladele</name>
         </author>
     </entry>
     <entry>
