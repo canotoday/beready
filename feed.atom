@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-24T01:20:30.899Z</id>
+    <id>urn:2023-03-25T01:19:01.596Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-24T01:20:30.899Z</updated>
+    <updated>2023-03-25T01:19:01.596Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Dataframe to CSV – How to Save Pandas Dataframes by Exporting]]></title>
+        <id>https://www.freecodecamp.org/news/dataframe-to-csv-how-to-save-pandas-dataframes-by-exporting/</id>
+        <link href="https://www.freecodecamp.org/news/dataframe-to-csv-how-to-save-pandas-dataframes-by-exporting/"/>
+        <updated>2023-03-24T18:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Pandas is a widely used open-source library in Python for data manipulation and analysis. It provides a range of data structures and functions for working with data, one of which is the DataFrame.  DataFrames are a powerful tool for storing and analyzing large sets of data, but they can]]></summary>
+        <author>
+            <name>Shittu Olumide</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add Scroll Animations to a Page with JavaScript's Intersection Observer API]]></title>
+        <id>https://www.freecodecamp.org/news/scroll-animations-with-javascript-intersection-observer-api/</id>
+        <link href="https://www.freecodecamp.org/news/scroll-animations-with-javascript-intersection-observer-api/"/>
+        <updated>2023-03-24T17:42:18.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes, when you visit a website, you'll notice that certain elements or a particular section gets revealed dynamically as you scroll.  It's like the contents of that particular section weren't available to view until you scrolled into the section – but now, because you're there, the website decides to]]></summary>
+        <author>
+            <name>Mwendwa Bundi Emma</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SQL Where Contains String – Substring Query Example]]></title>
         <id>https://www.freecodecamp.org/news/sql-where-contains-string-substring-query-example/</id>
@@ -104,26 +124,6 @@
 Some Cross-Browser DevTools Features You Might Not Know originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Pankaj Parashar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRM App Development with Django, Python, and MySQL]]></title>
-        <id>https://www.freecodecamp.org/news/crm-app-development-with-django-python-and-mysql/</id>
-        <link href="https://www.freecodecamp.org/news/crm-app-development-with-django-python-and-mysql/"/>
-        <updated>2023-03-22T19:58:56.000Z</updated>
-        <summary type="html"><![CDATA[Are you interested in learning how to build a customer relationship management (CRM) app with Django, Python, and MySQL? We just published a course on the freeCodeCamp.org YouTube channel that will guide you step-by-step on how to build a fully-functional CRM application using Django, Python, and MySQL. John Elder developed]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Print Newline in Python – Printing a New Line]]></title>
-        <id>https://www.freecodecamp.org/news/print-newline-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/print-newline-in-python/"/>
-        <updated>2023-03-22T19:17:24.000Z</updated>
-        <summary type="html"><![CDATA[Working with strings or text data in programming frequently involves printing a newline. The end of a line is indicated by a newline character, which also advances the cursor to the start of the following line. Using the escape character "\n," we can print a newline in Python. Other programming]]></summary>
-        <author>
-            <name>Shittu Olumide</name>
         </author>
     </entry>
     <entry>
@@ -329,26 +329,6 @@ Everything You Need to Know About the Gap After the List Marker originally publi
         <summary type="html"><![CDATA[Each time we build a field validation from scratch, accessibility doesn’t come out of the box. In this guide, Sandrina breaks down what we need to take into consideration, so that nobody gets stuck on an inaccessible invalid field.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Sandrina Pereira)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chocolate, Waffles And Fries: Meet SmashingConf Antwerp 2023 🇧🇪]]></title>
-        <id>https://smashingmagazine.com/2023/02/meet-smashingconf-antwerp/</id>
-        <link href="https://smashingmagazine.com/2023/02/meet-smashingconf-antwerp/"/>
-        <updated>2023-02-22T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Brand new conference on design & UX, for designers and UI engineers who love the web. On design systems, usability, product design and complex UIs. That’s SmashingConf Antwerp, taking place in magical Bourla on October 9–11, 2023.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Future-Proof High-Performance Websites With Astro Islands And Headless CMS]]></title>
-        <id>https://smashingmagazine.com/2023/02/building-future-proof-high-performance-websites-astro-islands-headless-cms-storyblok/</id>
-        <link href="https://smashingmagazine.com/2023/02/building-future-proof-high-performance-websites-astro-islands-headless-cms-storyblok/"/>
-        <updated>2023-02-22T17:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Let’s see how to achieve phenomenal web performance and great developer experience with Astro and a headless CMS, resulting in the best possible experience for users, developers and content creators alike.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Manuel Schröder)</name>
         </author>
     </entry>
 </feed>
