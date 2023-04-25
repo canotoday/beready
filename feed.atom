@@ -1,28 +1,118 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-24T01:21:08.248Z</id>
+    <id>urn:2023-04-25T01:20:52.442Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-24T01:21:08.248Z</updated>
+    <updated>2023-04-25T01:20:52.442Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Navigation in Flutter – How to Add Stack, Tab, and Drawer Navigators to Your Apps]]></title>
-        <id>https://www.freecodecamp.org/news/navigation-in-flutter/</id>
-        <link href="https://www.freecodecamp.org/news/navigation-in-flutter/"/>
-        <updated>2023-04-21T18:10:23.000Z</updated>
-        <summary type="html"><![CDATA[Almost any app that you design or develop will use some type of navigation.  There are three types of navigation that are common to all apps – stack, tab, and drawer navigation. Flutter supports all three types, and implementing them is similar to how you do it in other]]></summary>
+        <title type="html"><![CDATA[How to Use ChatGPT – Prompts for Data Scientists]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-chatgpt-for-data-scientists/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-chatgpt-for-data-scientists/"/>
+        <updated>2023-04-24T23:01:14.000Z</updated>
+        <summary type="html"><![CDATA[These days, many people are concerned with the way AI is evolving. They see it effortlessly solving problems, performing tasks quickly and accurately, and doing jobs easily and efficiently.  And while some people are scared, others are actually embracing it. I'm one of those people who are embracing it,]]></summary>
         <author>
-            <name>Arunachalam B</name>
+            <name>Shittu Olumide</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Difference Between Pseudo-Classes and Pseudo-Elements in CSS]]></title>
-        <id>https://www.freecodecamp.org/news/the-difference-between-pseudo-classes-and-elements-in-css/</id>
-        <link href="https://www.freecodecamp.org/news/the-difference-between-pseudo-classes-and-elements-in-css/"/>
-        <updated>2023-04-21T17:34:29.000Z</updated>
-        <summary type="html"><![CDATA[In CSS, pseudo-classes and pseudo-elements are two types of keywords that you can combine with selectors. They are used to target the element's state or specific parts of an element.  In this article, we'll explore the differences between the two along with their history and best practices. Syntax]]></summary>
+        <title type="html"><![CDATA[Server Side Rendering in JavaScript – SSR vs CSR Explained]]></title>
+        <id>https://www.freecodecamp.org/news/server-side-rendering-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/server-side-rendering-javascript/"/>
+        <updated>2023-04-24T22:12:31.000Z</updated>
+        <summary type="html"><![CDATA[The concept of Server Side Rendering (SSR) is often misunderstood. So my aim in this article is to bring clarity to this process and how it works.  Here's what we'll cover in this guide:  1. What is server side rendering? What are its pros and cons when compared]]></summary>
         <author>
-            <name>Natalie Pina</name>
+            <name>Scott Gary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are Pointers in Go? A Guide for JavaScript Devs]]></title>
+        <id>https://www.freecodecamp.org/news/what-are-pointers-in-go/</id>
+        <link href="https://www.freecodecamp.org/news/what-are-pointers-in-go/"/>
+        <updated>2023-04-24T22:07:19.000Z</updated>
+        <summary type="html"><![CDATA[Coming from a language like JavaScript, pointers can be kind of confusing at first. Here I will break it down so that they are easier to understand. What Are Pointers in Go? Just like in JavaScript, Go has variables which are locations in memory that store a value.  In]]></summary>
+        <author>
+            <name>Brian Barrow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Debug Your Code Like a Competitive Programmer –Automate and Save Time]]></title>
+        <id>https://www.freecodecamp.org/news/debugging-like-competitive-programmers/</id>
+        <link href="https://www.freecodecamp.org/news/debugging-like-competitive-programmers/"/>
+        <updated>2023-04-24T22:03:14.000Z</updated>
+        <summary type="html"><![CDATA[I've been a competitive programmer for many years. And during that time, I have faced the process of debugging on numerous occasions.  In this article, I will try to describe how debugging works in such environments, instead of depicting it in the regular software development activities we do every]]></summary>
+        <author>
+            <name>Alberto Gonzalez Rosales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Redux Toolkit to Manage State in Your React Application]]></title>
+        <id>https://www.freecodecamp.org/news/use-redux-toolkit-to-manage-state-in-react-apps/</id>
+        <link href="https://www.freecodecamp.org/news/use-redux-toolkit-to-manage-state-in-react-apps/"/>
+        <updated>2023-04-24T21:38:24.000Z</updated>
+        <summary type="html"><![CDATA[State management is one of the most important things you'll deal with in front end development.  You can manage state in React in various ways. Some examples include using state in class components, using React hooks such as useState and useEffect hook, using the Context API, or using Redux.]]></summary>
+        <author>
+            <name>Quincy Oghenetejiri Ukumakube</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Google Apps Script – Build a Paint By Numbers Spreadsheet]]></title>
+        <id>https://www.freecodecamp.org/news/learn-google-apps-script-build-a-paint-by-numbers-spreadsheet/</id>
+        <link href="https://www.freecodecamp.org/news/learn-google-apps-script-build-a-paint-by-numbers-spreadsheet/"/>
+        <updated>2023-04-24T21:12:07.000Z</updated>
+        <summary type="html"><![CDATA[Spreadsheets are great for financial modeling, but they're also capable of displaying pixel art.  In this Apps Script tutorial, we'll build a paint by numbers spreadsheet using conditional formatting and a script that "paints" a blank spreadsheet. You'll learn how to:  1. Import data  2. Apply proper]]></summary>
+        <author>
+            <name>Eamonn Cottrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn React Router 6 in Ten Hours]]></title>
+        <id>https://www.freecodecamp.org/news/learn-react-router-6-3/</id>
+        <link href="https://www.freecodecamp.org/news/learn-react-router-6-3/"/>
+        <updated>2023-04-24T20:34:28.000Z</updated>
+        <summary type="html"><![CDATA[React Router is a powerful library that helps you build single-page applications with ease. It allows you to create multiple routes, nested routes, and handle transitions between them, all while maintaining a clean and organized codebase. We just published a course on the freeCodeCamp.org YouTube channel that will teach you]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Boost Your Creativity – Strategies for Generating Ideas and Overcoming Writer's Block]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-overcome-writers-block-and-boost-creativity/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-overcome-writers-block-and-boost-creativity/"/>
+        <updated>2023-04-24T19:46:18.000Z</updated>
+        <summary type="html"><![CDATA[Do you ever find yourself stuck when it comes to writing or unable to come up with creative solutions to a problem? Don’t worry—you are not alone. Everyone experiences writer's block or a lack of creativity at some point. At times, as writers, we may be really eager to write]]></summary>
+        <author>
+            <name>Ijeoma Igboagu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is RAM? How to Access Your Computer's RAM and Read the Contents]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-access-and-read-ram-contents/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-access-and-read-ram-contents/"/>
+        <updated>2023-04-24T19:31:18.000Z</updated>
+        <summary type="html"><![CDATA[This article is a comprehensive guide on how to read the contents of your computer's RAM.  Random Access Memory (RAM) is a crucial component of any computer system, and it is responsible for temporarily storing data that is required by the system to carry out its functions. But the]]></summary>
+        <author>
+            <name>Gursimar Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Visualization with Matplotlib – a Step by Step Guide]]></title>
+        <id>https://www.freecodecamp.org/news/introduction-to-data-vizualization-using-matplotlib/</id>
+        <link href="https://www.freecodecamp.org/news/introduction-to-data-vizualization-using-matplotlib/"/>
+        <updated>2023-04-24T18:32:32.000Z</updated>
+        <summary type="html"><![CDATA[SEE [https://tv.apple.com/us/show/see/umc.cmc.3s4mgg2y7h95fks9gnc4pw13m] is a beautiful Apple TV series that depicts a dystopia where humans have lost their sight. Hundreds of years later, it was considered a myth that people could ever see.  Jason Momoa is one of the leads and plays Baba Voss, an elite warrior. Jason's wife gives]]></summary>
+        <author>
+            <name>MENE-EJEGI OGBEMI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Potentially Dangerous Non-Accessibility Of Cookie Notices]]></title>
+        <id>https://smashingmagazine.com/2023/04/potentially-dangerous-non-accessibility-cookie-notices/</id>
+        <link href="https://smashingmagazine.com/2023/04/potentially-dangerous-non-accessibility-cookie-notices/"/>
+        <updated>2023-04-24T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this piece, a Web Content Accessibility Guidelines (WCAG) auditor shares some cookie banner error patterns that can massively hurt a page’s overall conformance. Let’s explore what to look out for with this omnipresent piece of the web interface.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Marcus Herrmann)</name>
         </author>
     </entry>
     <entry>
@@ -36,76 +126,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Initialize an ArrayList in Java – Declaration with Values]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-initialize-an-arraylist-in-java-with-values/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-initialize-an-arraylist-in-java-with-values/"/>
-        <updated>2023-04-21T06:34:22.000Z</updated>
-        <summary type="html"><![CDATA[You can use an ArrayList in Java to store and manipulate a collection of similar variables.  An ArrayList is just like an array [/news/java-array-how-to-declare-and-initialize-an-array-in-java-example/] but offers more flexibility. An ArrayList is more dynamic with the size of the collection, and gives you more control over the elements in a]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use APIs in Your Projects to Practice Your Coding Skills]]></title>
-        <id>https://www.freecodecamp.org/news/use-apis-to-practice-coding-skills/</id>
-        <link href="https://www.freecodecamp.org/news/use-apis-to-practice-coding-skills/"/>
-        <updated>2023-04-20T22:28:01.000Z</updated>
-        <summary type="html"><![CDATA[As web developers, we all know that practice makes perfect. But when it comes to practice, it's easy to get stuck in a programming rut. But how do you come up with new ideas to build? Sooner or later, you will find yourself running out of features to add or]]></summary>
-        <author>
-            <name>Rahul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Handle File Uploads on the Back End in Node.js and Nuxt]]></title>
-        <id>https://www.freecodecamp.org/news/handle-file-uploads-on-the-backend-in-node-js-nuxt/</id>
-        <link href="https://www.freecodecamp.org/news/handle-file-uploads-on-the-backend-in-node-js-nuxt/"/>
-        <updated>2023-04-20T22:27:42.000Z</updated>
-        <summary type="html"><![CDATA[In some previous tutorials, I covered how to upload files using HTML [https://austingil.com/uploading-files-with-html/] and JavaScript [https://austingil.com/upload-files-with-javascript/]. It requires sending HTTP requests with the Content-Type [https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type] header set to multipart/form-data. Today, we are going to the back end to receive those multipart/form-data  requests and access the binary data from those]]></summary>
-        <author>
-            <name>Austin Gil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Communicate with ChatGPT – A Guide to Prompt Engineering]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-communicate-with-ai-tools-prompt-engineering/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-communicate-with-ai-tools-prompt-engineering/"/>
-        <updated>2023-04-20T20:54:11.000Z</updated>
-        <summary type="html"><![CDATA[AI has become an integral part of our lives and businesses. Over the past few years, we’ve seen the rapid rise of AI tools, and their impact on our day-to-day activities can't be ignored. From virtual assistants to chatbots, AI just keeps getting smarter with more functionalities than before. This]]></summary>
-        <author>
-            <name>Hillary Nyakundi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prepare for Your JavaScript Interview]]></title>
-        <id>https://www.freecodecamp.org/news/prepare-for-your-javascript-interview/</id>
-        <link href="https://www.freecodecamp.org/news/prepare-for-your-javascript-interview/"/>
-        <updated>2023-04-20T17:04:45.000Z</updated>
-        <summary type="html"><![CDATA[Are you preparing for a JavaScript interview and want to ensure that you have a deep understanding of closures, functions, and currying? Then Roadside Coder's video course is just what you need. We just published a full course on the freeCodeCamp.org YouTube channel that will help prepare you for a]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Does the Caret Mean in RegEx? Caret Metacharacter in Regular Expressions]]></title>
-        <id>https://www.freecodecamp.org/news/what-does-the-caret-mean-in-regex-how-to-match-the-start-of-a-line-in-regular-expressions/</id>
-        <link href="https://www.freecodecamp.org/news/what-does-the-caret-mean-in-regex-how-to-match-the-start-of-a-line-in-regular-expressions/"/>
-        <updated>2023-04-20T16:47:22.000Z</updated>
-        <summary type="html"><![CDATA[A caret (^) is one of the many symbols for creating patterns in regular expressions. A caret matches the start of a line or a particular string. But that’s not all there is to the caret (^) symbol. The caret symbol (^) is often referred to as an "anchor" because]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Copy File – Copying Files to Another Directory]]></title>
-        <id>https://www.freecodecamp.org/news/python-copy-file-copying-files-to-another-directory/</id>
-        <link href="https://www.freecodecamp.org/news/python-copy-file-copying-files-to-another-directory/"/>
-        <updated>2023-04-20T14:16:43.000Z</updated>
-        <summary type="html"><![CDATA[When working with Python, there may be times when you need to copy a file. Copying files comes in handy when you need to create a backup. In this article, you will learn how to copy a file in Python using the shutil  module and its different methods. The]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Building And Dockerizing A Node.js App With Stateless Architecture With Help From Kinsta]]></title>
         <id>https://smashingmagazine.com/2023/04/building-dockerizing-nodejs-app-stateless-architecture-kinsta/</id>
         <link href="https://smashingmagazine.com/2023/04/building-dockerizing-nodejs-app-stateless-architecture-kinsta/"/>
@@ -113,16 +133,6 @@
         <summary type="html"><![CDATA[Dockerizing your Node.js apps can lead to smashing success—offering consistency, easy debugging, and hassle-free dependency management. When you host this container on Kinsta, you also benefit from high-speed performance, robust security, and top-notch scalability. By combining these two, you'll surely have a whale of a time as you sail smoothly through the development seas.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Tejas Kumar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Concepts to Know Before Learning React]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-concepts-to-know-before-learning-react/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-concepts-to-know-before-learning-react/"/>
-        <updated>2023-04-20T00:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A lot of web developers use React as their go-to library for building UI components for their websites. React is one of the most popular frameworks for web development and it is written entirely in JavaScript. Since React was written in JavaScript, it uses a lot of the JavaScript concepts]]></summary>
-        <author>
-            <name>Musab Habeeb</name>
         </author>
     </entry>
     <entry>
