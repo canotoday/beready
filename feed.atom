@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-17T01:22:00.452Z</id>
+    <id>urn:2023-05-18T01:19:49.411Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-17T01:22:00.452Z</updated>
+    <updated>2023-05-18T01:19:49.411Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Angular Upgrades That Will Improve Your Developer Experience]]></title>
+        <id>https://www.freecodecamp.org/news/angular-upgrades-to-improve-developer-experience/</id>
+        <link href="https://www.freecodecamp.org/news/angular-upgrades-to-improve-developer-experience/"/>
+        <updated>2023-05-17T23:40:59.000Z</updated>
+        <summary type="html"><![CDATA[When we talk about the Developer Experience [https://microsoft.github.io/code-with-engineering-playbook/developer-experience/] , we're referring to the level of difficulty a developer faces when completing essential tasks.  Factors like the complexity of a development framework or the absence of  syntactic sugar [https://www.techopedia.com/definition/10212/syntactic-sugar] in a programming language can negatively impact it. A robust]]></summary>
+        <author>
+            <name>Brenda Chepkorir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Regular Expressions in YAML File – RegEx in YAML Tutorial]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-regular-expressions-in-yaml-file/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-regular-expressions-in-yaml-file/"/>
+        <updated>2023-05-17T14:48:51.000Z</updated>
+        <summary type="html"><![CDATA[YAML does not have built-in support for regular expressions. But you can still include regex patterns as part of a YAML file's contents, access those patterns, and create a regex out of them. You can do this, for example, with the JavaScript RegExp constructor. So, in YAML, regular expressions are]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Deal With Big Tooling Upgrades In Large Organizations]]></title>
+        <id>https://smashingmagazine.com/2023/05/big-tooling-upgrades-large-organizations/</id>
+        <link href="https://smashingmagazine.com/2023/05/big-tooling-upgrades-large-organizations/"/>
+        <updated>2023-05-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The process of upgrading large third-party packages in equally large organizations is rarely, if ever, as easy as running an npm update and calling it a day in this context. Joran Quinten shares valuable lessons from his team’s experiences in upgrading third-party code that affects codebases across the entire organization.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Joran Quinten)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create an Interactive Heatmap Using JavaScript]]></title>
         <id>https://www.freecodecamp.org/news/interactive-heatmap-in-javascript/</id>
@@ -86,16 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cloud Computing Abstractions – IaaS, PaaS, FaaS, and SaaS Explained]]></title>
-        <id>https://www.freecodecamp.org/news/cloud-computing-abstractions-explained/</id>
-        <link href="https://www.freecodecamp.org/news/cloud-computing-abstractions-explained/"/>
-        <updated>2023-05-16T16:31:36.000Z</updated>
-        <summary type="html"><![CDATA[Abstracting is the process of reducing something to its most basic form. It is the hiding away of the inessential.  For a drawing, this could be reducing it to its basic lines and shapes. Naturally, there are many levels of an abstraction, since what is inessential is subjective.]]></summary>
-        <author>
-            <name>Daniel Adetunji</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Design Patterns Are A Better Way To Collaborate On Your Design System]]></title>
         <id>https://smashingmagazine.com/2023/05/design-patterns-collaborate-design-system/</id>
         <link href="https://smashingmagazine.com/2023/05/design-patterns-collaborate-design-system/"/>
@@ -103,16 +123,6 @@
         <summary type="html"><![CDATA[Every company and team has to have deep collaboration between engineering and design to get the value out of a design system (and not go nuts). Building design patterns first unblock people to work in parallel, keeps people synced up, and results in reusable modules that speed up your next project.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ben Clemens)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Networking in Flutter By Building a Simple App]]></title>
-        <id>https://www.freecodecamp.org/news/learn-networking-in-flutter/</id>
-        <link href="https://www.freecodecamp.org/news/learn-networking-in-flutter/"/>
-        <updated>2023-05-15T18:42:25.000Z</updated>
-        <summary type="html"><![CDATA[Almost all apps you use today run by accessing the internet. You can hardly find an app that runs without connecting to the internet.  The internet has become an integral part of our lives, as it solves one of the most critical problems we have to handle: data transfer.]]></summary>
-        <author>
-            <name>Arunachalam B</name>
         </author>
     </entry>
     <entry>
@@ -273,26 +283,6 @@
         <summary type="html"><![CDATA[In this article, Adel Khamatov shares a model of color mechanics that he came up with during research on developing UI kits and illustrates an approach to solving related problems with best practices.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Adel Khamatov)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 59 With Chiara Aliotta: What Is Design Storytelling?]]></title>
-        <id>https://smashingmagazine.com/2023/04/smashing-podcast-episode-59/</id>
-        <link href="https://smashingmagazine.com/2023/04/smashing-podcast-episode-59/"/>
-        <updated>2023-04-18T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode of The Smashing Podcast, we take a look at design storytelling. What is it, and how can it help us shape digital experiences? Vitaly talks to Chiara Aliotta to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Design Thinking?]]></title>
-        <id>https://smashingmagazine.com/2023/04/what-is-design-thinking/</id>
-        <link href="https://smashingmagazine.com/2023/04/what-is-design-thinking/"/>
-        <updated>2023-04-17T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wondered if things could have been done differently? But not sure how? Well, then, do not fall in love with the solution, but fall in love with the problem! Here’s an article to dive deep into how design thinking could do just that.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Krithika Subramanian)</name>
         </author>
     </entry>
 </feed>
