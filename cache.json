@@ -18,12 +18,42 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/06/enable-collaboration-multiparty-setting/",
+          "author": "hello@smashingmagazine.com (Hannah Kühne & Madlaina Kalunder)",
+          "description": "As Artificial Intelligence becomes more widespread, so too does the adoption of digital agents and voice interactions. Explore the power of mixed reality systems and multimodal communication to enhance collaboration between consultants and clients, transforming advisory services.",
+          "link": "https://smashingmagazine.com/2023/06/enable-collaboration-multiparty-setting/",
+          "publishedOn": "2023-06-02T16:00:00.000Z",
+          "wordCount": 5511,
+          "title": "How To Enable Collaboration In A Multiparty Setting",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/enable-collaboration-multiparty-setting/enable-collaboration-multiparty-setting.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/enable-collaboration-multiparty-setting/enable-collaboration-multiparty-setting.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2023/06/ia-presenter-case-study-product-pricing-considerations/",
+          "author": "hello@smashingmagazine.com (Geoff Graham)",
+          "description": "Pricing a product or service is one of the more challenging aspects of product development. Pricing is an inexact science, and chances are you will not get it right the first time. But where do you even begin? Let’s explore the important considerations that go into product pricing.",
+          "link": "https://smashingmagazine.com/2023/06/ia-presenter-case-study-product-pricing-considerations/",
+          "publishedOn": "2023-06-02T08:00:00.000Z",
+          "wordCount": 5100,
+          "title": "iA Presenter: A Case Study On Product Pricing Considerations",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/ia-presenter-case-study-product-pricing-considerations/ia-presenter-case-study-product-pricing-considerations.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/ia-presenter-case-study-product-pricing-considerations/ia-presenter-case-study-product-pricing-considerations.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/06/advanced-form-control-styling-selectmenu-anchoring-api/",
           "author": "hello@smashingmagazine.com (Brecht De Ruyte)",
           "description": "Thanks to the Open UI working community group, there’s a new element on the horizon, <selectmenu>, that will make styling this type of form control a whole lot better. You’re going to walk through an early implementation of this new experimental element by creating a pattern that you would never have thought possible with CSS alone — a radial selection menu.",
           "link": "https://smashingmagazine.com/2023/06/advanced-form-control-styling-selectmenu-anchoring-api/",
           "publishedOn": "2023-06-01T10:00:00.000Z",
-          "wordCount": 6271,
+          "wordCount": 6264,
           "title": "Advanced Form Control Styling With Selectmenu And Anchoring API",
           "enclosure": {
             "url": "http://files.smashing.media/articles/advanced-form-control-styling-selectmenu-anchoring-api/advanced-form-control-styling-selectmenu-anchoring-api.jpg",
@@ -83,7 +113,7 @@
           "description": "Say goodbye to traditional workflows and embrace Agile to unlock the power of high-quality code. Discover how Agile methodologies promote simplicity, modularization, readability, and continuous improvement, resulting in faster turnaround times, more responsive development processes, and ultimately, the creation of high-quality software that meets customer needs.",
           "link": "https://smashingmagazine.com/2023/05/impact-agile-methodologies-code-quality/",
           "publishedOn": "2023-05-25T11:00:00.000Z",
-          "wordCount": 5547,
+          "wordCount": 5549,
           "title": "The Impact Of Agile Methodologies On Code Quality",
           "enclosure": {
             "url": "http://files.smashing.media/articles/impact-agile-methodologies-code-quality/impact-agile-methodologies-code-quality.jpg",
@@ -98,7 +128,7 @@
           "description": "In this episode of the Smashing Podcast, we’re talking about Web Platform Baseline. What is it, and how can it help determine your browser support policy? Drew McLellan talks to expert Rachel Andrew to find out.",
           "link": "https://smashingmagazine.com/2023/05/smashing-podcast-episode-61/",
           "publishedOn": "2023-05-23T08:00:00.000Z",
-          "wordCount": 10428,
+          "wordCount": 10431,
           "title": "Smashing Podcast Episode 61 With Rachel Andrew: What Is Web Platform Baseline?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-podcast-episode-61/smashing-podcast-episode-61.png",
@@ -113,7 +143,7 @@
           "description": "It’s easy for beginner designers to get overwhelmed and lose confidence when creating presentations, landing pages, app and web design mockups, and even cards. Laurent Baumann shares a few simple guidelines and practical tips to help you in such situations.",
           "link": "https://smashingmagazine.com/2023/05/practical-design-tips-guidelines-beginner-designers/",
           "publishedOn": "2023-05-22T11:00:00.000Z",
-          "wordCount": 5580,
+          "wordCount": 5578,
           "title": "Practical Design Tips And Guidelines For Beginner Designers",
           "enclosure": {
             "url": "http://files.smashing.media/articles/practical-design-tips-guidelines-beginner-designers/practical-design-tips-guidelines-beginner-designers.jpg",
@@ -143,7 +173,7 @@
           "description": "Every company and team has to have deep collaboration between engineering and design to get the value out of a design system (and not go nuts). Building design patterns first unblock people to work in parallel, keeps people synced up, and results in reusable modules that speed up your next project.",
           "link": "https://smashingmagazine.com/2023/05/design-patterns-collaborate-design-system/",
           "publishedOn": "2023-05-16T11:00:00.000Z",
-          "wordCount": 5816,
+          "wordCount": 5818,
           "title": "Design Patterns Are A Better Way To Collaborate On Your Design System",
           "enclosure": {
             "url": "http://files.smashing.media/articles/design-patterns-collaborate-design-system/design-patterns-collaborate-design-system.jpg",
@@ -158,7 +188,7 @@
           "description": "This article covers common problems using CSS floats and how to solve them using a block formatting context (BFC). Whether you are a beginner or an experienced web developer, you will learn valuable insights and practical solutions for dealing with CSS float issues.",
           "link": "https://smashingmagazine.com/2023/05/media-object-float-issues-css-block-formatting-contexts/",
           "publishedOn": "2023-05-15T13:00:00.000Z",
-          "wordCount": 4857,
+          "wordCount": 4854,
           "title": "Solving Media Object Float Issues With CSS Block Formatting Contexts",
           "enclosure": {
             "url": "http://files.smashing.media/articles/media-object-float-issues-css-block-formatting-contexts/media-object-float-issues-css-block-formatting-contexts.jpg",
@@ -173,7 +203,7 @@
           "description": "Are sticky headers always a good idea? Best practices for designing sticky headers, with examples, UX guidelines and usability considerations.",
           "link": "https://smashingmagazine.com/2023/05/sticky-menus-ux-guidelines/",
           "publishedOn": "2023-05-12T11:00:00.000Z",
-          "wordCount": 3904,
+          "wordCount": 3905,
           "title": "Designing Sticky Menus: UX Guidelines",
           "enclosure": {
             "url": "http://files.smashing.media/articles/sticky-menus-ux-guidelines/sticky-menus-ux-guidelines.jpg",
@@ -203,7 +233,7 @@
           "description": "The Redux Toolkit documentation calls the library a better way to write Redux logic for React apps and a simple and efficient toolkit for Redux development. In this article, you will learn about the Redux toolkit by building an app that tracks project issues.",
           "link": "https://smashingmagazine.com/2023/05/guide-redux-toolkit-typescript/",
           "publishedOn": "2023-05-10T10:00:00.000Z",
-          "wordCount": 5985,
+          "wordCount": 5981,
           "title": "A Guide To Redux Toolkit With TypeScript",
           "enclosure": {
             "url": "http://files.smashing.media/articles/guide-redux-toolkit-typescript/guide-redux-toolkit-typescript.jpg",
@@ -218,7 +248,7 @@
           "description": "The rise of Artificial Intelligence (AI) in recent times has incited fear in many over losing their jobs. However, that shouldn’t be the case. On the contrary, AI is an opportunity to take your programming to the next level when used tactfully with the right knowledge, as we’ll cover today.",
           "link": "https://smashingmagazine.com/2023/05/ai-tools-skyrocket-programming-productivity/",
           "publishedOn": "2023-05-09T09:00:00.000Z",
-          "wordCount": 6497,
+          "wordCount": 6395,
           "title": "How To Use AI Tools To Skyrocket Your Programming Productivity",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ai-tools-skyrocket-programming-productivity/ai-tools-skyrocket-programming-productivity.jpg",
@@ -233,7 +263,7 @@
           "description": "Want to make sure your API keys are safe and sound when working with React? Jessica Joseph’s got you covered! She will show you the best ways to hide your API keys, from using environment variables to building your own back-end proxy server.",
           "link": "https://smashingmagazine.com/2023/05/safest-way-hide-api-keys-react/",
           "publishedOn": "2023-05-08T13:00:00.000Z",
-          "wordCount": 4446,
+          "wordCount": 4441,
           "title": "The Safest Way To Hide Your API Keys When Using React",
           "enclosure": {
             "url": "http://files.smashing.media/articles/safest-way-hide-api-keys-react/safest-way-hide-api-keys-react.jpg",
@@ -256,21 +286,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/learning-javascript-with-imagination/learning-javascript-with-imagination.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/05/effective-password-management/",
-          "author": "hello@smashingmagazine.com (Iliya Garakh)",
-          "description": "Highlighting the advantages of self-hosted solutions over cloud-based alternatives and exploring collaborative password management and more, P demonstrates how to organize convenient and secure password management in a company.",
-          "link": "https://smashingmagazine.com/2023/05/effective-password-management/",
-          "publishedOn": "2023-05-04T12:00:00.000Z",
-          "wordCount": 4613,
-          "title": "The Growing Need For Effective Password Management",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/effective-password-management/effective-password-management.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/effective-password-management/effective-password-management.jpg"
         }
       ]
     },
@@ -279,6 +294,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/dynamic-search-bar-google-sheets/",
+          "author": "Eamonn Cottrell",
+          "description": "This tutorial is for when CTRL + F is not enough. 🔥 I bet I've used the CTRL + F shortcut more than any other keyboard shortcut in my life. CTRL + Z probably comes close, but I use CTRL + F to find things... 💥ALL 💥 💥💥THE 💥💥 💥💥💥TIME",
+          "link": "https://www.freecodecamp.org/news/dynamic-search-bar-google-sheets/",
+          "publishedOn": "2023-06-02T13:31:11.000Z",
+          "wordCount": 1312,
+          "title": "Google Sheets – How to Make a Dynamic Search Bar",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/Google-Sheets-Dynamic-Search-Bar-with-profile.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-choose-a-cms/",
           "author": "Scott Gary",
@@ -368,16 +393,6 @@
           "wordCount": 2462,
           "title": "How to Use AWS Cognito for User Authentication",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/AWS-cognito.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/use-playbooks-for-incident-recovery/",
-          "author": "David Clinton",
-          "description": "A playbook is the official, formal written record that describes policies and processes that will reliably produce a working deployment of an organization's resource stack. When it comes to generating predictable results, the playbook is  the plan. I'll describe all the key elements of a good playbook in just",
-          "link": "https://www.freecodecamp.org/news/use-playbooks-for-incident-recovery/",
-          "publishedOn": "2023-05-31T01:28:09.000Z",
-          "wordCount": 1663,
-          "title": "How to Use Playbooks to Execute an Incident Recovery Plan",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-mateusz-dach-353644.jpg"
         }
       ]
     }
