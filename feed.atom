@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-23T01:47:23.213Z</id>
+    <id>urn:2023-06-24T01:45:23.881Z</id>
     <title>osmos::feed</title>
-    <updated>2023-06-23T01:47:23.213Z</updated>
+    <updated>2023-06-24T01:45:23.881Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use Exception Filters to Catch Bugs in Nest.js]]></title>
+        <id>https://www.freecodecamp.org/news/exception-filters-in-nestjs/</id>
+        <link href="https://www.freecodecamp.org/news/exception-filters-in-nestjs/"/>
+        <updated>2023-06-23T21:38:23.000Z</updated>
+        <summary type="html"><![CDATA[It's common to find errors and bugs in your code if you're a software developer. They might occur because of incorrect input, from passing the wrong data types, or because of delays or response timeouts.  And even though errors and bugs are a part of life, they can stress]]></summary>
+        <author>
+            <name>Okoye Victor Chukwuebuka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Shopping Cart with React and TypeScript]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-a-shopping-cart-with-react-and-typescript/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-shopping-cart-with-react-and-typescript/"/>
+        <updated>2023-06-23T17:09:00.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial we are going to build a real-life shopping cart 🛒 application.  We'll talk about the technology stack and the features it will have in a minute. I'll also walk you through the process step-by-step. But first, let me show you what it's going to look like.]]></summary>
+        <author>
+            <name>Mihail Gaberov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Penpot’s Flex Layout: Building CSS Layouts In A Design Tool]]></title>
+        <id>https://smashingmagazine.com/2023/06/penpot-flex-layout-building-css-layouts-design-tool/</id>
+        <link href="https://smashingmagazine.com/2023/06/penpot-flex-layout-building-css-layouts-design-tool/"/>
+        <updated>2023-06-23T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In today’s article, let’s explore how we can use Flex Layout and see how it empowers designers with greater control over their work while saving everyone’s time.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Mikołaj Dobrucki)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Behind The Curtains Of Wikipedia Redesign]]></title>
+        <id>https://smashingmagazine.com/2023/06/behind-curtains-wikipedia-redesign/</id>
+        <link href="https://smashingmagazine.com/2023/06/behind-curtains-wikipedia-redesign/"/>
+        <updated>2023-06-23T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Wikipedia team shipped a redesign of the ubiquitous and one of the [most visited websites](https://en.wikipedia.org/wiki/List_of_most_visited_websites) on the web. Alex Hollendar and Jon Robson led the work and generously discussed the effort with us in a thorough, wide-ranging interview that covers the design, development, and processes that went into the project.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Geoff Graham)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a ChatGPT Plugin – Case Study using PodcastAPI.com and Serverless Cloudflare Pages]]></title>
         <id>https://www.freecodecamp.org/news/how-to-build-a-chatgpt-plugin-case-study/</id>
@@ -93,26 +133,6 @@
         <summary type="html"><![CDATA[Dive into an article where you will build an app that evaluates audio files for positive and negative sentiments. The idea is that you will create an interface for uploading an audio file, then transcribe the contents into text before analyzing the text and assigning it a positive or negative score for how the tone is perceived.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Joas Pambou)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create an API Proxy Gateway with AWS HTTP API]]></title>
-        <id>https://www.freecodecamp.org/news/create-an-api-proxy-gateway-with-aws-http-api/</id>
-        <link href="https://www.freecodecamp.org/news/create-an-api-proxy-gateway-with-aws-http-api/"/>
-        <updated>2023-06-21T16:43:47.000Z</updated>
-        <summary type="html"><![CDATA[In today's fast-paced world, seamless integration between various services and systems has become ever more important. Security is also equally important while stitching these services together. So it's crucial to design applications meaningfully so that there's minimal friction between various systems.  This article focuses on the communication between a]]></summary>
-        <author>
-            <name>Prajwal Kulkarni</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a ChatBot using the GPT-4 API – Full Project-Based Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/build-gpt-4-api-chatbot-turorial/</id>
-        <link href="https://www.freecodecamp.org/news/build-gpt-4-api-chatbot-turorial/"/>
-        <updated>2023-06-21T14:07:17.000Z</updated>
-        <summary type="html"><![CDATA[Chatbots are transforming the way we interact online. Thanks to the OpenAI API, crafting intelligent, context-aware chatbots is now well within the reach of any budding web developer.  In this tutorial, I will teach you everything you need to know to build your own chatbot using the GPT-4 API.]]></summary>
-        <author>
-            <name>Tom Chant</name>
         </author>
     </entry>
     <entry>
@@ -283,16 +303,6 @@
         <summary type="html"><![CDATA[Meet “Success At Scale”, our upcoming book with best-practice case studies from industry experts. Print and eBook shipping in fall 2023. Pre-order the book.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Impact Of Agile Methodologies On Code Quality]]></title>
-        <id>https://smashingmagazine.com/2023/05/impact-agile-methodologies-code-quality/</id>
-        <link href="https://smashingmagazine.com/2023/05/impact-agile-methodologies-code-quality/"/>
-        <updated>2023-05-25T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Say goodbye to traditional workflows and embrace Agile to unlock the power of high-quality code. Discover how Agile methodologies promote simplicity, modularization, readability, and continuous improvement, resulting in faster turnaround times, more responsive development processes, and ultimately, the creation of high-quality software that meets customer needs.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Sarah Oke Okolo)</name>
         </author>
     </entry>
 </feed>
