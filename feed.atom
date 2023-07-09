@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-08T01:46:22.259Z</id>
+    <id>urn:2023-07-09T01:55:39.250Z</id>
     <title>osmos::feed</title>
-    <updated>2023-07-08T01:46:22.259Z</updated>
+    <updated>2023-07-09T01:55:39.250Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -263,16 +263,6 @@
         <summary type="html"><![CDATA[In this first part of a two-part hands-on guide, Juan Rodriguez explains how to use several i18n plugins for Gatsby and reviews some others.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Juan Diego Rodríguez)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Design Under Constraints: Challenges, Opportunities, And Practical Strategies]]></title>
-        <id>https://smashingmagazine.com/2023/06/design-constraints-challenges-opportunities-practical-strategies/</id>
-        <link href="https://smashingmagazine.com/2023/06/design-constraints-challenges-opportunities-practical-strategies/"/>
-        <updated>2023-06-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Unleash the power of creative limitation! Learn how constraints aren’t barriers but instead stepping stones to innovative design. Find out how to challenge unproductive restrictions and leverage the rest to your advantage.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Paul Boag)</name>
         </author>
     </entry>
 </feed>
