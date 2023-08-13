@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-12T01:04:08.108Z</id>
+    <id>urn:2023-08-13T01:08:43.430Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-12T01:04:08.108Z</updated>
+    <updated>2023-08-13T01:08:43.430Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -243,16 +243,6 @@
         <summary type="html"><![CDATA[With an estimated one in every eight individuals worldwide surpassing the age of 60, who are actively adopting online shopping, the need for user-friendly interfaces tailored to their needs becomes apparent. Explore the guidelines to help you design inclusive products for all, particularly for an older audience and your future self.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Michal Halperin Ben Zvi)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Writing CSS In 2023: Is It Any Different Than A Few Years Ago?]]></title>
-        <id>https://smashingmagazine.com/2023/07/writing-css-2023/</id>
-        <link href="https://smashingmagazine.com/2023/07/writing-css-2023/"/>
-        <updated>2023-07-14T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CSS is evolving faster than ever. With all of the new features that are now available — and forthcoming — since we got Flexbox and Grid years ago, the way we write CSS is evolving, too. In this article, Geoff Graham shares which features have had the most influence on his current approaches to CSS, as well as those that have not (at least yet).]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Geoff Graham)</name>
         </author>
     </entry>
 </feed>

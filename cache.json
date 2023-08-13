@@ -226,21 +226,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/designing-age-inclusive-products-guidelines-best-practices/designing-age-inclusive-products-guidelines-best-practices.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/07/writing-css-2023/",
-          "author": "hello@smashingmagazine.com (Geoff Graham)",
-          "description": "CSS is evolving faster than ever. With all of the new features that are now available — and forthcoming — since we got Flexbox and Grid years ago, the way we write CSS is evolving, too. In this article, Geoff Graham shares which features have had the most influence on his current approaches to CSS, as well as those that have not (at least yet).",
-          "link": "https://smashingmagazine.com/2023/07/writing-css-2023/",
-          "publishedOn": "2023-07-14T12:00:00.000Z",
-          "wordCount": 5315,
-          "title": "Writing CSS In 2023: Is It Any Different Than A Few Years Ago?",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/writing-css-2023/writing-css-2023-sharing-card.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/writing-css-2023/writing-css-2023-sharing-card.jpg"
         }
       ]
     },
