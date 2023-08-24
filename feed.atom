@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-23T01:05:41.117Z</id>
+    <id>urn:2023-08-24T01:05:27.745Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-23T01:05:41.117Z</updated>
+    <updated>2023-08-24T01:05:27.745Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Photo Encryption App using Steganography]]></title>
+        <id>https://www.freecodecamp.org/news/build-a-photo-encryption-app/</id>
+        <link href="https://www.freecodecamp.org/news/build-a-photo-encryption-app/"/>
+        <updated>2023-08-23T21:06:02.000Z</updated>
+        <summary type="html"><![CDATA[In this digital age, data flows freely across networks and devices. So protecting sensitive information from unauthorized access is crucial. That's where encryption comes in.  Encryption involves converting plain, readable data into an incomprehensible form. It's also essential to have a way to convert the data back into a]]></summary>
+        <author>
+            <name>Houssein Badra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beginner's Python Tutorial: Pong]]></title>
+        <id>https://www.freecodecamp.org/news/beginners-python-tutorial-pong/</id>
+        <link href="https://www.freecodecamp.org/news/beginners-python-tutorial-pong/"/>
+        <updated>2023-08-23T20:45:10.000Z</updated>
+        <summary type="html"><![CDATA[Pong was one of the first video games. And it also makes a good first (or early) Python project when you are learning to code. We just published a course on the freeCodeCamp.org YouTube channel that will help you improve your Python and Pygame skills by teaching you how to]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free Perl Programming Course for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/free-perl-programming-course-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/free-perl-programming-course-for-beginners/"/>
+        <updated>2023-08-23T17:56:28.000Z</updated>
+        <summary type="html"><![CDATA[For decades, the Perl programming language has remained important in the realms of text processing, system administration, and even web development. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to use Perl. The course covers topics ranging from basic syntax to advanced]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Few Interesting Ways To Use CSS Shadows For More Than Depth]]></title>
+        <id>https://smashingmagazine.com/2023/08/interesting-ways-use-css-shadows/</id>
+        <link href="https://smashingmagazine.com/2023/08/interesting-ways-use-css-shadows/"/>
+        <updated>2023-08-23T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We often think of shadows in CSS as something to reach for when we want to add depth to a design. But shadows can be used for more than depth. Let’s experiment with different shadows — two CSS properties and a filter — to make interesting hover effects, different text styles, and even casting shadows on other shadows.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Preethi Sam)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use Tampermonkey to Improve a Website's UI – Example Using freeCodeCamp]]></title>
         <id>https://www.freecodecamp.org/news/customize-website-experience-with-tampermonkey/</id>
@@ -57,8 +97,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[How to Protect Your Website Against SEO Poisoning]]></title>
-        <id>https://www.freecodecamp.org/news/ensuring-website-security-collaborative-measures-for-cybersecurity-and-seo-experts-to-prevent-seo-poisoning/</id>
-        <link href="https://www.freecodecamp.org/news/ensuring-website-security-collaborative-measures-for-cybersecurity-and-seo-experts-to-prevent-seo-poisoning/"/>
+        <id>https://www.freecodecamp.org/news/protect-your-website-against-seo-poisoning/</id>
+        <link href="https://www.freecodecamp.org/news/protect-your-website-against-seo-poisoning/"/>
         <updated>2023-08-22T16:20:41.000Z</updated>
         <summary type="html"><![CDATA[In today's digital landscape, search engine optimization (SEO) is important for increasing online visibility and driving organic traffic to websites.  But cybersecurity threats, including SEO poisoning, pose a great risks to both website owners and SEO efforts.  To fight these risks and safeguard websites, cybersecurity experts and SEO]]></summary>
         <author>
@@ -73,36 +113,6 @@
         <summary type="html"><![CDATA[Svelte is an open-source front-end JavaScript framework used for building web applications, designed to make developing interactive user interfaces more efficient and performant.  Compared to other front-end frameworks like React, Vue, or Angular, it focuses on a different approach by compiling components. In most traditional frameworks, you build components]]></summary>
         <author>
             <name>Adejumo Ridwan Suleiman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stateful vs Stateless Architecture – Explained for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/stateful-vs-stateless-architectures-explained/</id>
-        <link href="https://www.freecodecamp.org/news/stateful-vs-stateless-architectures-explained/"/>
-        <updated>2023-08-21T21:08:59.000Z</updated>
-        <summary type="html"><![CDATA[In programming, "state" refers to the condition of a system, component, or application at a particular point in time.  As a simple example, if you are shopping on amazon.com, whether you are currently logged into the site or if you have anything stored in your cart are some examples]]></summary>
-        <author>
-            <name>Daniel Adetunji</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing ScrapePark.org – Practice Web Scraping Without Hurting Anyone]]></title>
-        <id>https://www.freecodecamp.org/news/practice-web-scraping-safely/</id>
-        <link href="https://www.freecodecamp.org/news/practice-web-scraping-safely/"/>
-        <updated>2023-08-21T19:50:15.000Z</updated>
-        <summary type="html"><![CDATA[When I grew up in the 1990s, we skateboarded everywhere. If a parking lot had a ledge or a handrail, you'd better believe we waxed it and grinded our boards across it. Fast forward to the 2020s – many cities have built public skate parks. These are safe, legal]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Development with Large Language Models]]></title>
-        <id>https://www.freecodecamp.org/news/development-with-large-language-models/</id>
-        <link href="https://www.freecodecamp.org/news/development-with-large-language-models/"/>
-        <updated>2023-08-21T16:13:43.000Z</updated>
-        <summary type="html"><![CDATA[Large Language Models (LLMs) open up a wide range of capabilities for developers. We just published a course on the freeCodeCamp.org YouTube channel that will equip you with the skills to use LLMs effectively for your projects. Developed by Akshath from Luup.ai, this course will help you unlock the potential]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>

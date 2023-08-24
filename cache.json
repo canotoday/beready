@@ -18,12 +18,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/08/interesting-ways-use-css-shadows/",
+          "author": "hello@smashingmagazine.com (Preethi Sam)",
+          "description": "We often think of shadows in CSS as something to reach for when we want to add depth to a design. But shadows can be used for more than depth. Let’s experiment with different shadows — two CSS properties and a filter — to make interesting hover effects, different text styles, and even casting shadows on other shadows.",
+          "link": "https://smashingmagazine.com/2023/08/interesting-ways-use-css-shadows/",
+          "publishedOn": "2023-08-23T15:00:00.000Z",
+          "wordCount": 4494,
+          "title": "A Few Interesting Ways To Use CSS Shadows For More Than Depth",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/interesting-ways-use-css-shadows/interesting-ways-use-css-shadows.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/interesting-ways-use-css-shadows/interesting-ways-use-css-shadows.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/08/better-context-menus-safe-triangles/",
           "author": "hello@smashingmagazine.com (Costa Alexoglou)",
           "description": "Discover how to improve the user experience of nested menus and tackle a minor yet common issue with them when the user’s pointer leaves the menu item for a moment, and the nested menu goes away, requiring the user to re-hover and try again. A well-known concept called the “safe triangle” solves this problem.",
           "link": "https://smashingmagazine.com/2023/08/better-context-menus-safe-triangles/",
           "publishedOn": "2023-08-21T08:00:00.000Z",
-          "wordCount": 4641,
+          "wordCount": 4642,
           "title": "Better Context Menus With Safe Triangles",
           "enclosure": {
             "url": "http://files.smashing.media/articles/better-context-menus-safe-triangles/better-context-menus-safe-triangles.jpg",
@@ -38,7 +53,7 @@
           "description": "The background image used in the hero component, which is slow to load, is a very common problem with any component that uses a large image file as a background image. In this article, Mike Herchel walks you through how to tackle this common performance issue using modern techniques.",
           "link": "https://smashingmagazine.com/2023/08/methods-improving-drupal-largest-contentful-paint-core-web-vital/",
           "publishedOn": "2023-08-15T10:00:00.000Z",
-          "wordCount": 4436,
+          "wordCount": 4432,
           "title": "Modern Methods For Improving Drupal’s Largest Contentful Paint Core Web Vital",
           "enclosure": {
             "url": "http://files.smashing.media/articles/methods-improving-drupal-largest-contentful-paint-core-web-vital/methods-improving-drupal-largest-contentful-paint-core-web-vital.jpg",
@@ -68,7 +83,7 @@
           "description": "In part 2 of the series, Hannah Milan reviews various accessible text over images techniques for designing your content, including framing the image, soft-colored gradients technique, text styles and text position, solid color shapes, and use of colored backgrounds.",
           "link": "https://smashingmagazine.com/2023/08/designing-accessible-text-over-images-part2/",
           "publishedOn": "2023-08-11T13:00:00.000Z",
-          "wordCount": 5094,
+          "wordCount": 5199,
           "title": "Designing Accessible Text Over Images: Best Practices, Techniques And Resources (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-accessible-text-over-images-part2/designing-accessible-text-over-images-part2.jpg",
@@ -113,7 +128,7 @@
           "description": "In this two-part series of articles, Hannah Milan covers the best practices when using various accessible text over images techniques for designing your web and mobile app content.",
           "link": "https://smashingmagazine.com/2023/08/designing-accessible-text-over-images-part1/",
           "publishedOn": "2023-08-04T08:00:00.000Z",
-          "wordCount": 4984,
+          "wordCount": 5091,
           "title": "Designing Accessible Text Over Images: Best Practices, Techniques, And Resources (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-accessible-text-over-images-part1/designing-accessible-text-over-images-part1.jpg",
@@ -128,7 +143,7 @@
           "description": "Liran Cohen and the team at Bookaway, a travel booking service, dramatically improved their site’s performance by auditing Core Web Vitals. In this article, Liran shares his team’s process for auditing and monitoring Web Vitals and the effort it took to dramatically improve Bookaway’s performance — and the benefits that came with it.",
           "link": "https://smashingmagazine.com/2023/08/optimize-performance-serve-global-audience/",
           "publishedOn": "2023-08-03T10:00:00.000Z",
-          "wordCount": 6178,
+          "wordCount": 6176,
           "title": "How We Optimized Performance To Serve A Global Audience",
           "enclosure": {
             "url": "http://files.smashing.media/articles/optimize-performance-serve-global-audience/optimize-performance-serve-global-audience.jpg",
@@ -143,7 +158,7 @@
           "description": "We’re talking about headless content management systems. What are they, and how do they differ from more traditional systems? Drew McLellan talks to Alvin Bryan to find out.",
           "link": "https://smashingmagazine.com/2023/08/smashing-podcast-episode-64/",
           "publishedOn": "2023-08-01T18:00:00.000Z",
-          "wordCount": 8105,
+          "wordCount": 8117,
           "title": "Smashing Podcast Episode 64 With Alvin Bryan: What Is A Headless CMS?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-podcast-episode-64/smashing-podcast-episode-64.png",
@@ -173,7 +188,7 @@
           "description": "New month, new wallpapers! In this post, you’ll find unique and inspiring wallpapers for August 2023. Created with love by the community for the community, they come in versions with and without a calendar. Enjoy!",
           "link": "https://smashingmagazine.com/2023/07/desktop-wallpaper-calendars-august-2023/",
           "publishedOn": "2023-07-31T09:50:00.000Z",
-          "wordCount": 5263,
+          "wordCount": 5260,
           "title": "Living In The Moment (August 2023 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-august-2023/aug-23-summer-day-preview-opt.png",
@@ -188,7 +203,7 @@
           "description": "Join Temani Afif on experiment with modern CSS features to create an array of colors. The goal is to define a comma-separated list of colors and iterate through them using an index.",
           "link": "https://smashingmagazine.com/2023/07/define-array-colors-css/",
           "publishedOn": "2023-07-28T10:00:00.000Z",
-          "wordCount": 4703,
+          "wordCount": 4704,
           "title": "How To Define An Array Of Colors With CSS",
           "enclosure": {
             "url": "http://files.smashing.media/articles/define-array-colors-css/define-array-colors-css.jpg",
@@ -203,7 +218,7 @@
           "description": "In this article, we’ll explore how to build a chat summarizer using the Cohere API and deploy it as a web application using Gradio.[ Cohere](https://cohere.com/) is an AI platform that provides state-of-the-art natural language processing models for a variety of tasks, including summarization. We’ll cover the steps involved in training the summarizer using sample chat conversations, interacting with the Cohere API to generate summaries, and creating a user-friendly interface using [Gradio](https://www.gradio.app/).",
           "link": "https://smashingmagazine.com/2023/07/artificial-intelligence-machine-learning-summarize-chat-conversations/",
           "publishedOn": "2023-07-27T15:00:00.000Z",
-          "wordCount": 4076,
+          "wordCount": 4088,
           "title": "How To Use Artificial Intelligence And Machine Learning To Summarize Chat Conversations",
           "enclosure": {
             "url": "http://files.smashing.media/articles/artificial-intelligence-machine-learning-summarize-chat-conversations/artificial-intelligence-machine-learning-summarize-chat-conversations.jpg",
@@ -218,7 +233,7 @@
           "description": "The field of language translation has never been more exciting. Explore the evolution of language translation platforms, how we got to where we are today, and what advancements we can look forward to in the coming years.",
           "link": "https://smashingmagazine.com/2023/07/modern-technology-future-language-translation/",
           "publishedOn": "2023-07-26T12:00:00.000Z",
-          "wordCount": 5172,
+          "wordCount": 5167,
           "title": "Modern Technology And The Future Of Language Translation",
           "enclosure": {
             "url": "http://files.smashing.media/articles/modern-technology-future-language-translation/modern-technology-future-language-translation.jpg",
@@ -234,6 +249,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-photo-encryption-app/",
+          "author": "Houssein Badra",
+          "description": "In this digital age, data flows freely across networks and devices. So protecting sensitive information from unauthorized access is crucial. That's where encryption comes in.  Encryption involves converting plain, readable data into an incomprehensible form. It's also essential to have a way to convert the data back into a",
+          "link": "https://www.freecodecamp.org/news/build-a-photo-encryption-app/",
+          "publishedOn": "2023-08-23T21:06:02.000Z",
+          "wordCount": 2715,
+          "title": "How to Build a Photo Encryption App using Steganography",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Screenshot--122-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/beginners-python-tutorial-pong/",
+          "author": "Beau Carnes",
+          "description": "Pong was one of the first video games. And it also makes a good first (or early) Python project when you are learning to code. We just published a course on the freeCodeCamp.org YouTube channel that will help you improve your Python and Pygame skills by teaching you how to",
+          "link": "https://www.freecodecamp.org/news/beginners-python-tutorial-pong/",
+          "publishedOn": "2023-08-23T20:45:10.000Z",
+          "wordCount": 2105,
+          "title": "Beginner's Python Tutorial: Pong",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/pong.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/free-perl-programming-course-for-beginners/",
+          "author": "Beau Carnes",
+          "description": "For decades, the Perl programming language has remained important in the realms of text processing, system administration, and even web development. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to use Perl. The course covers topics ranging from basic syntax to advanced",
+          "link": "https://www.freecodecamp.org/news/free-perl-programming-course-for-beginners/",
+          "publishedOn": "2023-08-23T17:56:28.000Z",
+          "wordCount": 852,
+          "title": "Free Perl Programming Course for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/prl.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/customize-website-experience-with-tampermonkey/",
           "author": "Tasnim Ferdous",
@@ -285,10 +330,10 @@
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/deploy-app-to-k8s-cluster.jpeg"
         },
         {
-          "id": "https://www.freecodecamp.org/news/ensuring-website-security-collaborative-measures-for-cybersecurity-and-seo-experts-to-prevent-seo-poisoning/",
+          "id": "https://www.freecodecamp.org/news/protect-your-website-against-seo-poisoning/",
           "author": "Isah Jacob",
           "description": "In today's digital landscape, search engine optimization (SEO) is important for increasing online visibility and driving organic traffic to websites.  But cybersecurity threats, including SEO poisoning, pose a great risks to both website owners and SEO efforts.  To fight these risks and safeguard websites, cybersecurity experts and SEO",
-          "link": "https://www.freecodecamp.org/news/ensuring-website-security-collaborative-measures-for-cybersecurity-and-seo-experts-to-prevent-seo-poisoning/",
+          "link": "https://www.freecodecamp.org/news/protect-your-website-against-seo-poisoning/",
           "publishedOn": "2023-08-22T16:20:41.000Z",
           "wordCount": 3680,
           "title": "How to Protect Your Website Against SEO Poisoning",
@@ -303,36 +348,6 @@
           "wordCount": 2775,
           "title": "How to Build a Calculator App with Svelte",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/WHATSAPP-DICTIONARY-CHATBOT--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/stateful-vs-stateless-architectures-explained/",
-          "author": "Daniel Adetunji",
-          "description": "In programming, \"state\" refers to the condition of a system, component, or application at a particular point in time.  As a simple example, if you are shopping on amazon.com, whether you are currently logged into the site or if you have anything stored in your cart are some examples",
-          "link": "https://www.freecodecamp.org/news/stateful-vs-stateless-architectures-explained/",
-          "publishedOn": "2023-08-21T21:08:59.000Z",
-          "wordCount": 2217,
-          "title": "Stateful vs Stateless Architecture – Explained for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/cover-photo.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/practice-web-scraping-safely/",
-          "author": "Quincy Larson",
-          "description": "When I grew up in the 1990s, we skateboarded everywhere. If a parking lot had a ledge or a handrail, you'd better believe we waxed it and grinded our boards across it. Fast forward to the 2020s – many cities have built public skate parks. These are safe, legal",
-          "link": "https://www.freecodecamp.org/news/practice-web-scraping-safely/",
-          "publishedOn": "2023-08-21T19:50:15.000Z",
-          "wordCount": 999,
-          "title": "Introducing ScrapePark.org – Practice Web Scraping Without Hurting Anyone",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/shawn-henry-eK_aInAXydw-unsplash--1-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/development-with-large-language-models/",
-          "author": "Beau Carnes",
-          "description": "Large Language Models (LLMs) open up a wide range of capabilities for developers. We just published a course on the freeCodeCamp.org YouTube channel that will equip you with the skills to use LLMs effectively for your projects. Developed by Akshath from Luup.ai, this course will help you unlock the potential",
-          "link": "https://www.freecodecamp.org/news/development-with-large-language-models/",
-          "publishedOn": "2023-08-21T16:13:43.000Z",
-          "wordCount": 784,
-          "title": "Development with Large Language Models",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/llmdev.png"
         }
       ]
     }
