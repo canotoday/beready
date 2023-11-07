@@ -22,6 +22,54 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-11-06 datetime="2023-11-06T20:25:12.000Z">2023-11-06</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-11-06 datetime="2023-11-06T20:25:12.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >freeCodeCamp.org</button>
+                  <a class="source-heading__link" href="https://www.freecodecamp.org/news/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.freecodecamp.org/news/write-components-that-work-in-any-framework/"
+                        open
+                      >
+                        <summary class="article-expander__title">How to Write Components that Work in Any Framework</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/write-components-that-work-in-any-framework/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://www.freecodecamp.org/news/content/images/2023/11/og-button.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>The browser has a built-in way of writing reusable components in the form of web components. They’re an excellent choice for building interactive and reusable components that work in any frontend framework.  With that said, writing highly interactive and robust web components isn’t simple. They require a lot of</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;10
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-11-04 datetime="2023-11-04T00:08:30.000Z">2023-11-04</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-11-04 datetime="2023-11-04T00:08:30.000Z"></time>
           </button>
@@ -336,26 +384,6 @@
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.freecodecamp.org/news/cypress-for-end-to-end-testing-react-apps/"
-                        open
-                      >
-                        <summary class="article-expander__title">How to Use Cypress for End-to-End Testing Your React Apps</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/cypress-for-end-to-end-testing-react-apps/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.freecodecamp.org/news/content/images/2023/10/1_PfsGOHgjLPh3EFOkxCRmjw.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>React is a popular framework for building web applications. It&#x27;s is one of the best options for frontend engineering because of its declarative approach to user interface design and component-based architecture.  But it can be difficult to make sure your React application functions as intended in various different scenarios.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;19
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -465,7 +493,7 @@
                               <img src="http://files.smashing.media/articles/passkeys-explainer-future-password-less-authentication/passkeys-explainer-future-password-less-authentication.jpg" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>Passkeys are beginning to make their way into popular apps, from password managers to multi-factor authenticators, but what exactly are they? As this new technology promises to make passwords a thing of the past, Neal Fennimore explains the concepts behind passkeys, demonstrates how they work, and speculates what we might expect from them in the future.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;22
+                                &ensp;<span class="article-reading-time">(&hairsp;21
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -725,7 +753,7 @@
                               <img src="http://files.smashing.media/articles/choose-typefaces-fintech-products-guide-part1/choose-typefaces-fintech-products-guide.jpg" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>Finding the right typeface is tricky as a whole. Dividing the process into steps and having the right information at hand will make this journey a design adventure full of surprises. To avoid sinking into unnecessary details, use this guide as a map for your path. Review various font paraments and learn how to apply them to your designs.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;19
+                                &ensp;<span class="article-reading-time">(&hairsp;18
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -1075,8 +1103,8 @@
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/canotoday/beready/actions/runs/6765034882">
-        <time id="build-timestamp" datetime="2023-11-06T01:11:49.171Z">2023-11-06T01:11:49.171Z</time>
+      <a class="footer-link" href="https://github.com/canotoday/beready/actions/runs/6778628837">
+        <time id="build-timestamp" datetime="2023-11-07T01:10:47.798Z">2023-11-07T01:10:47.798Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
