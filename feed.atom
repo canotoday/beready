@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-21T01:14:59.449Z</id>
+    <id>urn:2023-11-22T01:14:49.240Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-21T01:14:59.449Z</updated>
+    <updated>2023-11-22T01:14:49.240Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Secure User Authentication Flow in Flutter with Firebase and Bloc State Management]]></title>
+        <id>https://www.freecodecamp.org/news/user-authentication-flow-in-flutter-with-firebase-and-bloc/</id>
+        <link href="https://www.freecodecamp.org/news/user-authentication-flow-in-flutter-with-firebase-and-bloc/"/>
+        <updated>2023-11-21T15:21:20.000Z</updated>
+        <summary type="html"><![CDATA[User authentication is critical to mobile app development. It helps make sure that only authorized users can access sensitive information and perform actions within an application. In this tutorial, we will explore how to build secure user authentication in Flutter using Firebase for authentication and the Bloc state management pattern]]></summary>
+        <author>
+            <name>Justice Nwogu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating And Maintaining A Voice Of Customer Program]]></title>
+        <id>https://smashingmagazine.com/2023/11/creating-maintaining-voice-customer-program/</id>
+        <link href="https://smashingmagazine.com/2023/11/creating-maintaining-voice-customer-program/"/>
+        <updated>2023-11-21T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Product teams benefit from knowing their users’ needs and how they respond to product updates as they build out the roadmap of a product. This article covers Voice of Customer programs and is aimed at those who work on a product team as well as executives who are looking for how to better inform your products using insight from users.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victor Yocco &amp; Dana Daniels)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use If Statements in JavaScript – a Beginner's Guide]]></title>
         <id>https://www.freecodecamp.org/news/if-statements-javascript/</id>
@@ -103,16 +123,6 @@
         <summary type="html"><![CDATA[In this article, you will learn how to use TypeScript with React. By the end, you will have a solid understanding of how to write React code with TypeScript. Want to watch the video version of this tutorial? You can check out the video below: Table of Contents  *]]></summary>
         <author>
             <name>Yogesh Chavan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the PaLM 2 API]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-the-palm-2-api/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-the-palm-2-api/"/>
-        <updated>2023-11-15T14:31:46.000Z</updated>
-        <summary type="html"><![CDATA[PaLM 2 is a cutting-edge AI tool from Google that opens up tons of possibilities for developers. The PaLM 2 API allows people to easily add generative AI to their apps. We just published a course on the freeCodeCamp.or YouTube channel that will teach you all about the PaLM 2]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -233,16 +243,6 @@
         <summary type="html"><![CDATA[Having access to a free reporting tool like Lighthouse in DevTools is a great start for diagnosing performance issues by identifying bottlenecks on the main thread. Even better are paid tools like [SpeedCurve](https://www.speedcurve.com/?utm_source=smashingmag&utm_medium=magazine&utm_campaign=sm7_2023&utm_id=sm7_2023&utm_term=sm7_2023) to dig deeper into the data for more targeted insights and to produce visual reports to help make a case for performance improvements for your team and other stakeholders.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Geoff Graham)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Removing Object Properties Tells Us About JavaScript]]></title>
-        <id>https://smashingmagazine.com/2023/10/removing-object-properties-javascript/</id>
-        <link href="https://smashingmagazine.com/2023/10/removing-object-properties-javascript/"/>
-        <updated>2023-10-23T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Removing properties from an object in JavaScript might not be the most exciting job, but there are many ways to achieve it, each revealing a fundamental aspect of how JavaScript works. Juan Diego Rodríguez explores each technique in this article.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Juan Diego Rodríguez)</name>
         </author>
     </entry>
 </feed>
