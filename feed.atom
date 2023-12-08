@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-07T01:12:58.053Z</id>
+    <id>urn:2023-12-08T01:13:28.295Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-07T01:12:58.053Z</updated>
+    <updated>2023-12-08T01:13:28.295Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Manipulate the DOM in JavaScript – Most Commonly Used Techniques]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-document-object-model-explained/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-document-object-model-explained/"/>
+        <updated>2023-12-07T22:19:23.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone! In this article, I’m going to cover everything you need to know about manipulating the DOM. Basically, each Element object in the DOM has properties and methods that you can use to interact with that element. The following are the most common and practical ways you might want]]></summary>
+        <author>
+            <name>Nathan Sebhastian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTMLCollection vs NodeList – What's the Difference?]]></title>
+        <id>https://www.freecodecamp.org/news/dom-manipulation-htmlcollection-vs-nodelist/</id>
+        <link href="https://www.freecodecamp.org/news/dom-manipulation-htmlcollection-vs-nodelist/"/>
+        <updated>2023-12-07T22:11:45.000Z</updated>
+        <summary type="html"><![CDATA[If you're a web developer or have worked with the DOM (Document Object Model), you may have come across the terms HTMLCollection and NodeList before. But what do they mean and when do you need to use them? By the end of this article, you will learn all about HTMLCollection]]></summary>
+        <author>
+            <name>Benjamin Semah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Java Interview Prep Handbook – 50 Questions Solved + Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/java-interview-prep-handbook/</id>
+        <link href="https://www.freecodecamp.org/news/java-interview-prep-handbook/"/>
+        <updated>2023-12-07T21:28:43.000Z</updated>
+        <summary type="html"><![CDATA[If you're trying to get a job in big tech or you want to refine your skills in software development, a strong grasp of Java is indispensable.  Java is well-known for its robustness in Object-Oriented Programming (OOP), and it provides a comprehensive foundation essential for developers at every level.]]></summary>
+        <author>
+            <name>Vahe Aslanyan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Preparing For Interaction To Next Paint, A New Web Core Vital]]></title>
+        <id>https://smashingmagazine.com/2023/12/preparing-interaction-next-paint-web-core-vital/</id>
+        <link href="https://smashingmagazine.com/2023/12/preparing-interaction-next-paint-web-core-vital/"/>
+        <updated>2023-12-07T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Starting in March 2024, Interaction to Next Paint will formally replace First Input Delay as a Core Web Vital metric. Learn how the two metrics differ, why we needed a new way to measure interaction responsiveness, and how you can start optimizing the performance of your site now for a seamless transition to the latest Core Web Vital metric.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Geoff Graham)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🐍 🕹️ 💻]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-beginners-project-snake-game/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-beginners-project-snake-game/"/>
+        <updated>2023-12-07T15:57:29.000Z</updated>
+        <summary type="html"><![CDATA[Improve your JavaScript skills by building a snake game inspired by the iconic Nokia Snake game! We just published a course on the freeCodeCamp.org YouTube channel that will teach you to create the project using vanilla HMTL, CSS and JavaScript. Ademir Alijagic created this course. You will build this.This coruse]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use setTimeout in React Using Hooks]]></title>
         <id>https://www.freecodecamp.org/news/how-to-use-settimeout-in-react-using-hooks/</id>
@@ -26,11 +76,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Launch Your Coding Career and Land Your First Software Engineering Internship]]></title>
-        <id>https://www.freecodecamp.org/news/launch-your-coding-career-and-get-an-internship/</id>
-        <link href="https://www.freecodecamp.org/news/launch-your-coding-career-and-get-an-internship/"/>
+        <title type="html"><![CDATA[The Software Engineer Internship Handbook – How to Launch Your Coding Career]]></title>
+        <id>https://www.freecodecamp.org/news/software-engineer-internship-handbook/</id>
+        <link href="https://www.freecodecamp.org/news/software-engineer-internship-handbook/"/>
         <updated>2023-12-06T18:21:06.000Z</updated>
-        <summary type="html"><![CDATA[In the fiercely competitive world of software engineering, the question isn’t whether internships matter, but how much. According to a survey by the National Association of Colleges and Employers, 89% of large tech firms emphasize internship experience when hiring. So, if you’re an aspiring software engineer, listen closely. This carefully]]></summary>
+        <summary type="html"><![CDATA[In the fiercely competitive world of software engineering, the question isn’t whether internships matter, but how much. Many large tech firms emphasize internship experience when hiring. So, if you’re an aspiring software engineer, listen closely. This carefully curated guide, grounded in data and expert consensus, is designed to be your]]></summary>
         <author>
             <name>Vahe Aslanyan</name>
         </author>
@@ -73,46 +123,6 @@
         <summary type="html"><![CDATA[Maintaining safe and frictionless user authentication is paramount in today's fast-changing web application landscape.  Among the many authentication methods available, GitHub OAuth has emerged as a useful tool for improving user login experience while strengthening security measures.  Django [https://docs.djangoproject.com/en/4.2/], a Python web framework, has recently gained popularity in]]></summary>
         <author>
             <name>Sophia Iroegbu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Contribute to Open Source as a Community Manager]]></title>
-        <id>https://www.freecodecamp.org/news/contributing-to-open-source-as-a-community-manager/</id>
-        <link href="https://www.freecodecamp.org/news/contributing-to-open-source-as-a-community-manager/"/>
-        <updated>2023-12-05T21:14:18.000Z</updated>
-        <summary type="html"><![CDATA[The proverb "it takes a village" applies to more than child-rearing. It also takes a village to maintain an open source project.  Community is a large part of open source. After all, Open Source projects can't thrive without a strong network of people (community) who contribute towards it, either]]></summary>
-        <author>
-            <name>Amarachi Johnson-Ubah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Certified Cloud Practitioner Study Course – Pass the Exam With This Free 14-Hour Course]]></title>
-        <id>https://www.freecodecamp.org/news/aws-certified-cloud-practitioner-study-course-pass-the-exam-with-this-free-13-hour-course/</id>
-        <link href="https://www.freecodecamp.org/news/aws-certified-cloud-practitioner-study-course-pass-the-exam-with-this-free-13-hour-course/"/>
-        <updated>2023-12-05T19:51:55.000Z</updated>
-        <summary type="html"><![CDATA[Passing the AWS Certified Cloud Practitioner Exam is one of the first steps to a career in cloud development. And freeCodeCamp just published a free 14-hour course that will help you prepare for the exam.  This exam mostly deals with cloud computing concepts. Even if you are new to]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keeping Time in C++: How to use the std::chrono API]]></title>
-        <id>https://www.freecodecamp.org/news/cpp-std-chrono-api/</id>
-        <link href="https://www.freecodecamp.org/news/cpp-std-chrono-api/"/>
-        <updated>2023-12-04T23:38:45.000Z</updated>
-        <summary type="html"><![CDATA[Keeping track of time is a very important aspect of computer programs. Some common use cases are:  * Measure/profile the performance of certain parts of code.  * Do work at certain periods of time, from within a program.   * Detect whether threads are in a deadlock]]></summary>
-        <author>
-            <name>Jayant Chowdhary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use React Hooks – useEffect, useState, and useContext Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/react-hooks-useeffect-usestate-and-usecontext/</id>
-        <link href="https://www.freecodecamp.org/news/react-hooks-useeffect-usestate-and-usecontext/"/>
-        <updated>2023-12-04T18:38:16.000Z</updated>
-        <summary type="html"><![CDATA[React is a powerful JavaScript library for building user interfaces. And it has undergone significant changes over the years.  One of the most noteworthy additions is the introduction of hooks, which revolutionized the way developers manage state and side effects in functional components.  In this guide, we'll explore]]></summary>
-        <author>
-            <name>Joan Ayebola</name>
         </author>
     </entry>
     <entry>
@@ -243,16 +253,6 @@
         <summary type="html"><![CDATA[WordPress Playground began as an experiment to see what a self-hosted WordPress experience might look like without the requirement of having to actually install WordPress. A year later, the experiment has evolved into a full-fledged project. Ganesh Dahal demonstrates how WordPress Playground works and gets deep into how it might be used.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ganesh Dahal)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Addressing Accessibility Concerns With Using Fluid Type]]></title>
-        <id>https://smashingmagazine.com/2023/11/addressing-accessibility-concerns-fluid-type/</id>
-        <link href="https://smashingmagazine.com/2023/11/addressing-accessibility-concerns-fluid-type/"/>
-        <updated>2023-11-07T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The CSS `clamp()` function is often paired with viewport units for “fluid” font sizing that scales the text up and down at different viewport sizes. As common as this technique is, several voices warn that it opens up situations where text can fail WCAG Success Criterion 1.4.4, which specifies that text should scale up to at least 200% when the user’s browser reaches its 500% maximum zoom level. Max Barvian takes a deep look at the issue and offers ideas to help address it.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Maxwell Barvian)</name>
         </author>
     </entry>
 </feed>
