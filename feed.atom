@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-12T01:13:23.943Z</id>
+    <id>urn:2023-12-13T01:13:02.408Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-12T01:13:23.943Z</updated>
+    <updated>2023-12-13T01:13:02.408Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up a Django Development Environment]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-set-up-a-django-development-environment/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-set-up-a-django-development-environment/"/>
+        <updated>2023-12-12T15:52:32.000Z</updated>
+        <summary type="html"><![CDATA[Django is a high-level web framework written in Python that encourages a rapid and realistic functional design. The Django web framework is free and open-source and is widely used to create both small and large web applications. In this tutorial, you will learn the following:  * What a development]]></summary>
+        <author>
+            <name>Victoria Poromon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[innerHTML vs innerText vs textContent – What's the Difference?]]></title>
         <id>https://www.freecodecamp.org/news/innerhtml-vs-innertext-vs-textcontent/</id>
@@ -103,16 +113,6 @@
         <summary type="html"><![CDATA[You can use Vector Search and embeddings to easily combine your data with large language models like GPT-4. I just published a course on the freeCodeCamp.org YouTube channel that will teach you how to implement Vector Search on three different projects. First, you will learn about the concepts and then]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn REST APIs by Building a JavaScript Project]]></title>
-        <id>https://www.freecodecamp.org/news/learn-rest-apis-javascript-project/</id>
-        <link href="https://www.freecodecamp.org/news/learn-rest-apis-javascript-project/"/>
-        <updated>2023-12-11T15:18:44.000Z</updated>
-        <summary type="html"><![CDATA[So, you've been learning JavaScript. I bet you're loving it. You've learned the basics and you're starting to get the hang of it. So you might be wondering what to do next.  Well, let me introduce you to REST APIs, a powerful tool that you are going to add]]></summary>
-        <author>
-            <name>Spruce Emmanuel</name>
         </author>
     </entry>
     <entry>
@@ -233,16 +233,6 @@
         <summary type="html"><![CDATA[Ribbons have been used to accent designs for many years now. But, the way we approach them in CSS has evolved with the introduction of newer features. In this article, Temani Afif combines background and gradient tricks to create ribbon shapes in CSS that are not only responsive but support multi-line text and are easily adjustable with a few CSS variables.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Temani Afif)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing Web Design Documentation]]></title>
-        <id>https://smashingmagazine.com/2023/11/designing-web-design-documentation/</id>
-        <link href="https://smashingmagazine.com/2023/11/designing-web-design-documentation/"/>
-        <updated>2023-11-13T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Words alone aren’t enough to safeguard best practices in the world of web design and development. Web design documentation must be like its medium — interactive and constantly evolving.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
         </author>
     </entry>
 </feed>
