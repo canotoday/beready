@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-18T01:13:27.699Z</id>
+    <id>urn:2024-01-19T01:14:24.317Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-18T01:13:27.699Z</updated>
+    <updated>2024-01-19T01:14:24.317Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use SonarLint to Write Cleaner Code]]></title>
+        <id>https://www.freecodecamp.org/news/use-sonarlint-to-write-cleaner-code/</id>
+        <link href="https://www.freecodecamp.org/news/use-sonarlint-to-write-cleaner-code/"/>
+        <updated>2024-01-18T23:58:39.000Z</updated>
+        <summary type="html"><![CDATA[When you're building a coding project, the better it is, the more fun it'll be to use. And the prouder you'll be of your hard work, right?  Also, writing quality and performant code helps your program or website work as expected – which should be every developer's goal. SonarLint]]></summary>
+        <author>
+            <name>Okosa Leonard Onyekachukwu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get a Developer Job]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-get-a-developer-job/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-a-developer-job/"/>
+        <updated>2024-01-18T17:58:03.000Z</updated>
+        <summary type="html"><![CDATA[The demand for skilled software developers continues to grow. However, for many self-taught developers, the path to securing a job in this competitive field can seem daunting. We just published a course on the freeCodeCamp.org YouTube channel that is designed to guide aspiring software engineers through the job-hunting process. Lane]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Perform CRUD Operations with Django Models]]></title>
+        <id>https://www.freecodecamp.org/news/models-in-django/</id>
+        <link href="https://www.freecodecamp.org/news/models-in-django/"/>
+        <updated>2024-01-18T16:10:49.000Z</updated>
+        <summary type="html"><![CDATA[Django is a super useful tool for building web applications with Python. It follows the Model-View-Template (MVT) architecture, which is a popular design pattern for building web apps. In the MVT architecture, the Model refers to the internal representation of information stored, the View is responsible for processing user requests]]></summary>
+        <author>
+            <name>chepkirui dorothy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a High-Performance Tab Component in React]]></title>
+        <id>https://www.freecodecamp.org/news/build-a-high-performance-tab-component/</id>
+        <link href="https://www.freecodecamp.org/news/build-a-high-performance-tab-component/"/>
+        <updated>2024-01-18T16:01:46.000Z</updated>
+        <summary type="html"><![CDATA[Tabs are more than mere UI elements – they're the backbone of user navigation and content organization in many applications. In React, crafting a tabbed component that's both efficient and responsive is not just an improvement, it's a necessity. This article takes a deep dive into constructing a React tab]]></summary>
+        <author>
+            <name>Jaja Ibifubara David</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are Progressive Web Apps? PWA Guide for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/what-are-progressive-web-apps-pwa-guide/</id>
+        <link href="https://www.freecodecamp.org/news/what-are-progressive-web-apps-pwa-guide/"/>
+        <updated>2024-01-18T15:56:46.000Z</updated>
+        <summary type="html"><![CDATA[Progressive Web Apps (PWAs) are simply installable web applications – websites that you can install on your device, much like you would install an app from an app store.  They bring together the best parts of using a website (easy to access, no need to install anything) with the]]></summary>
+        <author>
+            <name>Ophy Boamah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Design and Build Sustainable Software]]></title>
+        <id>https://www.freecodecamp.org/news/design-and-build-sustainable-software/</id>
+        <link href="https://www.freecodecamp.org/news/design-and-build-sustainable-software/"/>
+        <updated>2024-01-18T01:28:38.000Z</updated>
+        <summary type="html"><![CDATA[Electronic devices that run software are all around us. Your mobile phone, your car, your microwave, and virtually anything around you – there’s a very good chance that they have electronic components running some form of software. These devices inevitably use power and have batteries and circuits, which degrade over]]></summary>
+        <author>
+            <name>Jayant Chowdhary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Validate Forms with Zod and React-Hook-Form]]></title>
         <id>https://www.freecodecamp.org/news/react-form-validation-zod-react-hook-form/</id>
@@ -20,7 +80,7 @@
         <id>https://www.freecodecamp.org/news/how-to-create-python-user-interfaces-with-pyqt5/</id>
         <link href="https://www.freecodecamp.org/news/how-to-create-python-user-interfaces-with-pyqt5/"/>
         <updated>2024-01-17T21:21:54.000Z</updated>
-        <summary type="html"><![CDATA[Python can be used for everything from scripting, machine learning, web development, and graphical user interfaces. We just posted a course on the freeCodeCamp.org YouTube channel that teaches them how to create visually appealing and functional user interfaces (UIs) using Python, with a specific focus on developing a Modern Music]]></summary>
+        <summary type="html"><![CDATA[Python can be used for everything from scripting to machine learning, web development, and graphical user interfaces. We just posted a course on the freeCodeCamp.org YouTube channel that teaches them how to create visually appealing and functional user interfaces (UIs) using Python, with a specific focus on developing a Modern]]></summary>
         <author>
             <name>Beau Carnes</name>
         </author>
@@ -43,66 +103,6 @@
         <summary type="html"><![CDATA[Linux and terminal applications are almost synonymous. If you have used applications like grep, cat, sed, and AWK, those are command line interfaces ( CLI [https://en.wikipedia.org/wiki/Command-line_interface]). And when they work together, they allow you to unleash the power of your computer by mixing and matching a few commands. Sometimes the]]></summary>
         <author>
             <name>Jose Vicente Nunez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Add Custom Buttons to a Date Picker in Flatpickr]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-add-custom-buttons-to-flatpickr/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-add-custom-buttons-to-flatpickr/"/>
-        <updated>2024-01-17T02:34:00.000Z</updated>
-        <summary type="html"><![CDATA[If you've ever had to use a date picker in a web frontend project, chances are that you've used flatpickr. For the unacquainted, flatpickr [https://flatpickr.js.org/] is one of the most popular date picker libraries in the open source-verse. It's framework-agnostic, highly customizable, and lightweight. I recently had to use it]]></summary>
-        <author>
-            <name>Idris Abdul-Lateef</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Atomics and Concurrency in C++]]></title>
-        <id>https://www.freecodecamp.org/news/atomics-and-concurrency-in-cpp/</id>
-        <link href="https://www.freecodecamp.org/news/atomics-and-concurrency-in-cpp/"/>
-        <updated>2024-01-16T23:50:05.000Z</updated>
-        <summary type="html"><![CDATA[Concurrency is a programming term you'll need to be familiar with if you code in C++. It's especially relevant if you want to get more out of your available compute resources.  But concurrency comes with certain problems. Some of them can be solved using  mutexes [https://en.wikipedia.org/wiki/Mutual_exclusion], although mutexes]]></summary>
-        <author>
-            <name>Zaid Humayun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advanced Object-Oriented Programming in Java – Full Book]]></title>
-        <id>https://www.freecodecamp.org/news/object-oriented-programming-in-java/</id>
-        <link href="https://www.freecodecamp.org/news/object-oriented-programming-in-java/"/>
-        <updated>2024-01-16T23:17:07.000Z</updated>
-        <summary type="html"><![CDATA[Java is a go-to language for many programmers, and it's a critical skill for any software engineer. After learning Java, picking up other programming languages and advanced concepts becomes much easier.  In this book, I'll cover the practical knowledge you need to move from writing basic Java code to]]></summary>
-        <author>
-            <name>Vahe Aslanyan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Arrow Functions vs Regular Functions]]></title>
-        <id>https://www.freecodecamp.org/news/regular-vs-arrow-functions-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/regular-vs-arrow-functions-javascript/"/>
-        <updated>2024-01-16T22:19:05.000Z</updated>
-        <summary type="html"><![CDATA[In JavaScript, there are two main ways of writing functions. You can create functions using the regular function syntax. Or you can use the arrow function syntax.  In this article, you will learn how to use both options. You'll also learn about the differences between the two and when]]></summary>
-        <author>
-            <name>Benjamin Semah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn the Essentials of Data Engineering]]></title>
-        <id>https://www.freecodecamp.org/news/learn-the-essentials-of-data-engineering/</id>
-        <link href="https://www.freecodecamp.org/news/learn-the-essentials-of-data-engineering/"/>
-        <updated>2024-01-16T21:52:36.000Z</updated>
-        <summary type="html"><![CDATA[Introduction to freeCodeCamp's Data Engineering Video Course Data Engineering is a vital field in the tech industry focused on designing, building, and maintaining systems that collect, process, and analyze large volumes of data. We just posted a course on the freeCodeCamp.org YouTube channel all about data engineering, designed to cater]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Optimize AWS Simple Storage Service for Better Performance]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-optimize-aws-s3-for-performance/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-optimize-aws-s3-for-performance/"/>
-        <updated>2024-01-16T21:36:44.000Z</updated>
-        <summary type="html"><![CDATA[S3 is an Amazon Web Service that provides data storage and retrieval in the cloud. ‌‌ This article will discuss the common S3 performance bottlenecks and how they impact the service's overall performance. It will also share some best practices to serve as guidelines for optimising the performance of your]]></summary>
-        <author>
-            <name>Feyijimi Erinle</name>
         </author>
     </entry>
     <entry>
@@ -173,16 +173,6 @@
         <summary type="html"><![CDATA[The View Transitions API is a new — but game-changing — feature that allows us to do the types of reactive state-based UI and page transitions that have traditionally been exclusive to JavaScript frameworks. In the first part of this mini two-part series, Adrian Bece thoroughly explains why we need the API and demonstrates its basic usage.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New CSS Viewport Units Do Not Solve The Classic Scrollbar Problem]]></title>
-        <id>https://smashingmagazine.com/2023/12/new-css-viewport-units-not-solve-classic-scrollbar-problem/</id>
-        <link href="https://smashingmagazine.com/2023/12/new-css-viewport-units-not-solve-classic-scrollbar-problem/"/>
-        <updated>2023-12-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Since the introduction of CSS viewport units in 2012, many of us have been using `width: 100vw` as a way to set an element’s width to the full width of the viewport. But, as Šime Vidas explains in this deep dive, `100vw` does not always represent the full width of the viewport due to differences in how browsers handle scrollbars.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Šime Vidas)</name>
         </author>
     </entry>
 </feed>
