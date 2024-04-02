@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-01T01:14:56.341Z</id>
+    <id>urn:2024-04-02T01:12:39.563Z</id>
     <title>osmos::feed</title>
-    <updated>2024-04-01T01:14:56.341Z</updated>
+    <updated>2024-04-02T01:12:39.563Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[One Step at a Time: My Journey from Full-time Software Engineer to First Indie Project]]></title>
+        <id>https://www.freecodecamp.org/news/from-full-time-software-engineer-to-first-indie-project/</id>
+        <link href="https://www.freecodecamp.org/news/from-full-time-software-engineer-to-first-indie-project/"/>
+        <updated>2024-04-01T19:33:07.000Z</updated>
+        <summary type="html"><![CDATA[Introduction: The Spark of Indie Hacking I’m Gaël, a 25-year-old software engineer who’s been working in a startup environment in Southeast Asia for a few years. 🌏  Working remotely has its perks, and while hopping from one exotic location to another, I’ve been nurturing a little dream: to kick-start]]></summary>
+        <author>
+            <name>Gaël Thomas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Colorful Blossoms And Rainy Days (April 2024 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2024/03/desktop-wallpaper-calendars-april-2024/</id>
@@ -134,16 +144,6 @@ The Power of :has() in CSS originally published on CSS-Tricks, which is part of 
         <summary type="html"><![CDATA[Tokenizers are the fundamental tools that enable artificial intelligence to dissect and interpret human language. Let’s look at how tokenizers help AI systems comprehend and process language. In the fast-evolving world of natural language processing (NLP), tokenizers play a pivotal role. Tokenizers are the unsung heroes behind the scenes, making]]></summary>
         <author>
             <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Full-Stack Kanban Task Management App With TypeScript, Next.js, Redux-toolkit, and Firebase]]></title>
-        <id>https://www.freecodecamp.org/news/build-full-stack-app-with-typescript-nextjs-redux-toolkit-firebase/</id>
-        <link href="https://www.freecodecamp.org/news/build-full-stack-app-with-typescript-nextjs-redux-toolkit-firebase/"/>
-        <updated>2024-03-26T21:44:04.000Z</updated>
-        <summary type="html"><![CDATA[In this in-depth tutorial, you'll learn how to build a full-stack Kanban task management app. Along the way, we'll explore the synergies between technologies like Next.js [https://nextjs.org] (featuring a dive into the app router),  Next-auth [https://next-auth.js.org] for user authentication, and Firebase [https://firebase.google.com/], a backend as a service platform to]]></summary>
-        <author>
-            <name>Olasunkanmi Balogun</name>
         </author>
     </entry>
     <entry>

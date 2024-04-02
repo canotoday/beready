@@ -17,7 +17,7 @@
           "description": "Hey all you wonderful developers out there! In this post we are going to explore the use of :has() in your next web project. :has() is relatively newish but has gained popularity in the front end community by delivering control …\nThe Power of :has() in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/the-power-of-has-in-css/",
           "publishedOn": "2024-03-30T02:07:57.000Z",
-          "wordCount": 1861,
+          "wordCount": 1946,
           "title": "The Power of :has() in CSS",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/377635"
         },
@@ -27,7 +27,7 @@
           "description": "Hey all you wonderful developers out there! In this post, I am going to take you through creating a simple contact form using semantic HTML and an awesome CSS pseudo class known as :focus-within. The :focus-within class allows for …\nAccessible Forms with Pseudo Classes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/accessible-forms-with-pseudo-classes/",
           "publishedOn": "2024-03-22T18:52:31.000Z",
-          "wordCount": 2239,
+          "wordCount": 2303,
           "title": "Accessible Forms with Pseudo Classes",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/377565"
         }
@@ -44,7 +44,7 @@
           "description": "Could there be a better way to welcome the new month than with a little inspiration boost? We might have one for you: desktop wallpapers created by the community for the community. Enjoy!",
           "link": "https://smashingmagazine.com/2024/03/desktop-wallpaper-calendars-april-2024/",
           "publishedOn": "2024-03-31T08:00:00.000Z",
-          "wordCount": 4899,
+          "wordCount": 4790,
           "title": "Colorful Blossoms And Rainy Days (April 2024 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-april-2023/apr-22-swing-into-spring-preview-opt.png",
@@ -59,7 +59,7 @@
           "description": "There’s no shortage of articles about the mental health of developers, ranging from personal accounts of harrowing work experiences to round-ups of advice on how to preserve healthy work habits. But what working situations trigger things like stress, anxiety, burnout, and depression? Victor Ayomipo shares his personal triggers and how he manages them.",
           "link": "https://smashingmagazine.com/2024/03/developers-strengthen-mental-health/",
           "publishedOn": "2024-03-29T08:00:00.000Z",
-          "wordCount": 6265,
+          "wordCount": 6163,
           "title": "How Developers Can Strengthen Their Mental Health Amidst High-Pressure Projects",
           "enclosure": {
             "url": "http://files.smashing.media/articles/developers-strengthen-mental-health/developers-strengthen-mental-health.jpg",
@@ -89,7 +89,7 @@
           "description": "There are many ways to approach a “Dark Mode” feature that respects a user’s system color scheme preferences and allows for per-site customization. Henry Bley-Vroman walks through a new possibility that leans into cutting-edge CSS, with minimal JavaScript to support persisting the user’s color scheme preference across pages.",
           "link": "https://smashingmagazine.com/2024/03/setting-persisting-color-scheme-preferences-css-javascript/",
           "publishedOn": "2024-03-25T12:00:00.000Z",
-          "wordCount": 4590,
+          "wordCount": 4587,
           "title": "Setting And Persisting Color Scheme Preferences With CSS And A “Touch” Of JavaScript",
           "enclosure": {
             "url": "http://files.smashing.media/articles/setting-persisting-color-scheme-preferences-css-javascript/setting-persisting-color-scheme-preferences-css-javascript.jpg",
@@ -104,7 +104,7 @@
           "description": "Whether digital or physical, designing a customer touchpoint requires an understanding of the essential relationship between the brand and the user experience, which is also known as the **brand experience.** This article is a simple guide to building long-lasting customer relationships based on the seven rules of Rikyu in the Japanese tea ceremony for a creative and memorable twist.",
           "link": "https://smashingmagazine.com/2024/03/uniting-rikyu-wisdom-brand-experience-principles/",
           "publishedOn": "2024-03-21T15:00:00.000Z",
-          "wordCount": 6108,
+          "wordCount": 6110,
           "title": "Crafting Experiences: Uniting Rikyu’s Wisdom With Brand Experience Principles",
           "enclosure": {
             "url": "http://files.smashing.media/articles/uniting-rikyu-wisdom-brand-experience-principles/uniting-rikyu-wisdom-brand-experience-principles.jpg",
@@ -134,7 +134,7 @@
           "description": "How was the first SmashingConf in Antwerp, you ask? One of our online attendees, Krisztina Szerovay, shares her sketchnotes and takeaways of the talks that were held on both days of the conference — with photos and recordings saved as best for last. [See you live in Antwerp this year, maybe?](https://smashingconf.com/antwerp-2024)",
           "link": "https://smashingmagazine.com/2024/03/sketchnotes-key-takeaways-smashingconf-antwerp-2023/",
           "publishedOn": "2024-03-18T18:00:00.000Z",
-          "wordCount": 7686,
+          "wordCount": 7693,
           "title": "Sketchnotes And Key Takeaways From SmashingConf Antwerp 2023",
           "enclosure": {
             "url": "http://files.smashing.media/articles/sketchnotes-key-takeaways-smashingconf-antwerp-2023/welcome-smashingconf-antwerp-2023.jpg",
@@ -179,7 +179,7 @@
           "description": "In Part 1 of this series, Temani Afif explored different CSS techniques to create tooltip shapes. The main challenge was to rely on a single element and create optimized code that could easily be controlled using CSS variables to update the size, shape, and position of the tail. In this second part, you are going explore more shapes.",
           "link": "https://smashingmagazine.com/2024/03/modern-css-tooltips-speech-bubbles-part2/",
           "publishedOn": "2024-03-08T12:00:00.000Z",
-          "wordCount": 5152,
+          "wordCount": 5150,
           "title": "Modern CSS Tooltips And Speech Bubbles (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/modern-css-tooltips-part1/modern-css-tooltips-speech-bubbles.jpg",
@@ -194,7 +194,7 @@
           "description": "[“Gatsby headaches”](https://www.smashingmagazine.com/2023/06/gatsby-headaches-i18n-part-1/) are over. Juan Diego Rodríguez reflects on his decision to stop using Gatsby as his go-to framework. Through a detailed examination of its strengths and weaknesses, he provides valuable insights and alternative options for developers navigating their tooling choices.",
           "link": "https://smashingmagazine.com/2024/03/end-of-gatsby-journey/",
           "publishedOn": "2024-03-06T08:00:00.000Z",
-          "wordCount": 5973,
+          "wordCount": 5965,
           "title": "The End Of My Gatsby Journey",
           "enclosure": {
             "url": "http://files.smashing.media/articles/end-of-gatsby-journey/end-of-gatsby-journey.jpg",
@@ -210,6 +210,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/from-full-time-software-engineer-to-first-indie-project/",
+          "author": "Gaël Thomas",
+          "description": "Introduction: The Spark of Indie Hacking I’m Gaël, a 25-year-old software engineer who’s been working in a startup environment in Southeast Asia for a few years. 🌏  Working remotely has its perks, and while hopping from one exotic location to another, I’ve been nurturing a little dream: to kick-start",
+          "link": "https://www.freecodecamp.org/news/from-full-time-software-engineer-to-first-indie-project/",
+          "publishedOn": "2024-04-01T19:33:07.000Z",
+          "wordCount": 3037,
+          "title": "One Step at a Time: My Journey from Full-time Software Engineer to First Indie Project",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Blog-Banner-Final.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/100devs-founder-leon-noel-freecodecamp-podcast-interview/",
           "author": "Quincy Larson",
@@ -266,7 +276,7 @@
           "description": "ReactJS is one of the most popular UI libraries in the front-end development world. And one of the reasons I love React is because of the team behind it and the community's enthusiasm for it. And when the community speaks up about the need for new features and improvements, the",
           "link": "https://www.freecodecamp.org/news/new-react-19-features/",
           "publishedOn": "2024-03-27T16:43:00.000Z",
-          "wordCount": 4881,
+          "wordCount": 4879,
           "title": "New Features in React 19 – Updates with Code Examples",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Group-27.png"
         },
@@ -299,16 +309,6 @@
           "wordCount": 1500,
           "title": "Tokenizers Explained – How Tokenizers Help AI Understand Language",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/ab427b80-a502-11ea-8467-694f4e40dfa7.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-full-stack-app-with-typescript-nextjs-redux-toolkit-firebase/",
-          "author": "Olasunkanmi Balogun",
-          "description": "In this in-depth tutorial, you'll learn how to build a full-stack Kanban task management app. Along the way, we'll explore the synergies between technologies like Next.js [https://nextjs.org] (featuring a dive into the app router),  Next-auth [https://next-auth.js.org] for user authentication, and Firebase [https://firebase.google.com/], a backend as a service platform to",
-          "link": "https://www.freecodecamp.org/news/build-full-stack-app-with-typescript-nextjs-redux-toolkit-firebase/",
-          "publishedOn": "2024-03-26T21:44:04.000Z",
-          "wordCount": 13653,
-          "title": "How to Build a Full-Stack Kanban Task Management App With TypeScript, Next.js, Redux-toolkit, and Firebase",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Option-1.png"
         }
       ]
     }
