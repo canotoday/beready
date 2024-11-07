@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-06T01:35:32.130Z</id>
+    <id>urn:2024-11-07T01:35:48.940Z</id>
     <title>osmos::feed</title>
-    <updated>2024-11-06T01:35:32.130Z</updated>
+    <updated>2024-11-07T01:35:48.940Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use LangChain and GPT to Analyze Multiple Documents]]></title>
+        <id>672b941f0c32c8c8cd6159a9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-langchain-and-gpt-to-analyze-multiple-documents/"/>
+        <updated>2024-11-06T16:06:55.000Z</updated>
+        <summary type="html"><![CDATA[Over the past year or so, the developer universe has exploded with ingenious new tools, applications, and processes for working with large language models and generative AI. One particularly versatile example is the LangChain project. The overall goa...]]></summary>
+        <author>
+            <name>David Clinton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Popping Comments With CSS Anchor Positioning and View-Driven Animations]]></title>
+        <id>https://css-tricks.com/?p=382247</id>
+        <link href="https://css-tricks.com/popping-comments-with-css-anchor-positioning-and-view-driven-animations/"/>
+        <updated>2024-11-06T15:31:20.000Z</updated>
+        <summary type="html"><![CDATA[The State of CSS 2024 survey wrapped up and the results are interesting, as always. Even though each section is worth analyzing, we are usually most hyped about the section on the most used CSS features. And if you …
+Popping Comments With CSS Anchor Positioning and View-Driven Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fluid Everything Else]]></title>
         <id>https://css-tricks.com/?p=382107</id>
@@ -127,16 +148,6 @@ Fluid Everything Else originally published on CSS-Tricks, which is part of the D
 Web-Slinger.css: Like Wow.js But With CSS-y Scroll Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Lee Meyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Cybersecurity Certifications You Should Know About as a Developer]]></title>
-        <id>6723aaab6ac0ce6c240da454</id>
-        <link href="https://www.freecodecamp.org/news/top-cybersecurity-certifications-for-devs/"/>
-        <updated>2024-10-31T16:04:59.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity remains one of the fastest-growing fields today, and for a good reason. The need for skilled cyber defenders grows as our lives and businesses go ever more digital. A cybersecurity certification can help you boost your skills and demons...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
         </author>
     </entry>
     <entry>
@@ -310,17 +321,6 @@ Close, Exit, Cancel: How to End User Interactions Well originally published on C
         <summary type="html"><![CDATA[Design decisions shouldn’t be a matter of personal preference. We can use reliable design KPIs and UX metrics to guide and shape our design work and measure its impact on business. Meet How To Measure UX and Design Impact, our new video course that helps with just that.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Tricks That Use Only One Gradient]]></title>
-        <id>https://css-tricks.com/?p=381773</id>
-        <link href="https://css-tricks.com/css-tricks-that-use-only-one-gradient/"/>
-        <updated>2024-10-11T21:48:01.000Z</updated>
-        <summary type="html"><![CDATA[CSS gradients have been so long that there’s no need to rehash what they are and how to use them. You have surely encountered them at some point in your front-end journey, and if you follow me, you also …
-CSS Tricks That Use Only One Gradient originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
         </author>
     </entry>
     <entry>
