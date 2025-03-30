@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-29T01:43:27.721Z</id>
+    <id>urn:2025-03-30T01:52:04.546Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-29T01:43:27.721Z</updated>
+    <updated>2025-03-30T01:52:04.546Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -329,16 +329,6 @@ Functions in CSS?! originally published on CSS-Tricks, which is part of the Digi
 A CSS-Only Star Rating Component and More! (Part 1) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sunshine And March Vibes (2025 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2025/02/desktop-wallpaper-calendars-march-2025/</id>
-        <link href="https://smashingmagazine.com/2025/02/desktop-wallpaper-calendars-march-2025/"/>
-        <updated>2025-02-28T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by the community for the community, the wallpapers in this collection are the perfect opportunity to get your desktop ready for spring — and, who knows, maybe they’ll spark some new ideas, too. Enjoy!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>
