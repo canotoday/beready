@@ -140,16 +140,6 @@
           "wordCount": 3999,
           "title": "Functions in CSS?!",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/07/css-functions-mixins.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=384906",
-          "author": "Temani Afif",
-          "description": "In this article, you'll learn how to make a full-on star rating component out of nothing but a single input element and vanilla CSS.\nA CSS-Only Star Rating Component and More! (Part 1) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/a-css-only-star-rating-component-and-more-part-1/",
-          "publishedOn": "2025-02-28T14:03:32.000Z",
-          "wordCount": 4261,
-          "title": "A CSS-Only Star Rating Component and More! (Part 1)",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/07/star-pattern.png"
         }
       ]
     },
