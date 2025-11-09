@@ -7,128 +7,6 @@
       "articles": []
     },
     {
-      "title": "CSS-Tricks",
-      "feedUrl": "https://css-tricks.com/feed/",
-      "siteUrl": "https://css-tricks.com",
-      "articles": [
-        {
-          "id": "https://css-tricks.com/?p=385769",
-          "author": "Geoff Graham",
-          "description": "Why should you use a semantic <button> instead of a generic <div>? Accessibility, right? By how exactly does it help accessibility?\nExplaining the Accessible Benefits of Using Semantic HTML Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/explaining-the-accessible-benefits-of-using-semantic-html-elements/",
-          "publishedOn": "2025-11-06T15:57:49.000Z",
-          "wordCount": 2352,
-          "title": "Explaining the Accessible Benefits of Using Semantic HTML Elements",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/11/screaming-button.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=389842",
-          "author": "Juan Diego Rodríguez",
-          "description": "Last time, we discussed that, sadly, according to the State of CSS 2025 survey, trigonometric functions are deemed the “Most Hated” CSS feature.\nThat shocked me. I may have even been a little offended, being a math nerd and …\nThe “Most Hated” CSS Feature: tan() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/the-most-hated-css-feature-tan/",
-          "publishedOn": "2025-11-03T16:03:08.000Z",
-          "wordCount": 3548,
-          "title": "The “Most Hated” CSS Feature: tan()",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/trig-tangent-graph.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=390031",
-          "author": "Andy Clarke",
-          "description": "On mobile, people can lose their sense of context and can’t easily tell where a section begins or ends. Good small-screen design can help orient them using a variety of techniques.\nGetting Creative With Small Screens originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/getting-creative-with-small-screens/",
-          "publishedOn": "2025-10-29T16:22:28.000Z",
-          "wordCount": 3688,
-          "title": "Getting Creative With Small Screens",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/s_E63F027435C482D5813799164A830B3E060276A78A7A02CCD5EC79D53323A5B8_1761081109189_2025-10-21-8.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=389805",
-          "author": "Silvestar Bistrović",
-          "description": "Can we use the <details> element as the foundation for a tabbed interface? Why yes, we can!\nPure CSS Tabs With Details, Grid, and Subgrid originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/pure-css-tabs-with-details-grid-and-subgrid/",
-          "publishedOn": "2025-10-27T14:33:17.000Z",
-          "wordCount": 3261,
-          "title": "Pure CSS Tabs With Details, Grid, and Subgrid",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2025/10/demo-1.mp4",
-            "length": "60442",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/details-tabs-subgrid.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=389794",
-          "author": "Preethi",
-          "description": "When we change an element’s intrinsic sizing, its children are affected, too. This is something we can use to our advantage.\nCSS Animations That Leverage the Parent-Child Relationship originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-animations-that-leverage-the-parent-child-relationship/",
-          "publishedOn": "2025-10-24T14:18:03.000Z",
-          "wordCount": 2511,
-          "title": "CSS Animations That Leverage the Parent-Child Relationship",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2025/10/overlapping-circle-animation.mov",
-            "length": "782608",
-            "type": "video/quicktime"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/10/motion-blur.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=389961",
-          "author": "Mat Marquis",
-          "description": "A thorough but approachable lesson on JavaScript expressions excerpted JavaScript For Everyone, a complete online course offered by our friends at Piccalilli.\nAn Introduction to JavaScript Expressions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/an-introduction-to-javascript-expressions/",
-          "publishedOn": "2025-10-22T19:08:23.000Z",
-          "wordCount": 4302,
-          "title": "An Introduction to JavaScript Expressions",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/javascript-for-everyone-scaled.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=388560",
-          "author": "Zell Liew",
-          "description": "Honeypots are fields that developers use to prevent spam submissions. They still work in 2025. But you got to set a couple of tricks in place so spambots can’t detect your honeypot field.\nBuilding a Honeypot Field That Works originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/building-a-honeypot-field-that-works/",
-          "publishedOn": "2025-10-20T16:11:40.000Z",
-          "wordCount": 2755,
-          "title": "Building a Honeypot Field That Works",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/04/sticky-header.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=389737",
-          "author": "Temani Afif",
-          "description": "Let’s suppose you have N elements with the same animation that should animate sequentially. Modern CSS makes this easy and it works for any number of items!\nSequential linear() Animation With N Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/sequential-linear-animation-with-n-elements/",
-          "publishedOn": "2025-10-15T13:39:39.000Z",
-          "wordCount": 3536,
-          "title": "Sequential linear() Animation With N Elements",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2025/10/sequential-2.mov",
-            "length": "310986",
-            "type": "video/quicktime"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/sequential-thumb.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=389636",
-          "author": "Saleh Mubashar",
-          "description": "What can CSS Masonry discussions teach us about the development of new CSS features? What is the CSSWG’s role? What influence do browsers have? What can learn from the way past features evolved?\nMasonry: Watching a CSS Feature Evolve originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/masonry-watching-a-css-feature-evolve/",
-          "publishedOn": "2025-10-13T14:31:35.000Z",
-          "wordCount": 3589,
-          "title": "Masonry: Watching a CSS Feature Evolve",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/08/css-tricks-logo-blur.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=389611",
-          "author": "Daniel Schwarz",
-          "description": "The TL;DR is that stretch does the same thing as declaring 100%, but ignores padding when looking at the available space. \nWe Completely Missed width/height: stretch originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/we-completely-missed-width-height-stretch/",
-          "publishedOn": "2025-10-10T14:03:52.000Z",
-          "wordCount": 2699,
-          "title": "We Completely Missed width/height: stretch",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/11/percentage-padding-width.png"
-        }
-      ]
-    },
-    {
       "title": "Articles on Smashing Magazine — For Web Designers And Developers",
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
@@ -139,7 +17,7 @@
           "description": "SVG is one of those web technologies that’s both elegant and, at times, infuriating. In this article, pioneering author and web designer Andy Clarke explains his technique for animating SVG elements that are hidden in the Shadow DOM.",
           "link": "https://smashingmagazine.com/2025/11/smashing-animations-part-6-svgs-css-custom-properties/",
           "publishedOn": "2025-11-07T15:00:00.000Z",
-          "wordCount": 4723,
+          "wordCount": 4710,
           "title": "Smashing Animations Part 6: Magnificent SVGs With `<use>` And CSS Custom Properties",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-6-svgs-css-custom-properties/smashing-animations-part-6-svgs-css-custom-properties.jpg",
@@ -184,7 +62,7 @@
           "description": "The new month is just around the corner, and that means: It’s time for some new desktop wallpapers! All of them are designed by the community for the community and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/",
           "publishedOn": "2025-10-31T12:00:00.000Z",
-          "wordCount": 4872,
+          "wordCount": 4774,
           "title": "Fading Light And Falling Leaves (November 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png",
@@ -199,7 +77,7 @@
           "description": "Here is a lesson on Iterators. Iterables implement the iterable iteration interface, and iterators implement the iterator iteration interface. Sounds confusing? Mat breaks it all down in the article.",
           "link": "https://smashingmagazine.com/2025/10/javascript-for-everyone-iterators/",
           "publishedOn": "2025-10-27T13:00:00.000Z",
-          "wordCount": 4463,
+          "wordCount": 4446,
           "title": "JavaScript For Everyone: Iterators",
           "imageUrl": "https:null"
         },
@@ -209,7 +87,7 @@
           "description": "Motion can be tricky: too much distracts, too little feels flat. Ambient animations sit in the middle. They’re subtle, slow-moving details that add atmosphere without stealing the show. In part two of his series, web design pioneer Andy Clarke shows how ambient animations can add personality to any website design.",
           "link": "https://smashingmagazine.com/2025/10/ambient-animations-web-design-practical-applications-part2/",
           "publishedOn": "2025-10-22T13:00:00.000Z",
-          "wordCount": 4587,
+          "wordCount": 4590,
           "title": "Ambient Animations In Web Design: Practical Applications (Part 2)",
           "imageUrl": "https:null"
         },
@@ -219,7 +97,7 @@
           "description": "A simple but powerful mental model for working with AI: treat it like an enthusiastic intern with no real-world experience. Paul Boag shares lessons learned from real client projects across user research, design, development, and content creation.",
           "link": "https://smashingmagazine.com/2025/10/ai-ux-achieve-more-with-less/",
           "publishedOn": "2025-10-17T08:00:00.000Z",
-          "wordCount": 5824,
+          "wordCount": 5829,
           "title": "AI In UX: Achieve More With Less",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ai-ux-achieve-more-with-less/ai-ux-achieve-more-with-less.jpg",
@@ -249,7 +127,7 @@
           "description": "From A/B tests to AI slop, the modern web is bleeding out its colour. Standardized, templated, and overoptimized, it’s starting to feel like a digital Levittown. But it doesn’t have to be.",
           "link": "https://smashingmagazine.com/2025/10/the-grayscale-problem/",
           "publishedOn": "2025-10-13T10:00:00.000Z",
-          "wordCount": 4576,
+          "wordCount": 4570,
           "title": "The Grayscale Problem",
           "enclosure": {
             "url": "http://files.smashing.media/articles/the-grayscale-problem/the-grayscale-problem.jpg",
