@@ -1,16 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-14T01:53:07.827Z</id>
+    <id>urn:2025-11-15T01:48:54.148Z</id>
     <title>osmos::feed</title>
-    <updated>2025-11-14T01:53:07.827Z</updated>
+    <updated>2025-11-15T01:48:54.148Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Get Started with PocketBase: Build a Lightweight Backend in Minutes]]></title>
+        <id>691770eb5879bafaa784b694</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-started-with-pocketbase-build-a-lightweight-backend-in-minutes/"/>
+        <updated>2025-11-14T18:11:55.000Z</updated>
+        <summary type="html"><![CDATA[If you’re a developer looking for a simple, fast, and self-hosted backend, PocketBase might be exactly what you need.  It’s an open-source backend written in Go that lets you set up a complete backend with database, authentication, file storage, and ...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harvard CS50 prof David J. Malan on why you should learn programming slowly [Podcast #197]]]></title>
+        <id>69174b1090e746d252948913</id>
+        <link href="https://www.freecodecamp.org/news/harvard-cs50-prof-david-j-malan-on-why-you-should-learn-programming-slowly-podcast-197/"/>
+        <updated>2025-11-14T15:30:24.000Z</updated>
+        <summary type="html"><![CDATA[Dr. David J. Malan teaches computer science at Harvard. Over the past decade, millions of people have taken his CS50 course both in person and online. He joins us to talk about: Why he still recommends learning the C programming language in 2026 Ho...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Implement Dependency Injection in FastAPI]]></title>
+        <id>691740a91f4fa448325a55f9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-implement-dependency-injection-in-fastapi/"/>
+        <updated>2025-11-14T14:46:01.000Z</updated>
+        <summary type="html"><![CDATA[Several languages and frameworks depend on dependency injection—no pun intended. Go, Angular, NestJS, and Python's FastAPI all use it as a core pattern. If you've been working with FastAPI, you've likely encountered dependencies in action. Perhaps yo...]]></summary>
+        <author>
+            <name>Nneoma Uche</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Gamepad API Visual Debugging With CSS Layers]]></title>
+        <id>https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/</id>
+        <link href="https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/"/>
+        <updated>2025-11-14T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Debugging controllers can be a real pain. Here’s a deep dive into how CSS helps clean it up and how to build a reusable visual debugger for your own projects.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Godstime Aburu)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From Pixels to Predictions: How GPUs Started Powering Modern AI]]></title>
         <id>69164b0a612455db63b30bdc</id>
         <link href="https://www.freecodecamp.org/news/from-pixels-to-predictions-how-gpus-started-powering-modern-ai/"/>
         <updated>2025-11-13T21:18:02.000Z</updated>
-        <summary type="html"><![CDATA[When people think of artificial intelligence, they imagine complex models, data centers, and cloud servers.  What most don’t realize is that the real engine behind this AI revolution started in a place few expected: inside the humble gaming PC.  The ...]]></summary>
+        <summary type="html"><![CDATA[When people think of artificial intelligence, they imagine complex models, data centers, and cloud servers. What most don’t realize is that the real engine behind this AI revolution started in a place few expected: inside the humble gaming PC. The sa...]]></summary>
         <author>
             <name>Manish Shivanandhan</name>
         </author>
@@ -76,37 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Range Syntax Has Come to Container Style Queries and if()]]></title>
-        <id>https://css-tricks.com/?p=390178</id>
-        <link href="https://css-tricks.com/the-range-syntax-has-come-to-container-style-queries-and-if/"/>
-        <updated>2025-11-13T15:00:20.000Z</updated>
-        <summary type="html"><![CDATA[Being able to use the range syntax with container style queries — which we can do starting with Chrome 142 — means that we can compare literal numeric values as well as numeric values tokenized by custom properties or the attr() function.
-The Range Syntax Has Come to Container Style Queries and if() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Discrete Mathematics]]></title>
-        <id>6915ec909bbfb50f5a356a15</id>
-        <link href="https://www.freecodecamp.org/news/learn-discrete-mathematics/"/>
-        <updated>2025-11-13T14:34:56.000Z</updated>
-        <summary type="html"><![CDATA[Discrete mathematics plays a key role in machine learning and algorithms. You can use it to find the shortest path (graph theory), encrypt files, compress data, and to do many other things. We just posted a discreet mathematics course on the freeCode...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build Complex Workflows with n8n & Master AI Integration]]></title>
-        <id>6915ea7e997289c5d5272773</id>
-        <link href="https://www.freecodecamp.org/news/build-complex-workflows-with-n8n-and-master-ai-integration/"/>
-        <updated>2025-11-13T14:26:06.000Z</updated>
-        <summary type="html"><![CDATA[n8n is an open-source workflow automation platform that lets you connect different apps, APIs, and services to easily automate tasks without needing to implement extensive code. We just posted a course on the freeCodeCamp.org YouTube channel that is ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Older Tech In The Browser Stack]]></title>
         <id>https://smashingmagazine.com/2025/11/older-tech-browser-stack/</id>
         <link href="https://smashingmagazine.com/2025/11/older-tech-browser-stack/"/>
@@ -114,16 +123,6 @@ The Range Syntax Has Come to Container Style Queries and if() originally publish
         <summary type="html"><![CDATA[There are many existing web features and technologies in the wild that you may never touch directly in your day-to-day work. Perhaps you’re fairly new to web development and are simply unaware of them because you’re steeped in the abstraction of a specific framework that doesn’t require you to know it deeply, or even at all. Bryan Rasmussen looks specifically at XPath and demonstrates how it can be used alongside CSS to query elements.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Bryan Rasmussen)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Integrate Vector Search in Columnar Storage]]></title>
-        <id>6914ff68e1ffda5f6ea6d8ea</id>
-        <link href="https://www.freecodecamp.org/news/how-to-integrate-vector-search-in-columnar-storage/"/>
-        <updated>2025-11-12T21:43:04.000Z</updated>
-        <summary type="html"><![CDATA[Integrating vector search into traditional data platforms is becoming a common task in the current AI-driven landscape. When Google announced general availability for vector search in BigQuery in early 2024, it joined a growing list of established da...]]></summary>
-        <author>
-            <name>Chirag Agrawal</name>
         </author>
     </entry>
     <entry>
@@ -137,17 +136,6 @@ The Range Syntax Has Come to Container Style Queries and if() originally publish
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Headings: Semantics, Fluidity, and Styling — Oh My!]]></title>
-        <id>https://css-tricks.com/?p=389885</id>
-        <link href="https://css-tricks.com/headings-semantics-fluidity-and-styling-oh-my/"/>
-        <updated>2025-11-10T14:44:13.000Z</updated>
-        <summary type="html"><![CDATA[A few links about headings that I've had stored under my top hat.
-Headings: Semantics, Fluidity, and Styling — Oh My! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Smashing Animations Part 6: Magnificent SVGs With `<use>` And CSS Custom Properties]]></title>
         <id>https://smashingmagazine.com/2025/11/smashing-animations-part-6-svgs-css-custom-properties/</id>
         <link href="https://smashingmagazine.com/2025/11/smashing-animations-part-6-svgs-css-custom-properties/"/>
@@ -155,17 +143,6 @@ Headings: Semantics, Fluidity, and Styling — Oh My! originally published on CS
         <summary type="html"><![CDATA[SVG is one of those web technologies that’s both elegant and, at times, infuriating. In this article, pioneering author and web designer Andy Clarke explains his technique for animating SVG elements that are hidden in the Shadow DOM.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Andy Clarke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Explaining the Accessible Benefits of Using Semantic HTML Elements]]></title>
-        <id>https://css-tricks.com/?p=385769</id>
-        <link href="https://css-tricks.com/explaining-the-accessible-benefits-of-using-semantic-html-elements/"/>
-        <updated>2025-11-06T15:57:49.000Z</updated>
-        <summary type="html"><![CDATA[Why should you use a semantic <button> instead of a generic <div>? Accessibility, right? By how exactly does it help accessibility?
-Explaining the Accessible Benefits of Using Semantic HTML Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -189,18 +166,6 @@ Explaining the Accessible Benefits of Using Semantic HTML Elements originally pu
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The “Most Hated” CSS Feature: tan()]]></title>
-        <id>https://css-tricks.com/?p=389842</id>
-        <link href="https://css-tricks.com/the-most-hated-css-feature-tan/"/>
-        <updated>2025-11-03T16:03:08.000Z</updated>
-        <summary type="html"><![CDATA[Last time, we discussed that, sadly, according to the State of CSS 2025 survey, trigonometric functions are deemed the “Most Hated” CSS feature.
-That shocked me. I may have even been a little offended, being a math nerd and …
-The “Most Hated” CSS Feature: tan() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fading Light And Falling Leaves (November 2025 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/</id>
         <link href="https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/"/>
@@ -208,28 +173,6 @@ The “Most Hated” CSS Feature: tan() originally published on CSS-Tricks, whic
         <summary type="html"><![CDATA[The new month is just around the corner, and that means: It’s time for some new desktop wallpapers! All of them are designed by the community for the community and can be downloaded for free. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Creative With Small Screens]]></title>
-        <id>https://css-tricks.com/?p=390031</id>
-        <link href="https://css-tricks.com/getting-creative-with-small-screens/"/>
-        <updated>2025-10-29T16:22:28.000Z</updated>
-        <summary type="html"><![CDATA[On mobile, people can lose their sense of context and can’t easily tell where a section begins or ends. Good small-screen design can help orient them using a variety of techniques.
-Getting Creative With Small Screens originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Andy Clarke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pure CSS Tabs With Details, Grid, and Subgrid]]></title>
-        <id>https://css-tricks.com/?p=389805</id>
-        <link href="https://css-tricks.com/pure-css-tabs-with-details-grid-and-subgrid/"/>
-        <updated>2025-10-27T14:33:17.000Z</updated>
-        <summary type="html"><![CDATA[Can we use the <details> element as the foundation for a tabbed interface? Why yes, we can!
-Pure CSS Tabs With Details, Grid, and Subgrid originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Silvestar Bistrović</name>
         </author>
     </entry>
     <entry>
@@ -243,28 +186,6 @@ Pure CSS Tabs With Details, Grid, and Subgrid originally published on CSS-Tricks
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS Animations That Leverage the Parent-Child Relationship]]></title>
-        <id>https://css-tricks.com/?p=389794</id>
-        <link href="https://css-tricks.com/css-animations-that-leverage-the-parent-child-relationship/"/>
-        <updated>2025-10-24T14:18:03.000Z</updated>
-        <summary type="html"><![CDATA[When we change an element’s intrinsic sizing, its children are affected, too. This is something we can use to our advantage.
-CSS Animations That Leverage the Parent-Child Relationship originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Introduction to JavaScript Expressions]]></title>
-        <id>https://css-tricks.com/?p=389961</id>
-        <link href="https://css-tricks.com/an-introduction-to-javascript-expressions/"/>
-        <updated>2025-10-22T19:08:23.000Z</updated>
-        <summary type="html"><![CDATA[A thorough but approachable lesson on JavaScript expressions excerpted JavaScript For Everyone, a complete online course offered by our friends at Piccalilli.
-An Introduction to JavaScript Expressions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Mat Marquis</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ambient Animations In Web Design: Practical Applications (Part 2)]]></title>
         <id>https://smashingmagazine.com/2025/10/ambient-animations-web-design-practical-applications-part2/</id>
         <link href="https://smashingmagazine.com/2025/10/ambient-animations-web-design-practical-applications-part2/"/>
@@ -275,17 +196,6 @@ An Introduction to JavaScript Expressions originally published on CSS-Tricks, wh
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Honeypot Field That Works]]></title>
-        <id>https://css-tricks.com/?p=388560</id>
-        <link href="https://css-tricks.com/building-a-honeypot-field-that-works/"/>
-        <updated>2025-10-20T16:11:40.000Z</updated>
-        <summary type="html"><![CDATA[Honeypots are fields that developers use to prevent spam submissions. They still work in 2025. But you got to set a couple of tricks in place so spambots can’t detect your honeypot field.
-Building a Honeypot Field That Works originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Zell Liew</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AI In UX: Achieve More With Less]]></title>
         <id>https://smashingmagazine.com/2025/10/ai-ux-achieve-more-with-less/</id>
         <link href="https://smashingmagazine.com/2025/10/ai-ux-achieve-more-with-less/"/>
@@ -293,16 +203,6 @@ Building a Honeypot Field That Works originally published on CSS-Tricks, which i
         <summary type="html"><![CDATA[A simple but powerful mental model for working with AI: treat it like an enthusiastic intern with no real-world experience. Paul Boag shares lessons learned from real client projects across user research, design, development, and content creation.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Paul Boag)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Make Your UX Research Hard To Ignore]]></title>
-        <id>https://smashingmagazine.com/2025/10/how-make-ux-research-hard-to-ignore/</id>
-        <link href="https://smashingmagazine.com/2025/10/how-make-ux-research-hard-to-ignore/"/>
-        <updated>2025-10-16T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Research isn’t everything. Facts alone don’t win arguments, but powerful stories do. Here’s how to turn your research into narratives that inspire trust and influence decisions.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
