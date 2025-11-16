@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-15T01:48:54.148Z</id>
+    <id>urn:2025-11-16T01:58:55.560Z</id>
     <title>osmos::feed</title>
-    <updated>2025-11-15T01:48:54.148Z</updated>
+    <updated>2025-11-16T01:58:55.560Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -13,6 +13,17 @@
         <summary type="html"><![CDATA[If you’re a developer looking for a simple, fast, and self-hosted backend, PocketBase might be exactly what you need.  It’s an open-source backend written in Go that lets you set up a complete backend with database, authentication, file storage, and ...]]></summary>
         <author>
             <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quiet UI Came and Went, Quiet as a Mouse]]></title>
+        <id>https://css-tricks.com/?p=390408</id>
+        <link href="https://css-tricks.com/quiet-ui-came-and-went-quiet-as-a-mouse/"/>
+        <updated>2025-11-14T15:32:50.000Z</updated>
+        <summary type="html"><![CDATA[The extremely new framework that caught lots of attention will continue as a personal project.
+Quiet UI Came and Went, Quiet as a Mouse originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Ryan Trimble</name>
         </author>
     </entry>
     <entry>
@@ -116,6 +127,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Range Syntax Has Come to Container Style Queries and if()]]></title>
+        <id>https://css-tricks.com/?p=390178</id>
+        <link href="https://css-tricks.com/the-range-syntax-has-come-to-container-style-queries-and-if/"/>
+        <updated>2025-11-13T15:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Being able to use the range syntax with container style queries — which we can do starting with Chrome 142 — means that we can compare literal numeric values as well as numeric values tokenized by custom properties or the attr() function.
+The Range Syntax Has Come to Container Style Queries and if() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Older Tech In The Browser Stack]]></title>
         <id>https://smashingmagazine.com/2025/11/older-tech-browser-stack/</id>
         <link href="https://smashingmagazine.com/2025/11/older-tech-browser-stack/"/>
@@ -136,6 +158,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Headings: Semantics, Fluidity, and Styling — Oh My!]]></title>
+        <id>https://css-tricks.com/?p=389885</id>
+        <link href="https://css-tricks.com/headings-semantics-fluidity-and-styling-oh-my/"/>
+        <updated>2025-11-10T14:44:13.000Z</updated>
+        <summary type="html"><![CDATA[A few links about headings that I've had stored under my top hat.
+Headings: Semantics, Fluidity, and Styling — Oh My! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Smashing Animations Part 6: Magnificent SVGs With `<use>` And CSS Custom Properties]]></title>
         <id>https://smashingmagazine.com/2025/11/smashing-animations-part-6-svgs-css-custom-properties/</id>
         <link href="https://smashingmagazine.com/2025/11/smashing-animations-part-6-svgs-css-custom-properties/"/>
@@ -143,6 +176,17 @@
         <summary type="html"><![CDATA[SVG is one of those web technologies that’s both elegant and, at times, infuriating. In this article, pioneering author and web designer Andy Clarke explains his technique for animating SVG elements that are hidden in the Shadow DOM.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Andy Clarke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explaining the Accessible Benefits of Using Semantic HTML Elements]]></title>
+        <id>https://css-tricks.com/?p=385769</id>
+        <link href="https://css-tricks.com/explaining-the-accessible-benefits-of-using-semantic-html-elements/"/>
+        <updated>2025-11-06T15:57:49.000Z</updated>
+        <summary type="html"><![CDATA[Why should you use a semantic <button> instead of a generic <div>? Accessibility, right? By how exactly does it help accessibility?
+Explaining the Accessible Benefits of Using Semantic HTML Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -166,6 +210,18 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The “Most Hated” CSS Feature: tan()]]></title>
+        <id>https://css-tricks.com/?p=389842</id>
+        <link href="https://css-tricks.com/the-most-hated-css-feature-tan/"/>
+        <updated>2025-11-03T16:03:08.000Z</updated>
+        <summary type="html"><![CDATA[Last time, we discussed that, sadly, according to the State of CSS 2025 survey, trigonometric functions are deemed the “Most Hated” CSS feature.
+That shocked me. I may have even been a little offended, being a math nerd and …
+The “Most Hated” CSS Feature: tan() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Fading Light And Falling Leaves (November 2025 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/</id>
         <link href="https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/"/>
@@ -173,6 +229,28 @@
         <summary type="html"><![CDATA[The new month is just around the corner, and that means: It’s time for some new desktop wallpapers! All of them are designed by the community for the community and can be downloaded for free. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Creative With Small Screens]]></title>
+        <id>https://css-tricks.com/?p=390031</id>
+        <link href="https://css-tricks.com/getting-creative-with-small-screens/"/>
+        <updated>2025-10-29T16:22:28.000Z</updated>
+        <summary type="html"><![CDATA[On mobile, people can lose their sense of context and can’t easily tell where a section begins or ends. Good small-screen design can help orient them using a variety of techniques.
+Getting Creative With Small Screens originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Andy Clarke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pure CSS Tabs With Details, Grid, and Subgrid]]></title>
+        <id>https://css-tricks.com/?p=389805</id>
+        <link href="https://css-tricks.com/pure-css-tabs-with-details-grid-and-subgrid/"/>
+        <updated>2025-10-27T14:33:17.000Z</updated>
+        <summary type="html"><![CDATA[Can we use the <details> element as the foundation for a tabbed interface? Why yes, we can!
+Pure CSS Tabs With Details, Grid, and Subgrid originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Silvestar Bistrović</name>
         </author>
     </entry>
     <entry>
@@ -186,6 +264,28 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CSS Animations That Leverage the Parent-Child Relationship]]></title>
+        <id>https://css-tricks.com/?p=389794</id>
+        <link href="https://css-tricks.com/css-animations-that-leverage-the-parent-child-relationship/"/>
+        <updated>2025-10-24T14:18:03.000Z</updated>
+        <summary type="html"><![CDATA[When we change an element’s intrinsic sizing, its children are affected, too. This is something we can use to our advantage.
+CSS Animations That Leverage the Parent-Child Relationship originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Preethi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Introduction to JavaScript Expressions]]></title>
+        <id>https://css-tricks.com/?p=389961</id>
+        <link href="https://css-tricks.com/an-introduction-to-javascript-expressions/"/>
+        <updated>2025-10-22T19:08:23.000Z</updated>
+        <summary type="html"><![CDATA[A thorough but approachable lesson on JavaScript expressions excerpted JavaScript For Everyone, a complete online course offered by our friends at Piccalilli.
+An Introduction to JavaScript Expressions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Mat Marquis</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ambient Animations In Web Design: Practical Applications (Part 2)]]></title>
         <id>https://smashingmagazine.com/2025/10/ambient-animations-web-design-practical-applications-part2/</id>
         <link href="https://smashingmagazine.com/2025/10/ambient-animations-web-design-practical-applications-part2/"/>
@@ -196,13 +296,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI In UX: Achieve More With Less]]></title>
-        <id>https://smashingmagazine.com/2025/10/ai-ux-achieve-more-with-less/</id>
-        <link href="https://smashingmagazine.com/2025/10/ai-ux-achieve-more-with-less/"/>
-        <updated>2025-10-17T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A simple but powerful mental model for working with AI: treat it like an enthusiastic intern with no real-world experience. Paul Boag shares lessons learned from real client projects across user research, design, development, and content creation.]]></summary>
+        <title type="html"><![CDATA[Building a Honeypot Field That Works]]></title>
+        <id>https://css-tricks.com/?p=388560</id>
+        <link href="https://css-tricks.com/building-a-honeypot-field-that-works/"/>
+        <updated>2025-10-20T16:11:40.000Z</updated>
+        <summary type="html"><![CDATA[Honeypots are fields that developers use to prevent spam submissions. They still work in 2025. But you got to set a couple of tricks in place so spambots can’t detect your honeypot field.
+Building a Honeypot Field That Works originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Paul Boag)</name>
+            <name>Zell Liew</name>
         </author>
     </entry>
 </feed>
