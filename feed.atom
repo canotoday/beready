@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-08T01:58:04.286Z</id>
+    <id>urn:2025-12-09T01:56:43.166Z</id>
     <title>osmos::feed</title>
-    <updated>2025-12-08T01:58:04.286Z</updated>
+    <updated>2025-12-09T01:56:43.166Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How Embedded Analytics Makes Your App More Valuable]]></title>
+        <id>693704c4f37606a62f1727d3</id>
+        <link href="https://www.freecodecamp.org/news/how-embedded-analytics-makes-your-app-more-valuable/"/>
+        <updated>2025-12-08T17:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Most business apps capture data. They track orders, tickets, leads, expenses, tasks, or deliveries. But when someone needs insights, they often leave the app, export a file or open a BI tool to get answers. This extra step slows down decisions and cr...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Figma MCP vs Kombai: Cloning the Front End from Figma with AI Tools]]></title>
+        <id>693703cb19e18638588e6285</id>
+        <link href="https://www.freecodecamp.org/news/figma-mcp-vs-kombai-frontend-clone-comparison/"/>
+        <updated>2025-12-08T16:58:51.000Z</updated>
+        <summary type="html"><![CDATA[Frontend automation is moving fast. Tools like Figma MCP and Kombai can read design context and generate working UI code. I wanted to see what you actually get in practice, so I decided to compare them. Figma MCP exposes design metadata to AI clients...]]></summary>
+        <author>
+            <name>Shrijal Acharya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[freeCodeCamp's New JavaScript Certification is Now Live]]></title>
+        <id>6936e6e9ba6866f4046b4f36</id>
+        <link href="https://www.freecodecamp.org/news/freecodecamps-new-javascript-certification-is-now-live/"/>
+        <updated>2025-12-08T14:55:37.000Z</updated>
+        <summary type="html"><![CDATA[The freeCodeCamp community just published our new JavaScript certification. You can now sit for the exam to earn the free verified certification, which you can add to your résumé, CV, or LinkedIn profile. Each certification is filled with hundreds of...]]></summary>
+        <author>
+            <name>Jessica Wilkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[That Time I Tried Explaining HTML and CSS to My 5-Year Old Niece]]></title>
+        <id>https://css-tricks.com/?p=390475</id>
+        <link href="https://css-tricks.com/that-time-i-tried-explaining-html-and-css-to-my-5-year-old-niece/"/>
+        <updated>2025-12-08T14:45:43.000Z</updated>
+        <summary type="html"><![CDATA[I would like to tell you what I learned from a five-year old child about HTML and CSS. It’s funny how explaining something you do almost naturally teaches you about yourself and what you take for granted.
+That Time I Tried Explaining HTML and CSS to My 5-Year Old Niece originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Kevine Nzapdi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How UX Professionals Can Lead AI Strategy]]></title>
+        <id>https://smashingmagazine.com/2025/12/how-ux-professionals-can-lead-ai-strategy/</id>
+        <link href="https://smashingmagazine.com/2025/12/how-ux-professionals-can-lead-ai-strategy/"/>
+        <updated>2025-12-08T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Lead your organization’s AI strategy before someone else defines it for you. A practical framework for UX professionals to shape AI implementation.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Boag)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HTML Web Components Proposal From 1998]]></title>
         <id>https://css-tricks.com/?p=390691</id>
@@ -34,6 +85,16 @@ HTML Web Components Proposal From 1998 originally published on CSS-Tricks, which
         <summary type="html"><![CDATA[Today Quincy Larson interviews Kunal Kushwaha. He's a software engineer and prolific computer science teacher on YouTube. He failed the JEE, the Indian Engineering Entrance Exam, TWICE. But he persevered. He did 4 years of university but attended ZER...]]></summary>
         <author>
             <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond The Black Box: Practical XAI For UX Practitioners]]></title>
+        <id>https://smashingmagazine.com/2025/12/beyond-black-box-practical-xai-ux-practitioners/</id>
+        <link href="https://smashingmagazine.com/2025/12/beyond-black-box-practical-xai-ux-practitioners/"/>
+        <updated>2025-12-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Explainable AI isn’t just a challenge for data scientists. It’s also a design challenge and a core pillar of trustworthy, effective AI products. Victor Yocco offers practical guidance and design patterns for building explainability into real products.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victor Yocco)</name>
         </author>
     </entry>
     <entry>
@@ -98,36 +159,6 @@ Getting Creative With “The Measure” originally published on CSS-Tricks, whic
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Bluetooth Low Energy Devices Work: GATT Services and Characteristics Explained]]></title>
-        <id>69307a1e2b79515d02383320</id>
-        <link href="https://www.freecodecamp.org/news/how-bluetooth-low-energy-devices-work-gatt-services-and-characteristics-explained/"/>
-        <updated>2025-12-03T17:57:50.000Z</updated>
-        <summary type="html"><![CDATA[Every time you check your smartwatch for heart rate, read the battery level of wireless earbuds, unlock a Bluetooth smart lock, or watch sensor data stream into an app, you are experiencing the result of GATT working quietly in the background. GATT i...]]></summary>
-        <author>
-            <name>Nikheel Vishwas Savant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Your First MCP Server using FastMCP]]></title>
-        <id>693070aab61ab28f12ea4687</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-your-first-mcp-server-using-fastmcp/"/>
-        <updated>2025-12-03T17:17:30.000Z</updated>
-        <summary type="html"><![CDATA[Model Context Protocol, or MCP, is changing how large language models connect with data and tools.  Instead of treating an AI model as a black box, MCP gives it structured access to information and actions.  It is like the USB-C port for AI, creating...]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn NestJS for Beginners]]></title>
-        <id>692f67007fa18557e4b8ce73</id>
-        <link href="https://www.freecodecamp.org/news/learn-nestjs-for-beginners/"/>
-        <updated>2025-12-02T22:24:00.000Z</updated>
-        <summary type="html"><![CDATA[NestJS is a progressive Node.js framework for building efficient and reliable server-side applications. It uses TypeScript by default and encourages clean, modular code with concepts including controllers, services, and dependency injection. We just ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Scrollytelling on Steroids With Scroll-State Queries]]></title>
         <id>https://css-tricks.com/?p=390205</id>
         <link href="https://css-tricks.com/scrollytelling-on-steroids-with-scroll-state-queries/"/>
@@ -136,6 +167,16 @@ Getting Creative With “The Measure” originally published on CSS-Tricks, whic
 Scrollytelling on Steroids With Scroll-State Queries originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Lee Meyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Masonry: Things You Won’t Need A Library For Anymore]]></title>
+        <id>https://smashingmagazine.com/2025/12/masonry-things-you-wont-need-library-anymore/</id>
+        <link href="https://smashingmagazine.com/2025/12/masonry-things-you-wont-need-library-anymore/"/>
+        <updated>2025-12-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CSS Masonry is almost here! Patrick Brosset takes a deep dive into what this long-awaited feature means for web developers and how you could make use of it in your own work.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Patrick Brosset)</name>
         </author>
     </entry>
     <entry>
@@ -152,6 +193,36 @@ Prevent a page from scrolling while a dialog is open originally published on CSS
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[A Sparkle Of December Magic (2025 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2025/11/desktop-wallpaper-calendars-december-2025/</id>
+        <link href="https://smashingmagazine.com/2025/11/desktop-wallpaper-calendars-december-2025/"/>
+        <updated>2025-11-30T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With December just around the corner, how about some new desktop wallpapers to welcome the last month of the year — and the holiday season, if you’re celebrating? Our latest edition of monthly wallpapers has got you covered. Enjoy!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Accessibility Problem With Authentication Methods Like CAPTCHA]]></title>
+        <id>https://smashingmagazine.com/2025/11/accessibility-problem-authentication-methods-captcha/</id>
+        <link href="https://smashingmagazine.com/2025/11/accessibility-problem-authentication-methods-captcha/"/>
+        <updated>2025-11-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CAPTCHAs were meant to keep bots out, but too often, they lock people with disabilities out, too. From image classification to click-based tests, many “human checks” are anything but inclusive. There’s no universal solution, but understanding real user needs is where accessibility truly starts.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Eleanor Hecks)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Design System Culture: What It Is And Why It Matters (Excerpt)]]></title>
+        <id>https://smashingmagazine.com/2025/11/design-system-culture/</id>
+        <link href="https://smashingmagazine.com/2025/11/design-system-culture/"/>
+        <updated>2025-11-25T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We’re so happy to announce that “Maturing Design Systems”—a Smashing book by Ben Callahan — will soon be joining the Smashing Library! Ben’s insights and advice are so powerful, we thought you might like to read an excerpt from the book. Subscribe to our Smashing newsletter to be notified when orders are open.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ari Stiles)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[On Inheriting and Sharing Property Values]]></title>
         <id>https://css-tricks.com/?p=389944</id>
         <link href="https://css-tricks.com/on-inheriting-and-sharing-property-values/"/>
@@ -160,6 +231,16 @@ Prevent a page from scrolling while a dialog is open originally published on CSS
 On Inheriting and Sharing Property Values originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing For Stress And Emergency]]></title>
+        <id>https://smashingmagazine.com/2025/11/designing-for-stress-emergency/</id>
+        <link href="https://smashingmagazine.com/2025/11/designing-for-stress-emergency/"/>
+        <updated>2025-11-24T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Practical guidelines on designing time-critical products that prevent errors and improve accuracy. Part of the Measure UX & Design Impact (use the code 🎟 IMPACT to save 20% off today). With a live UX training starting next week.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
     <entry>
@@ -174,6 +255,16 @@ Sketch: A guided tour of Copenhagen originally published on CSS-Tricks, which is
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Keyframes Tokens: Standardizing Animation Across Projects]]></title>
+        <id>https://smashingmagazine.com/2025/11/keyframes-tokens-standardizing-animation-across-projects/</id>
+        <link href="https://smashingmagazine.com/2025/11/keyframes-tokens-standardizing-animation-across-projects/"/>
+        <updated>2025-11-21T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Animations can be one of the most joyful parts of building interfaces, but without structure, they can also become one of the biggest sources of frustration. By consolidating and standardizing keyframes, you take something that is usually messy and hard to manage and turn it into a clear, predictable system.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Amit Sheen)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Should We Even Have :closed?]]></title>
         <id>https://css-tricks.com/?p=390115</id>
         <link href="https://css-tricks.com/should-we-even-have-closed/"/>
@@ -182,6 +273,16 @@ Sketch: A guided tour of Copenhagen originally published on CSS-Tricks, which is
 Should We Even Have :closed? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Sunkanmi Fafowora</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Chaos To Clarity: Simplifying Server Management With AI And Automation]]></title>
+        <id>https://smashingmagazine.com/2025/11/simplifying-server-management-ai-automation/</id>
+        <link href="https://smashingmagazine.com/2025/11/simplifying-server-management-ai-automation/"/>
+        <updated>2025-11-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Server chaos doesn’t have to be the norm. AI-ready infrastructure and automation can bring clarity, performance, and focus back to your web work.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Mansoor Ahmed Khan)</name>
         </author>
     </entry>
     <entry>
@@ -207,6 +308,16 @@ Quiet UI Came and Went, Quiet as a Mouse originally published on CSS-Tricks, whi
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CSS Gamepad API Visual Debugging With CSS Layers]]></title>
+        <id>https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/</id>
+        <link href="https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/"/>
+        <updated>2025-11-14T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Debugging controllers can be a real pain. Here’s a deep dive into how CSS helps clean it up and how to build a reusable visual debugger for your own projects.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Godstime Aburu)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Range Syntax Has Come to Container Style Queries and if()]]></title>
         <id>https://css-tricks.com/?p=390178</id>
         <link href="https://css-tricks.com/the-range-syntax-has-come-to-container-style-queries-and-if/"/>
@@ -215,6 +326,26 @@ Quiet UI Came and Went, Quiet as a Mouse originally published on CSS-Tricks, whi
 The Range Syntax Has Come to Container Style Queries and if() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Older Tech In The Browser Stack]]></title>
+        <id>https://smashingmagazine.com/2025/11/older-tech-browser-stack/</id>
+        <link href="https://smashingmagazine.com/2025/11/older-tech-browser-stack/"/>
+        <updated>2025-11-13T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There are many existing web features and technologies in the wild that you may never touch directly in your day-to-day work. Perhaps you’re fairly new to web development and are simply unaware of them because you’re steeped in the abstraction of a specific framework that doesn’t require you to know it deeply, or even at all. Bryan Rasmussen looks specifically at XPath and demonstrates how it can be used alongside CSS to query elements.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Bryan Rasmussen)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Effectively Monitoring Web Performance]]></title>
+        <id>https://smashingmagazine.com/2025/11/effectively-monitoring-web-performance/</id>
+        <link href="https://smashingmagazine.com/2025/11/effectively-monitoring-web-performance/"/>
+        <updated>2025-11-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There are lots of tips for [improving your website performance](https://www.debugbear.com/blog/improve-website-performance?utm_campaign=sm-10). But even if you follow all of the advice, are you able to maintain an optimized site? And are you targeting the right pages? Matt Zeunert outlines an effective strategy for web performance optimization and explains the roles that different types of data play in it.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Matt Zeunert)</name>
         </author>
     </entry>
     <entry>
