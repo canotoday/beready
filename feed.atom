@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-23T02:00:08.947Z</id>
+    <id>urn:2025-12-24T01:58:33.860Z</id>
     <title>osmos::feed</title>
-    <updated>2025-12-23T02:00:08.947Z</updated>
+    <updated>2025-12-24T01:58:33.860Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Christmas gifts for you from the freeCodeCamp community: Learn Python, SQL, Spanish, and more]]></title>
+        <id>694b1ba8c5784bd06a2425d7</id>
+        <link href="https://www.freecodecamp.org/news/christmas-gifts-freecodecamp-community-2025/"/>
+        <updated>2025-12-23T22:46:00.000Z</updated>
+        <summary type="html"><![CDATA[2025 has been an amazing year for the global freeCodeCamp community. And we’re thrilled to cap it off with the launch of several Christmas Gifts for you: freeCodeCamp's Python certification freeCodeCamp's JavaScript certification (Version 10) free...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use GenUI in Flutter to Build Dynamic, AI-Driven Interfaces]]></title>
+        <id>694aca4b18de35b28c2daacb</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-genui-in-flutter-to-build-dynamic-ai-driven-interfaces/"/>
+        <updated>2025-12-23T16:58:51.000Z</updated>
+        <summary type="html"><![CDATA[In standard app development, the User Interface (UI) is static. You write code for a button, compile it, and it remains a button forever. GenUI flips this model on its head. With GenUI, Google’s Generative UI SDK, your application's interface becomes...]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Support Agent with Vercel AI SDK]]></title>
+        <id>694ac4a879c823aae0f86bc9</id>
+        <link href="https://www.freecodecamp.org/news/build-a-support-agent-with-vercel-ai-sdk/"/>
+        <updated>2025-12-23T16:34:48.000Z</updated>
+        <summary type="html"><![CDATA[Vercel AI SDK is a TypeScript-first toolkit for building AI features. It streamlines text generation, embeddings, and structured outputs. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you to use the Vercel AI SDK to ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Giving Users A Voice Through Virtual Personas]]></title>
+        <id>https://smashingmagazine.com/2025/12/giving-users-voice-virtual-personas/</id>
+        <link href="https://smashingmagazine.com/2025/12/giving-users-voice-virtual-personas/"/>
+        <updated>2025-12-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Turn scattered user research into AI-powered personas that give anyone consolidated multi-perspective feedback from a single question.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Boag)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[freeCodeCamp's A1 Professional Chinese Curriculum (Beta) is Now Live]]></title>
         <id>694968e875dd1910710dddef</id>
@@ -13,17 +53,6 @@
         <summary type="html"><![CDATA[The freeCodeCamp community just published the introductory chapters of our new A1 Professional Chinese Curriculum. You can now get started learning Chinese with what’s already available. Each chapter includes hundreds of interactive tasks designed to...]]></summary>
         <author>
             <name>Nielda Karla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[text-decoration-inset is Like Padding for Text Decorations]]></title>
-        <id>https://css-tricks.com/?p=390681</id>
-        <link href="https://css-tricks.com/text-decoration-inset-is-like-padding-for-text-decorations/"/>
-        <updated>2025-12-22T14:39:52.000Z</updated>
-        <summary type="html"><![CDATA[The text-decoration-inset property solves a problem that we’ve had since the beginning of the web, which is that text decorations such as underlines extend beyond the first and last characters, resulting in vertical misalignment.
-text-decoration-inset is Like Padding for Text Decorations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
     <entry>
@@ -77,17 +106,6 @@ text-decoration-inset is Like Padding for Text Decorations originally published 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Masonry Layout is Now grid-lanes]]></title>
-        <id>https://css-tricks.com/?p=390640</id>
-        <link href="https://css-tricks.com/masonry-layout-is-now-grid-lanes/"/>
-        <updated>2025-12-19T16:08:28.000Z</updated>
-        <summary type="html"><![CDATA[It's settled! A new CSS display property keyword called grid-lanes will trigger a masonry layout mode.
-Masonry Layout is Now grid-lanes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Sunkanmi Fafowora</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to get promoted as a dev without becoming a manager – Staff Engineer Santosh Yadav interview [Podcast #202]]]></title>
         <id>6945687d98d5297cf37169d5</id>
         <link href="https://www.freecodecamp.org/news/how-to-get-promoted-as-a-dev-without-becoming-a-manager-staff-engineer-santosh-yadav-interview-podcast-202/"/>
@@ -108,58 +126,6 @@ Masonry Layout is Now grid-lanes originally published on CSS-Tricks, which is pa
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Smart HomeKit Virtual Light in Go]]></title>
-        <id>69449f453cbff85be8965f37</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-smart-homekit-virtual-light-in-go/"/>
-        <updated>2025-12-19T00:41:41.000Z</updated>
-        <summary type="html"><![CDATA[Recently, I wanted to understand how smart home devices actually work. When you scan a QR code and a light appears in your Home app, what's really happening? When you tap "on", what bytes travel across your network? The best way I know to understand...]]></summary>
-        <author>
-            <name>Rez Moss</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an AI Agent with LangChain and LangGraph: Build an Autonomous Starbucks Agent]]></title>
-        <id>69449a6dcd2a4eec1f27eb1b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-starbucks-ai-agent-with-langchain/"/>
-        <updated>2025-12-19T00:21:01.000Z</updated>
-        <summary type="html"><![CDATA[Back in 2023, when I started using ChatGPT, it was just another chatbot that I could ask complex questions to and it would identify errors in my code snippets. Everything was fine. The application had no memory of previous states or what was said the...]]></summary>
-        <author>
-            <name>Djibril-M🍀</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an LSM Tree Storage Engine from Scratch – Full Handbook]]></title>
-        <id>6944631e80f40a442d1799df</id>
-        <link href="https://www.freecodecamp.org/news/build-an-lsm-tree-storage-engine-from-scratch-handbook/"/>
-        <updated>2025-12-18T20:25:02.000Z</updated>
-        <summary type="html"><![CDATA[Databases are one of the most important parts of a software system. They allow us to store huge amounts of data in an organized way and retrieve it efficiently when we need it. In the early days, when the volume of data was relatively small, engineer...]]></summary>
-        <author>
-            <name>Ramesh Sinha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Search CSS-Tricks Raycast Extension]]></title>
-        <id>https://css-tricks.com/?p=391171</id>
-        <link href="https://css-tricks.com/search-css-tricks-raycast-extension/"/>
-        <updated>2025-12-18T15:34:23.000Z</updated>
-        <summary type="html"><![CDATA[Jelte Lagendijk built a Raycast extension for searching CSS-Tricks articles where you simply type and a get a solid set of real-time results.
-Search CSS-Tricks Raycast Extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Responsive List of Avatars Using Modern CSS (Part 2)]]></title>
-        <id>https://css-tricks.com/?p=390660</id>
-        <link href="https://css-tricks.com/responsive-list-of-avatars-using-modern-css-part-2/"/>
-        <updated>2025-12-17T15:21:34.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we follow up the work we did to create responsive rows of circular images in a previous article by arranging the images around a circle with a clean hover effect.
-Responsive List of Avatars Using Modern CSS (Part 2) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Smashing Animations Part 7: Recreating Toon Text With CSS And SVG]]></title>
         <id>https://smashingmagazine.com/2025/12/smashing-animations-part-7-recreating-toon-text-css-svg/</id>
         <link href="https://smashingmagazine.com/2025/12/smashing-animations-part-7-recreating-toon-text-css-svg/"/>
@@ -167,61 +133,6 @@ Responsive List of Avatars Using Modern CSS (Part 2) originally published on CSS
         <summary type="html"><![CDATA[In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) shows his techniques for creating [Toon Text titles](https://stuffandnonsense.co.uk/toon-text/index.html) using modern CSS and SVG.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Andy Clarke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s !important #1: Advent Calendars, CSS Wrapped, Web Platform Updates, and More]]></title>
-        <id>https://css-tricks.com/?p=391134</id>
-        <link href="https://css-tricks.com/whats-important-1/"/>
-        <updated>2025-12-16T17:03:46.000Z</updated>
-        <summary type="html"><![CDATA[The best CSS news from around the web from the last two weeks. In this edition: advent calendars, CSS Wrapped 2025, and the latest Web Platform Updates.
-What’s !important #1: Advent Calendars, CSS Wrapped, Web Platform Updates, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Toon Title Text Generator]]></title>
-        <id>https://css-tricks.com/?p=391095</id>
-        <link href="https://css-tricks.com/toon-title-text-generator/"/>
-        <updated>2025-12-15T17:55:55.000Z</updated>
-        <summary type="html"><![CDATA[Andy Clarke with a brand-new resource. It generates the sort of fun typography that Andy commonly uses in his own work that's geared towards cartoon headings.
-Toon Title Text Generator originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Responsive List of Avatars Using Modern CSS (Part 1)]]></title>
-        <id>https://css-tricks.com/?p=390560</id>
-        <link href="https://css-tricks.com/responsive-list-of-avatars-using-modern-css-part-1/"/>
-        <updated>2025-12-15T16:19:23.000Z</updated>
-        <summary type="html"><![CDATA[A list of rounded images that slightly overlap each other is a classic web design pattern. The main idea is not complex, but the new thing is the responsive part. that dynamically adjusts the overlap between the images so they fit inside the container.
-Responsive List of Avatars Using Modern CSS (Part 1) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Else Could Container Queries… Query?]]></title>
-        <id>https://css-tricks.com/?p=390654</id>
-        <link href="https://css-tricks.com/what-else-could-container-queries-query/"/>
-        <updated>2025-12-12T14:38:18.000Z</updated>
-        <summary type="html"><![CDATA[How far can we really go with container queries? There are dozens of media queries now, so what if there were dozens of container queries as well? What could we use them for?
-What Else Could Container Queries… Query? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating Scroll-Based Animations in Full view()]]></title>
-        <id>https://css-tricks.com/?p=390516</id>
-        <link href="https://css-tricks.com/creating-scroll-based-animations-in-full-view/"/>
-        <updated>2025-12-10T15:04:08.000Z</updated>
-        <summary type="html"><![CDATA[It’s not that hard to do! Preethi shows you how it's really the same old animation you’re used to writing in CSS, only applied on a view timeline instead of a normal timeline.
-Creating Scroll-Based Animations in Full view() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Preethi</name>
         </author>
     </entry>
     <entry>
@@ -235,29 +146,6 @@ Creating Scroll-Based Animations in Full view() originally published on CSS-Tri
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS Wrapped 2025]]></title>
-        <id>https://css-tricks.com/?p=390785</id>
-        <link href="https://css-tricks.com/css-wrapped-2025/"/>
-        <updated>2025-12-09T15:52:20.000Z</updated>
-        <summary type="html"><![CDATA[The Chrome Dev Team recaps the new CSS features that shipped in Google Chrome this past year in one amazingly designed webpage. They cover new functionality for creating more customizable components, next-gen interactions, and optimizing ergonomics.
-We’ve …
-CSS Wrapped 2025 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Ryan Trimble</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fit width text in 1 line of CSS]]></title>
-        <id>https://css-tricks.com/?p=390777</id>
-        <link href="https://css-tricks.com/fit-width-text-in-1-line-of-css/"/>
-        <updated>2025-12-09T15:00:56.000Z</updated>
-        <summary type="html"><![CDATA[The Chrome team recently prototyped a working solution for fitting text to the width of a container in CSS using a text-grow property.
-Fit width text in 1 line of CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[State, Logic, And Native Power: CSS Wrapped 2025]]></title>
         <id>https://smashingmagazine.com/2025/12/state-logic-native-power-css-wrapped-2025/</id>
         <link href="https://smashingmagazine.com/2025/12/state-logic-native-power-css-wrapped-2025/"/>
@@ -265,17 +153,6 @@ Fit width text in 1 line of CSS originally published on CSS-Tricks, which is par
         <summary type="html"><![CDATA[CSS Wrapped 2025 is out! We’re entering a world where CSS can increasingly handle logic, state, and complex interactions once reserved for JavaScript. Here is an unpacking of the standout highlights and how they connect to the bigger evolution of modern CSS.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Brecht De Ruyte)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[That Time I Tried Explaining HTML and CSS to My 5-Year Old Niece]]></title>
-        <id>https://css-tricks.com/?p=390475</id>
-        <link href="https://css-tricks.com/that-time-i-tried-explaining-html-and-css-to-my-5-year-old-niece/"/>
-        <updated>2025-12-08T14:45:43.000Z</updated>
-        <summary type="html"><![CDATA[I would like to tell you what I learned from a five-year old child about HTML and CSS. It’s funny how explaining something you do almost naturally teaches you about yourself and what you take for granted.
-That Time I Tried Explaining HTML and CSS to My 5-Year Old Niece originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Kevine Nzapdi</name>
         </author>
     </entry>
     <entry>
@@ -289,17 +166,6 @@ That Time I Tried Explaining HTML and CSS to My 5-Year Old Niece originally publ
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTML Web Components Proposal From 1998]]></title>
-        <id>https://css-tricks.com/?p=390691</id>
-        <link href="https://css-tricks.com/html-web-components-proposal-from-1998/"/>
-        <updated>2025-12-05T18:16:48.000Z</updated>
-        <summary type="html"><![CDATA[It's easy to think of HTML Web Components as a recent feature, but it has roots that go all the way back to 1998.
-HTML Web Components Proposal From 1998 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Beyond The Black Box: Practical XAI For UX Practitioners]]></title>
         <id>https://smashingmagazine.com/2025/12/beyond-black-box-practical-xai-ux-practitioners/</id>
         <link href="https://smashingmagazine.com/2025/12/beyond-black-box-practical-xai-ux-practitioners/"/>
@@ -307,28 +173,6 @@ HTML Web Components Proposal From 1998 originally published on CSS-Tricks, which
         <summary type="html"><![CDATA[Explainable AI isn’t just a challenge for data scientists. It’s also a design challenge and a core pillar of trustworthy, effective AI products. Victor Yocco offers practical guidance and design patterns for building explainability into real products.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Victor Yocco)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Creative With “The Measure”]]></title>
-        <id>https://css-tricks.com/?p=390477</id>
-        <link href="https://css-tricks.com/getting-creative-with-the-measure/"/>
-        <updated>2025-12-04T14:04:52.000Z</updated>
-        <summary type="html"><![CDATA[A good measure makes reading text comfortable, while a bad one makes it more difficult. So, rather than allowing layout to dictate the measure, doesn’t it make more sense for the measure to inform layout decisions?
-Getting Creative With “The Measure” originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Andy Clarke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scrollytelling on Steroids With Scroll-State Queries]]></title>
-        <id>https://css-tricks.com/?p=390205</id>
-        <link href="https://css-tricks.com/scrollytelling-on-steroids-with-scroll-state-queries/"/>
-        <updated>2025-12-02T16:47:14.000Z</updated>
-        <summary type="html"><![CDATA[Unconvinced of the value of scrollytelling? Alright, skeptic, let’s first warm up with some common use cases for scroll-based styling.
-Scrollytelling on Steroids With Scroll-State Queries originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Lee Meyer</name>
         </author>
     </entry>
     <entry>
@@ -369,16 +213,6 @@ Scrollytelling on Steroids With Scroll-State Queries originally published on CSS
         <summary type="html"><![CDATA[We’re so happy to announce that “Maturing Design Systems”—a Smashing book by Ben Callahan — will soon be joining the Smashing Library! Ben’s insights and advice are so powerful, we thought you might like to read an excerpt from the book. Subscribe to our Smashing newsletter to be notified when orders are open.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ari Stiles)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing For Stress And Emergency]]></title>
-        <id>https://smashingmagazine.com/2025/11/designing-for-stress-emergency/</id>
-        <link href="https://smashingmagazine.com/2025/11/designing-for-stress-emergency/"/>
-        <updated>2025-11-24T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Practical guidelines on designing time-critical products that prevent errors and improve accuracy. Part of the Measure UX & Design Impact (use the code 🎟 IMPACT to save 20% off today). With a live UX training starting next week.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
