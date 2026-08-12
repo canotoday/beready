@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-11T02:00:58.549Z</id>
+    <id>urn:2026-08-12T02:15:56.278Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-11T02:00:58.549Z</updated>
+    <updated>2026-08-12T02:15:56.278Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Product Experimentation at Scale: How Airbnb, Netflix, Lyft, and Uber run Causal Inference on LLM-Based AI Features]]></title>
+        <id>6a7b522a304c202420dfd496</id>
+        <link href="https://www.freecodecamp.org/news/causal-inference-at-scale-with-case-studies/"/>
+        <updated>2026-08-11T16:47:38.000Z</updated>
+        <summary type="html"><![CDATA[Causal inference for LLM-based AI features is no longer theoretical. Airbnb, Netflix, Lyft, and Uber have published detailed engineering blog posts describing exactly how they measure the causal impac]]></summary>
+        <author>
+            <name>Rudrendu Paul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Automate Flutter Releases with Fastlane and GitHub Actions for Firebase App Distribution, Google Play, TestFlight, and App Store Connect]]></title>
+        <id>6a7b52064ac8f18a2a936e46</id>
+        <link href="https://www.freecodecamp.org/news/how-to-automate-flutter-releases-with-fastlane-and-github-actions/"/>
+        <updated>2026-08-11T16:47:02.000Z</updated>
+        <summary type="html"><![CDATA[Picture this: it's 4pm on a Friday, and your team has just merged the last feature for the sprint. But your product manager asks for a new build on TestFlight by the end of the day so the client can r]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Tactile UX: Honoring Intentional Design With Lottie]]></title>
+        <id>https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/</id>
+        <link href="https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/"/>
+        <updated>2026-08-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When tasked with building a highly interactive, tactile web experience, the architecture must serve the art direction. In this article, Alexey Kopytin explains their architectural rationale for building a digital stress-relief squeeze toy game using Lottie animations, DOM events, and distance-based math to maintain absolute control over their designers’ intentional motion.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Alexey Kopytin)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Product Experimentation with Doubly Robust Estimation: When Both Your Models Are Wrong in LLM Applications]]></title>
+        <id>6a7a662d92a5f4f663b525f9</id>
+        <link href="https://www.freecodecamp.org/news/doubly-robust-estimation-for-llm-product-experiments/"/>
+        <updated>2026-08-11T00:00:45.000Z</updated>
+        <summary type="html"><![CDATA[Your AI product shipped an agent-mode opt-in six months ago. You ran a propensity analysis, adjusted for engagement tier and query confidence, and reported a clean +8 percentage-point lift in task com]]></summary>
+        <author>
+            <name>Rudrendu Paul</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Get Your Side Project Seen and Gain Paying Users]]></title>
         <id>6a7a38d57c96966272403ab6</id>
@@ -23,28 +63,6 @@
         <summary type="html"><![CDATA[The gap between a demo that impresses and a system you can trust is measured in evals. I want to start with a story that's happening in hundreds of engineering teams right now. A team builds a RAG app]]></summary>
         <author>
             <name>Ayobami Adejumo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Animating CSS border-image]]></title>
-        <id>https://css-tricks.com/?p=394978</id>
-        <link href="https://css-tricks.com/animating-css-border-image/"/>
-        <updated>2026-08-10T15:58:47.000Z</updated>
-        <summary type="html"><![CDATA[Border images are an overlooked feature. One neat fact is that border image slices can run across entire borders on an element, and animating it creates beautiful effects.
-Animating CSS border-image originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SmashingConf Freiburg 2026, September 7-10]]></title>
-        <id>https://css-tricks.com/?p=396506</id>
-        <link href="https://css-tricks.com/smashingconf-freiburg-2026-september-7-10/"/>
-        <updated>2026-08-10T15:57:39.000Z</updated>
-        <summary type="html"><![CDATA[Smashing Magazine’s in-person conferences are back and returning to the wonderful city of Freiburg next month, September 7–10.
-SmashingConf Freiburg 2026, September 7-10 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -78,17 +96,6 @@ SmashingConf Freiburg 2026, September 7-10 originally handwritten and published 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Using and Styling the Dialog Element]]></title>
-        <id>https://css-tricks.com/?p=394753</id>
-        <link href="https://css-tricks.com/using-and-styling-the-dialog-element/"/>
-        <updated>2026-08-07T14:06:43.000Z</updated>
-        <summary type="html"><![CDATA[There's a lot of nuance to the <dialog> element, a seemingly little piece of web architecture. I've got some notes from digging into it.
-Using and Styling the Dialog Element originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How Baseline Can Help You Ship Less JavaScript]]></title>
         <id>https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/</id>
         <link href="https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/"/>
@@ -116,80 +123,6 @@ Using and Styling the Dialog Element originally handwritten and published with l
         <summary type="html"><![CDATA[Reading PDF documents for long periods can become tiring, especially when the document contains bright backgrounds or when you're working in a low-light environment. In other situations, designers, de]]></summary>
         <author>
             <name>Bhavin Sheth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSRF from Scratch: Browser Mechanics, Attacks, and Spring Security Implementation [Full Handbook]]]></title>
-        <id>6a74fe284ef5707f2879423d</id>
-        <link href="https://www.freecodecamp.org/news/csrf-from-scratch-browser-mechanics-attacks-and-spring-security-implementation-handbook/"/>
-        <updated>2026-08-06T21:35:36.000Z</updated>
-        <summary type="html"><![CDATA[If you've ever built a web application or configured Spring Security, you've almost certainly encountered Cross-Site Request Forgery (CSRF). In my previous guide, How OAuth 2.0 Works: A Practical Guid]]></summary>
-        <author>
-            <name>Ashutosh Krishna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why 2D Trapped-Ion Quantum Computers Could Be Easier to Scale Than 1D Architectures]]></title>
-        <id>6a74fbb23d5ed45ab0356528</id>
-        <link href="https://www.freecodecamp.org/news/why-2d-trapped-ion-quantum-computers-could-be-easier-to-scale-than-1d-architectures/"/>
-        <updated>2026-08-06T21:25:06.000Z</updated>
-        <summary type="html"><![CDATA[I still remember the first time I ran a Bell-state circuit on a quantum simulator. The code was only a few lines long, but it felt magical. Two qubits became entangled, and the simulator returned almo]]></summary>
-        <author>
-            <name>Casmir Onyekani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How an ECG on a Wrist Wearable Works and How It Compares to a Clinical Test]]></title>
-        <id>6a74c6e11a7e8d7040b2949f</id>
-        <link href="https://www.freecodecamp.org/news/how-smartwatch-ecg-works/"/>
-        <updated>2026-08-06T17:39:45.000Z</updated>
-        <summary type="html"><![CDATA[For decades, recording an electrocardiogram (ECG) meant visiting a hospital or clinic. The doctors would place multiple electrodes on your chest and limbs to capture your heart's electrical activity.]]></summary>
-        <author>
-            <name>Reetain Raina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026 State of CSS, Devs Surveys]]></title>
-        <id>https://css-tricks.com/?p=396471</id>
-        <link href="https://css-tricks.com/2026-state-of-css-devs-surveys/"/>
-        <updated>2026-08-06T15:54:52.000Z</updated>
-        <summary type="html"><![CDATA[A few notes and takeaways from the 2026 State of CSS survey results, including a nice CSS-Tricks cameo!
-2026 State of CSS, Devs Surveys originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gap Decorations Are Now Available, Here’s What’s New]]></title>
-        <id>https://css-tricks.com/?p=396204</id>
-        <link href="https://css-tricks.com/css-gap-decorations-now-available/"/>
-        <updated>2026-08-03T15:53:20.000Z</updated>
-        <summary type="html"><![CDATA[Today, with CSS gap decorations fully supported in Chrome and Edge, starting with version 149, you can now very easily style gaps, and with a lot of control.
-Gap Decorations Are Now Available, Here’s What’s New originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Sam Davis Omekarajr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get Ready For the Powerful CSS border-shape Property!]]></title>
-        <id>https://css-tricks.com/?p=395508</id>
-        <link href="https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/"/>
-        <updated>2026-07-31T15:14:00.000Z</updated>
-        <summary type="html"><![CDATA[We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!
-Get Ready For the Powerful CSS border-shape Property! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More]]></title>
-        <id>https://css-tricks.com/?p=396295</id>
-        <link href="https://css-tricks.com/whats-important-16/"/>
-        <updated>2026-07-31T14:06:21.000Z</updated>
-        <summary type="html"><![CDATA[The soon-Baseline sibling-index() function for animations, CSS and the 2026 FIFA World Cup, use cases for the infinity keyword, container "stuck" queries, and more.
-What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
     <entry>
@@ -233,21 +166,6 @@ What’s !important #16: sibling-index() Animations, Use Cases for the infinity 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[writing-mode]]></title>
-        <id>http://css-tricks.com/?page_id=244261</id>
-        <link href="https://css-tricks.com/almanac/properties/w/writing-mode/"/>
-        <updated>2026-07-21T09:39:10.000Z</updated>
-        <summary type="html"><![CDATA[The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress.
-.element {
-  writing-mode: vertical-rl;
-}
-This is most useful in languages such as Chinese, Japanese or …
-writing-mode originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Mojtaba Seyedi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[When It Makes Sense To “Block” The Main Thread]]></title>
         <id>https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/</id>
         <link href="https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/"/>
@@ -258,17 +176,6 @@ writing-mode originally handwritten and published with love on CSS-Tricks. You s
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[pointer-events]]></title>
-        <id>http://css-tricks.com/?page_id=18170</id>
-        <link href="https://css-tricks.com/almanac/properties/p/pointer-events/"/>
-        <updated>2026-07-15T19:57:51.000Z</updated>
-        <summary type="html"><![CDATA[The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should treat an element as interactive when the …
-pointer-events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Mojtaba Seyedi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[No, People Don’t Want More AI In Their Life]]></title>
         <id>https://smashingmagazine.com/2026/07/people-dont-want-more-ai/</id>
         <link href="https://smashingmagazine.com/2026/07/people-dont-want-more-ai/"/>
@@ -276,17 +183,6 @@ pointer-events originally handwritten and published with love on CSS-Tricks. You
         <summary type="html"><![CDATA[Many companies assume everyone craves new AI features. But the reality is that most people don't want more AI — at least not in the way most AI leaders envision it. Brought to you by Design Patterns For AI Interfaces, **friendly video courses on UX** and design patterns by Vitaly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More]]></title>
-        <id>https://css-tricks.com/?p=396027</id>
-        <link href="https://css-tricks.com/whats-important-15/"/>
-        <updated>2026-07-14T14:36:18.000Z</updated>
-        <summary type="html"><![CDATA[Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features.
-What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
 </feed>
