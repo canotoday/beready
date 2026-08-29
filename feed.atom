@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-28T10:40:51.832Z</id>
+    <id>urn:2026-08-29T06:27:40.340Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-28T10:40:51.832Z</updated>
+    <updated>2026-08-29T06:27:40.340Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Automate Your Tests in Express Using Vitest]]></title>
+        <id>6a91aa2c85465e213741c4de</id>
+        <link href="https://www.freecodecamp.org/news/how-to-automate-your-tests-in-express-using-vitest/"/>
+        <updated>2026-08-28T15:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Thinking through API logic while constantly switching tabs to test application integration can be overwhelming and time-consuming. Well, you can save your time and energy by writing tests for your app]]></summary>
+        <author>
+            <name>jabo Landry</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From Mixtral to Kimi K3: How Mixture-of-Experts Models Evolved]]></title>
         <id>6a90aca9476c6bda8e12cfef</id>
@@ -43,17 +53,6 @@
         <summary type="html"><![CDATA[The first time I was asked "what's your test coverage?" in a technical interview, I didn't have a good answer. I had shipped a couple of real Flutter apps by then. They worked and users were using the]]></summary>
         <author>
             <name>Gidudu Nicholas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating Web Widgets Using the Document Picture-in-Picture API]]></title>
-        <id>https://css-tricks.com/?p=395259</id>
-        <link href="https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/"/>
-        <updated>2026-08-27T14:41:06.000Z</updated>
-        <summary type="html"><![CDATA[The general idea is that we create a Document Picture-in-Picture window (DPIP window), and then we put HTML, CSS, and JavaScript into it.
-Creating Web Widgets Using the Document Picture-in-Picture API originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
     <entry>
@@ -107,27 +106,6 @@ Creating Web Widgets Using the Document Picture-in-Picture API originally handwr
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Flashcard Study App with Next.js and MongoDB]]></title>
-        <id>6a8f26c8d7f59479db2c21fd</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-flashcard-study-app-with-next-js-and-mongodb/"/>
-        <updated>2026-08-26T17:47:52.000Z</updated>
-        <summary type="html"><![CDATA[If you've ever crammed for an exam the night before, you know how hard it is to remember everything. Flashcards are one of the most effective study tools because they use active recall: you actively t]]></summary>
-        <author>
-            <name>David Aniebo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[animation-trigger]]></title>
-        <id>https://css-tricks.com/?page_id=394713</id>
-        <link href="https://css-tricks.com/almanac/properties/a/animation-trigger/"/>
-        <updated>2026-08-26T15:38:41.000Z</updated>
-        <summary type="html"><![CDATA[The CSS animation-trigger property allows you to delay the start of a CSS animation until a specific trigger occurs.
-animation-trigger originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Saleh Mubashar</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions]]></title>
         <id>https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/</id>
         <link href="https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/"/>
@@ -135,17 +113,6 @@ animation-trigger originally handwritten and published with love on CSS-Tricks. 
         <summary type="html"><![CDATA[Data visualisation sits at the intersection of two disciplines that rarely talk to each other: data and design. Meriem Benhabiles explores what changes when you bring structured UX thinking to dashboards and data presentations, from the questions you ask before opening any tool to the decisions that determine whether an insight actually lands.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Meriem Benhabiles)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MicroLighter: Syntax Highlighter]]></title>
-        <id>https://css-tricks.com/?p=396665</id>
-        <link href="https://css-tricks.com/microlighter-syntax-highlighter/"/>
-        <updated>2026-08-25T14:10:34.000Z</updated>
-        <summary type="html"><![CDATA[Syntax highlighting for code blocks without the complicated markup, spans, classes, and bloated JavaScript, courtesy of Uncle Dave.
-MicroLighter: Syntax Highlighter originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -159,28 +126,6 @@ MicroLighter: Syntax Highlighter originally handwritten and published with love 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WordPress PHP-Only Block Registration]]></title>
-        <id>https://css-tricks.com/?p=395401</id>
-        <link href="https://css-tricks.com/wordpress-php-block-registration/"/>
-        <updated>2026-08-24T13:54:02.000Z</updated>
-        <summary type="html"><![CDATA[Seven and half years after blocks arrived in Core, WordPress introduces a way to build blocks without React annd build pipelines. All you need is PHP.
-WordPress PHP-Only Block Registration originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Fränk Klein</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Resolved: CSS Class Prefix Selector]]></title>
-        <id>https://css-tricks.com/?p=396644</id>
-        <link href="https://css-tricks.com/resolved-css-class-prefix-selector/"/>
-        <updated>2026-08-21T15:13:03.000Z</updated>
-        <summary type="html"><![CDATA[A newly resolved proposal would allow us to select classes that are a prefix for variations with a wildcard, like .prefix-*.
-Resolved: CSS Class Prefix Selector originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Timing Charts: A Blueprint For SMIL Animations]]></title>
         <id>https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/</id>
         <link href="https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/"/>
@@ -188,50 +133,6 @@ Resolved: CSS Class Prefix Selector originally handwritten and published with lo
         <summary type="html"><![CDATA[Discover SMIL, the often-overlooked way to animate SVGs that works inside `` tags and can fully animate everything in an SVG without JavaScript.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Johan Grobler)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Navigation Matching, Early Days]]></title>
-        <id>https://css-tricks.com/?p=396428</id>
-        <link href="https://css-tricks.com/css-navigation-matching-early-days/"/>
-        <updated>2026-08-19T14:44:41.000Z</updated>
-        <summary type="html"><![CDATA[Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than managing that stuff in JavaScript.
-CSS Navigation Matching, Early Days originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordPress.com Student Plan]]></title>
-        <id>https://css-tricks.com/?p=396623</id>
-        <link href="https://css-tricks.com/wordpress-student-plan/"/>
-        <updated>2026-08-19T08:50:00.000Z</updated>
-        <summary type="html"><![CDATA[As someone who teaches beginning web development, I find that building a WordPress site makes for a great final project. Hosting those projects has always been a roadblock though.
-WordPress.com Student Plan originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dark mode toggles: two states are enough]]></title>
-        <id>https://css-tricks.com/?p=396545</id>
-        <link href="https://css-tricks.com/dark-mode-toggles-two-states-are-enough/"/>
-        <updated>2026-08-17T14:15:50.000Z</updated>
-        <summary type="html"><![CDATA[Lea's pushing back on light/dark mode implementations that display three state options for visitors: light, dark, and system.
-Dark mode toggles: two states are enough originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More]]></title>
-        <id>https://css-tricks.com/?p=396557</id>
-        <link href="https://css-tricks.com/whats-important-17/"/>
-        <updated>2026-08-14T14:01:51.000Z</updated>
-        <summary type="html"><![CDATA[Plus, how to style skeleton UIs, how to enable diagonal scrolling, how images can overflow themselves, and yet, still more. Basically, how to do a lot of really cool (CSS) stuff.
-What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
     <entry>
@@ -245,17 +146,6 @@ What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing t
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong]]></title>
-        <id>https://css-tricks.com/?p=396255</id>
-        <link href="https://css-tricks.com/blocked-aria-hidden-fix/"/>
-        <updated>2026-08-12T13:43:56.000Z</updated>
-        <summary type="html"><![CDATA[The warning is correct. And the recommended fixes you've probably seen are wrong. Here's what you can do instead to properly fix the issue.
-Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Durgesh Rajubhai Pawar</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Building Tactile UX: Honoring Intentional Design With Lottie]]></title>
         <id>https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/</id>
         <link href="https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/"/>
@@ -266,39 +156,6 @@ Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Animating CSS border-image]]></title>
-        <id>https://css-tricks.com/?p=394978</id>
-        <link href="https://css-tricks.com/animating-css-border-image/"/>
-        <updated>2026-08-10T15:58:47.000Z</updated>
-        <summary type="html"><![CDATA[Border images are an overlooked feature. One neat fact is that border image slices can run across entire borders on an element, and animating it creates beautiful effects.
-Animating CSS border-image originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SmashingConf Freiburg 2026, September 7-10]]></title>
-        <id>https://css-tricks.com/?p=396506</id>
-        <link href="https://css-tricks.com/smashingconf-freiburg-2026-september-7-10/"/>
-        <updated>2026-08-10T15:57:39.000Z</updated>
-        <summary type="html"><![CDATA[Smashing Magazine’s in-person conferences are back and returning to the wonderful city of Freiburg next month, September 7–10.
-SmashingConf Freiburg 2026, September 7-10 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using and Styling the Dialog Element]]></title>
-        <id>https://css-tricks.com/?p=394753</id>
-        <link href="https://css-tricks.com/using-and-styling-the-dialog-element/"/>
-        <updated>2026-08-07T14:06:43.000Z</updated>
-        <summary type="html"><![CDATA[There's a lot of nuance to the <dialog> element, a seemingly little piece of web architecture. I've got some notes from digging into it.
-Using and Styling the Dialog Element originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How Baseline Can Help You Ship Less JavaScript]]></title>
         <id>https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/</id>
         <link href="https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/"/>
@@ -306,28 +163,6 @@ Using and Styling the Dialog Element originally handwritten and published with l
         <summary type="html"><![CDATA[The gap between “you need a library for this” and “the browser does this” keeps closing. A practical guide to auditing your dependencies and finding what the web platform can now handle for you.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Jad Joubran)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026 State of CSS, Devs Surveys]]></title>
-        <id>https://css-tricks.com/?p=396471</id>
-        <link href="https://css-tricks.com/2026-state-of-css-devs-surveys/"/>
-        <updated>2026-08-06T15:54:52.000Z</updated>
-        <summary type="html"><![CDATA[A few notes and takeaways from the 2026 State of CSS survey results, including a nice CSS-Tricks cameo!
-2026 State of CSS, Devs Surveys originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gap Decorations Are Now Available, Here’s What’s New]]></title>
-        <id>https://css-tricks.com/?p=396204</id>
-        <link href="https://css-tricks.com/css-gap-decorations-now-available/"/>
-        <updated>2026-08-03T15:53:20.000Z</updated>
-        <summary type="html"><![CDATA[Today, with CSS gap decorations fully supported in Chrome and Edge, starting with version 149, you can now very easily style gaps, and with a lot of control.
-Gap Decorations Are Now Available, Here’s What’s New originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Sam Davis Omekarajr</name>
         </author>
     </entry>
     <entry>
